@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 Universidad Peruana de Ciencias Aplicadas 
 
 Ingeniería de Software
@@ -195,32 +194,33 @@ Más que facilitar la creación de camisetas, en Teelab by Quri impulsamos que c
 | **Alumno: Curipaco Huayllani, Neil Aldrin Wilhelm <br/>Código:  u20231b866<br/>Carrera:  Ingeniería de Software** |                                                              |
 | Soy Neil Curipaco Huayllani. Estoy cursando el 4to ciclo de la carrera de Ingeniería de Software en la UPC. Me gusta jugar videojuegos, aprender cosas nuevas, escuchar música y mejorar mis habilidades para ser de ayuda en el equipo de trabajo del que formo parte. | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeHKBzSxM0nd5UDQhf39dVPwACpvcX_9Ene_8-0kJrIJuxky7Qr8-AmsEhk19guYyXX7jChlRtYL9dPlATpSL3cmhKaUFeashs8RsHrf7x9N81g7srwJijm8stJEKfTDgcJmsVBwQ?key=wLsuErVgqDz-qczrBI4kMctR" alt="img" style="zoom:60%;" /> |
 
+
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
-
 Como parte del proceso de definición de la problemática, se aplicó la técnica **The 5 W’s and 2 H’s** (Who, What, Where, When, Why, How, How Much), permitiendo estructurar de manera preliminar la descripción de los antecedentes y el planteamiento del problema.
 
 1. Who (Quién)
-   Los principales stakeholders identificados son tres grupos: consumidores que desean expresar su identidad a través de camisetas personalizadas, diseñadores independientes que buscan monetizar sus creaciones, y pequeñas marcas o emprendimientos que necesitan desarrollar productos únicos para diferenciarse en el mercado.
+Los principales stakeholders identificados son tres grupos: consumidores que desean expresar su identidad a través de camisetas personalizadas, diseñadores independientes que buscan monetizar sus creaciones, y pequeñas marcas o emprendimientos que necesitan desarrollar productos únicos para diferenciarse en el mercado.
 
 2. What (Qué)
-   Actualmente, el mercado enfrenta una fragmentación en el proceso de personalización de prendas. Los usuarios encuentran plataformas que permiten diseñar camisetas, pero que no integran producción ni logística de entrega. Del mismo modo, los diseñadores y emprendedores carecen de herramientas accesibles que conecten la creación, producción y venta de productos personalizados en un solo flujo de trabajo.
+Actualmente, el mercado enfrenta una fragmentación en el proceso de personalización de prendas. Los usuarios encuentran plataformas que permiten diseñar camisetas, pero que no integran producción ni logística de entrega. Del mismo modo, los diseñadores y emprendedores carecen de herramientas accesibles que conecten la creación, producción y venta de productos personalizados en un solo flujo de trabajo.
 
 3. Where (Dónde)
-   El problema se manifiesta en el entorno digital de América Latina, donde las soluciones existentes suelen ser extranjeras, enfocadas en otros mercados, o presentan limitaciones de acceso, usabilidad o costos elevados para el público local.
+El problema se manifiesta en el entorno digital de América Latina, donde las soluciones existentes suelen ser extranjeras, enfocadas en otros mercados, o presentan limitaciones de acceso, usabilidad o costos elevados para el público local.
 
 4. When (Cuándo)
-   La necesidad se intensifica en la última década, en el contexto de una tendencia creciente hacia la autoexpresión individual, el consumo responsable, la producción bajo demanda, y la preferencia de los consumidores por productos únicos frente a la estandarización de la moda masiva.
+La necesidad se intensifica en la última década, en el contexto de una tendencia creciente hacia la autoexpresión individual, el consumo responsable, la producción bajo demanda, y la preferencia de los consumidores por productos únicos frente a la estandarización de la moda masiva.
 
 5. Why (Por qué)
-   La ausencia de plataformas integrales impide que usuarios, diseñadores y fabricantes colaboren de forma eficiente, limitando la creatividad, incrementando costos de producción, y generando barreras de entrada para nuevos actores en el sector de la moda personalizada. Esta problemática impacta negativamente tanto en el potencial de ingresos de los diseñadores como en la experiencia de personalización de los usuarios.
+La ausencia de plataformas integrales impide que usuarios, diseñadores y fabricantes colaboren de forma eficiente, limitando la creatividad, incrementando costos de producción, y generando barreras de entrada para nuevos actores en el sector de la moda personalizada. Esta problemática impacta negativamente tanto en el potencial de ingresos de los diseñadores como en la experiencia de personalización de los usuarios.
 
 6. How (Cómo)
-   Actualmente, los procesos están desarticulados: un usuario diseña en una plataforma, debe contratar producción en otra, y gestionar la logística de manera independiente, lo que genera fricciones, demoras, errores de manufactura y costos adicionales.
+Actualmente, los procesos están desarticulados: un usuario diseña en una plataforma, debe contratar producción en otra, y gestionar la logística de manera independiente, lo que genera fricciones, demoras, errores de manufactura y costos adicionales.
 
 7. How Much (Cuánto)
-   El impacto económico incluye desde sobrecostos de hasta un 40% por externalización de procesos dispersos, hasta limitaciones para producir pequeñas cantidades rentables, lo cual afecta especialmente a microemprendedores y diseñadores independientes.
+El impacto económico incluye desde sobrecostos de hasta un 40% por externalización de procesos dispersos, hasta limitaciones para producir pequeñas cantidades rentables, lo cual afecta especialmente a microemprendedores y diseñadores independientes.
 
 Con base en este análisis preliminar, se identifica como problemática principal la falta de un ecosistema digital unificado que permita diseñar, visualizar en tiempo real, producir y adquirir camisetas personalizadas de manera eficiente, accesible y sostenible.
 
@@ -446,7 +446,6 @@ Este trabajo metodológico permitió no solo establecer un marco claro de experi
      - Buscan herramientas que automaticen procesos de diseño, compra y conexión con proveedores.
      - Valoran experiencias B2B simples, flexibles y que permitan control total del diseño y venta de productos personalizados.
 
-     
 # 2. Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 
@@ -487,7 +486,6 @@ A partir del análisis competitivo realizado en el Landscape anterior, se propon
 | Rafasshop<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXepnYecX_8Sddf74MZQt-KVEKLktUQ5l2HDqKITzNTe8LQwGoxG159ElHU_YNq_FHFiLA0Z-lvaVzS7QnjbjE1kr9Q3ZoGko2GfrLPrPj1QR_6PvC4qzpilCyFJJ14RlWyER_pXCw?key=wLsuErVgqDz-qczrBI4kMctR" alt="img" style="zoom:25%;" /> | Según nuestro equipo hemos decidido brindar una visibilidad a nuestro startup con nuestras estrategias de marketing. También, proporcionarles las herramientas necesarias para la creación de diseños en el público casual y brindar funciones avanzadas para diseñadores y artistas. |
 
 ## 2.2. Entrevistas
-
 Con el objetivo de obtener información detallada acerca de las necesidades, expectativas y frustraciones de los usuarios, se realizaron entrevistas estructuradas dirigidas a los segmentos previamente definidos: diseñadores gráficos, clientes individuales y marcas o emprendedores.
 
 El diseño de las entrevistas se elaboró considerando formularios específicos para cada segmento, formulando preguntas abiertas que permitieran al entrevistado expresar libremente sus experiencias, preferencias y expectativas. Entre los aspectos abordados se incluyen datos demográficos básicos, plataformas de uso frecuente, interés en la personalización de productos, percepción de calidad, procesos de compra y gestión de pedidos.
@@ -497,12 +495,10 @@ Cada entrevista fue registrada en video y complementada con un resumen descripti
 La metodología aplicada garantizó la recolección de información rica en contexto, necesaria para una correcta definición de requisitos y el diseño de una plataforma que responda de manera efectiva a las necesidades reales de los usuarios.
 
 ### 2.2.1. Diseño de Entrevistas
-
 En esta sección vamos a identificar la información que necesitamos obtener desde los segmentos objetivos previamente trazados. Para la información básica del entrevistado se usará un formulario básico a través del siguiente enlace:
 https://docs.google.com/forms/d/e/1FAIpQLSeN95VQkNjjTguK6R0V3ZLIerQQuHjVMv-o2MGmCpnhD_XX2w/viewform?usp=sharing 
 
 ### 2.2.2. Registro de entrevistas
-
 1. Formulario para Diseñadores
 
    **Preguntas objetivas:**
@@ -553,7 +549,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSeN95VQkNjjTguK6R0V3ZLIerQQuHjVMv-o2MGm
    - ¿Qué fuentes o canales consultas para informarte sobre tendencias de moda o novedades relacionadas con ropa personalizada?
 
 ### 2.2.3. Análisis de entrevistas
-
 En este apartado se documenta de manera estructurada cada una de las entrevistas realizadas a los diferentes segmentos objetivo. Para cada entrevista, se incluye información relevante como el perfil del entrevistado, el registro de sus respuestas, observaciones contextuales, y un resumen de los principales hallazgos obtenidos.
  Esta sistematización permite asegurar la trazabilidad de los datos recolectados, facilitando su posterior análisis y su utilización en la construcción de artefactos de usuario, tales como User Personas, Empathy Maps y User Task Matrices.
 
@@ -595,8 +590,6 @@ En este apartado se documenta de manera estructurada cada una de las entrevistas
 | **Instante en el que inicia:** 18 minutos y 19 minutos       | **Duración:** 3 minutos y 25 segundos |
 | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf5yTg3jWyNlvVbRc2bhj7siw32FvlzQBF5QDHdo7ujgpFAGrAP_cYMIPZUvKuIiCP3JiWDDcLBz-GKGp1NnIPKJ4dseBM8VvF3grnCpeJikfu4KpGpdTx7Qdk0ykhzfdmwgPCY?key=wLsuErVgqDz-qczrBI4kMctR" alt="img" style="zoom:33%;" /> |                                       |
 | Resumen:<br/>Lenny Torres, afirma que sus clientes principales incluyen tanto instituciones deportivas privadas como públicas, así como varios otros tipos de clubes. Señala la necesidad de satisfacer una gran demanda de camisetas en un corto período de tiempo como el desafío más importante. Su servicio ofrece diseños personalizados, así como la opción de utilizar diseños proporcionados por los clientes, y actualmente gestionan los pedidos a través de procesos predefinidos.<br/>Respecto a sus herramientas de trabajo, Lenny utiliza una computadora de escritorio para coordinar la gestión de pedidos y preparar los diseños. Para estar actualizado en cuanto a tendencias de moda y novedades sobre camisetas, recurre principalmente a Instagram, YouTube y sitios especializados en moda deportiva. Para el diseño y edición de los artes finales, emplea CorelDRAW y Adobe Illustrator, programas que considera eficientes para el flujo de trabajo rápido que su producción requiere.<br/><br/>Datos adicionales:<br/>Tipo de clientes: Instituciones deportivas públicas y privadas, clubes.<br/>Principales desafíos: Atender pedidos grandes en plazos cortos.<br/>Dispositivos usados: Computadora de escritorio.<br/>Programas de edición utilizados: CorelDRAW y Adobe Illustrator.<br/>Canales de información sobre tendencias: Instagram, YouTube, páginas especializadas en moda deportiva.<br/>Motivations:<br/> Atender grandes volúmenes de pedidos en tiempos cortos, ofrecer flexibilidad entre diseños personalizados y predefinidos.<br/>Frustrations:<br/> Presión de tiempos de entrega por alta demanda, complejidad en la producción masiva.<br/>Browsers:<br/> Instagram, YouTube, sitios de moda deportiva.<br/>Devices:<br/>Computadora de escritorio. |                                       |
-
-### 
 
 ### 2.2.4. Needfinding
 Para identificar las necesidades reales de nuestros usuarios, se realizaron entrevistas a tres segmentos clave: diseñadores, usuarios generales y marcas/emprendedores. A través de estas conversaciones, se descubrieron patrones comunes y específicos en cada grupo, como la necesidad de herramientas intuitivas para la personalización de camisetas, la importancia de la calidad del material, la valorización de diseños únicos, y la demanda de una comunicación eficiente entre creadores y compradores. Este proceso de needfinding permitió comprender a fondo los deseos, frustraciones y expectativas de los usuarios, sentando las bases para el diseño de una plataforma que responda verdaderamente a sus necesidades.
@@ -767,7 +760,6 @@ Segmento Objetivo #3: Marcas Emergentes y Emprendedores
 
 ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcGgC1b3pcZU6XaZfEwggSYqZXAOEmtcWoOQSDrbJuKO0Lsz9Gu3jfUFU5RLD41IeFA51vX1O1Rpg-t1zgk-kaaHlSkOKYptgn3XYn_R8mAkqoCXu_knj00NrRQJG528HrnIHj7IA?key=wLsuErVgqDz-qczrBI4kMctR)
 
-
 ## 2.3. Ubiquitous Language
 
 
@@ -812,9 +804,7 @@ Segmento Objetivo #3: Marcas Emergentes y Emprendedores
 | Payment State              | Status representing the confirmation and completion of the payment process. |
 
 # 3. Capítulo III: Requirements Specification
-
 ## 3.1. To-Be Scenario Mapping
-
 El presente To-be Scenario Map ha sido elaborado como resultado del proceso de Requirements Analysis y de la aplicación de los principios de Design Thinking, siguiendo el enfoque centrado en el usuario propuesto por la metodología del curso. El objetivo de este artefacto es visualizar la experiencia futura deseada del usuario, a partir de los insights recolectados en el Empathy Map, el User Persona y, especialmente, el As-is Scenario Mapping.
 
 Este ejercicio permite anticipar una solución funcional y emocionalmente satisfactoria, incorporando mejoras específicas que atienden los puntos de fricción previamente identificados, y proyectando un flujo que se alinea con las necesidades reales del usuario.
@@ -853,7 +843,6 @@ Segmento Objetivo #3: Marcas Emergentes y Emprendedores
 ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfrHAZipwr-B0DkZ6dS45LWGbG7DznPNNqZ14wG-0ErUVl7JNw3AbBEwkDIDXgjCiy6uMdnWpJ6zIvVcjkJ--R_tqDKx1MVn6bz1K8J1LhLxiIMOthHqHUMyOyelsVySG-zI2Ai?key=wLsuErVgqDz-qczrBI4kMctR)
 
 ## 3.2. User Stories
-
 Para el desarrollo de la plataforma "Quri – TeeLab", se seleccionaron trece épicas fundamentales que cubren el ciclo de vida completo de interacción del usuario, desde la llegada al sistema hasta la producción, compra y gestión de camisetas personalizadas. Estas épicas fueron definidas estratégicamente bajo el enfoque de *Domain-Driven Design*, delimitando *bounded contexts* funcionales que permiten independencia, escalabilidad y claridad de responsabilidades entre dominios.
 
 Cada épica representa un conjunto de funcionalidades que abordan necesidades específicas de los distintos roles definidos en nuestro lenguaje ubicuo: Garment Designer, Blueprint Designer, Customer, Manufacturer y Platform Administrator.
@@ -1096,7 +1085,6 @@ Se usaron criterios como: consistencia semántica, trazabilidad, claridad de pro
 | US211       | Save payment method, status, and timestamps per transaction  | As a Developer, I want to store fields like payment method, transaction ID, timestamp, amount, and status in the database. | Feature: Save Transaction Details Scenario: Persist transaction details to databaseWhen a transaction completesThen the payment method, amount, status, timestamp, and reference ID are saved | 13       |
 
 ## 3.3. Impact Mapping
-
 El Impact Mapping es una técnica estratégica que ayuda a alinear los objetivos del negocio con las decisiones técnicas y funcionales del producto. A través de una visualización jerárquica tipo árbol, esta metodología conecta las metas comerciales con los actores involucrados, sus impactos esperados y las funcionalidades requeridas. En el caso de Quri, el Impact Mapping se utilizó para estructurar de manera clara cómo las funcionalidades específicas de la plataforma contribuyen a alcanzar objetivos SMART del negocio, considerando a sus principales User Personas.
 
 Para el proyecto Quri – TeeLab se elaboró un *Impact Map* siguiendo las buenas prácticas de diseño centrado en el usuario. En este artefacto se definieron:
@@ -1125,7 +1113,6 @@ Este mapa fue desarrollado en UX Pressia herramienta visual colaborativa y sirvi
 ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfCzDYY7LUWSWZG8eBCmP1uKizTDaxfa_tNkMm5wYEw39H2n8v8PlJEl_VXRCo-fkSiGFlYx7BmeR-X4w-blFp5kS4kI-m1YpfeaRgyRS2go2ZR_HAIXrP7CgjzF_8G6opRv1TviQ?key=wLsuErVgqDz-qczrBI4kMctR)
 
 ## 3.4. Product Backlog
-
 | **Id** | **StoryID** | **Tittle**                                                   | **Description**                                              | **Story Points** |
 | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- |
 | 1      | US01        | Change the language of the website                           | As a visitor, I want to change the language of the page so that I feel more comfortable in my native language. | 5                |
@@ -1339,3 +1326,2495 @@ Este mapa fue desarrollado en UX Pressia herramienta visual colaborativa y sirvi
 | 209    | US209       | Validate payment status before initiating new charge         | As a Developer, I want to check if the order has already been paid before allowing a new transaction to be submitted. | 2                |
 | 210    | US210       | Store transaction metadata for auditing                      | As a Platform Administrator, I want to access payment metadata for each transaction so that I can audit or resolve disputes. | 2                |
 | 211    | US211       | Save payment method, status, and timestamps per transaction  | As a Developer, I want to store fields like payment method, transaction ID, timestamp, amount, and status in the database. | 5                |
+
+# 4. Capítulo IV: Product Design
+## 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines
+La sección General Style Guidelines establece los lineamientos visuales fundamentales que rigen la interfaz de usuario de la plataforma Quri. Su propósito es garantizar una experiencia consistente, coherente y accesible en todos los puntos de interacción.
+
+Este apartado define los principios de estilo que permiten mantener uniformidad visual a lo largo del sistema, facilitando la comprensión del contenido, la navegación intuitiva y el reconocimiento de elementos interactivos. A través de la estandarización de aspectos como la tipografía, la paleta cromática, el uso de íconos y los patrones de espaciado, se busca fortalecer la identidad visual de la plataforma y optimizar la usabilidad.
+
+En las siguientes subsecciones se detallan los elementos clave del diseño gráfico general: tipografías utilizadas, códigos de color, estilos de botones, distribución espacial, y consideraciones de accesibilidad que guían el desarrollo visual de la interfaz.
+
+1. Tipografia
+
+La familia tipográfica oficial del sistema es Istok Web, una fuente sans-serif pensada para interfaces limpias y modernas. Se ha definido la siguiente jerarquía:
+
+- Encabezados (H1, H2, H3): estilo bold, con tamaños de 24px, 32px y 40px según nivel.
+- Texto principal: estilo regular, tamaño base de 16px para garantizar legibilidad.
+- Elementos interactivos (botones, menús): estilo semi-bold, con espaciado adecuado y alineación centrada.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXccEYpri6O1mLf610156jz_iU5Opcsvvf9o2Ok1JkYLcYFhMqMY8m2tkmPzmQRF67yImzsDsUiuQnL490Vglbvp7Ry-AQ9q0vrRaAMPU6c4onIiK3cmUF3mrQBpZSj6V2fd5SR1?key=wLsuErVgqDz-qczrBI4kMctR)
+
+1. Paleta de Colores
+
+La paleta cromática de la plataforma se basa en combinaciones de alto contraste y colores vibrantes para reforzar jerarquía visual, accesibilidad y marca:
+
+| **Color**                 | **Uso Principal**                                            |
+| ------------------------- | ------------------------------------------------------------ |
+| #FFFFFF (blanco)          | Fondo base de pantallas y secciones principales.             |
+| #000000 (negro)           | Texto principal y alto contraste en fondos claros.           |
+| #D8D9DA (gris claro)      | Bordes, separadores y fondos secundarios.                    |
+| #1689F4 (azul cielo)      | Botones primarios, íconos activos y enlaces.                 |
+| #0061EC (azul oscuro)     | Estados hover o énfasis visual en CTA importantes.           |
+| #444444 (gris medio, 50%) | Texto secundario, placeholders y etiquetas.                  |
+| #9345B7 (morado)          | Acentos visuales, íconos decorativos o destacados especiales. |
+
+Todos los colores cumplen con los niveles AA/AAA de contraste según las Web Content Accessibility Guidelines (WCAG 2.1), garantizando legibilidad y uso inclusivo.
+
+1. Estilo Visual e Iconografía
+
+El sistema utiliza íconos planos (flat design), sin sombras ni degradados, alineados a los principios de claridad visual. Los íconos se utilizan con un tamaño estándar de 24px y color azul (#1689F4) o morado (#9345B7) según el contexto de acción o decoración.
+
+1. Botones y estado 
+
+Los botones respetan consistencia visual y accesibilidad:
+
+- Primario: fondo #1689F4 con texto blanco.
+- Hover: cambia a #0061EC para feedback inmediato.
+- Desactivado: gris #D8D9DA con texto #444444 (50%).
+
+Todos los botones tienen esquinas redondeadas (radio: 8px), padding vertical de 12px y horizontal de 24px.
+
+1. Espaciado y Layout
+
+Se adopta una retícula de 12 columnas con márgenes flexibles (gutter 24px), asegurando adaptabilidad responsive. El espacio entre secciones mayores es de 48px. Se promueve el uso de espacios en blanco para mejorar el foco atencional y reducir carga cognitiva.
+
+1. Consistencia Multidispositivo
+
+El diseño se adapta bajo una filosofía mobile-first, garantizando experiencia óptima desde dispositivos móviles hasta escritorio, con ajuste dinámico de tipografías, tamaños de botones y layouts.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcCF2PfQkhYXGDcVBuIc-hATTo-Aq1DQyrHVPvw5dUUIozBDboXCTKz9UEGZs06OUtDRjnN0y7uZZZ7ap0pkzuYdTMjnTlwq8-vDexl507HM4OZUB0Uexl6m4a41rhuLp-Vv4HO?key=wLsuErVgqDz-qczrBI4kMctR)
+
+### 
+
+### 4.1.2. Web Style Guidelines
+Esta sección detalla los lineamientos visuales específicos aplicados a los componentes web interactivos de la plataforma Quri. El objetivo es asegurar coherencia estética, claridad funcional y accesibilidad, alineadas a la identidad visual de marca y los principios de diseño centrado en el usuario. Se abordan elementos clave como botones, enlaces, íconos, encabezado y pie de página, así como el tono comunicacional proyectado por cada uno.
+
+1. Botones Principales (CTA Buttons)
+
+Los botones de acción como "Start Designing Now" y "Start Creating" están diseñados para atraer la atención del usuario y guiarlo hacia acciones prioritarias:
+
+- Color de fondo: Azul vibrante (#0061EC) que comunica dinamismo y confianza.
+- Tipografía: Istok Web Bold, 14px, centrada, con formato tipo título.
+- Color del texto: Blanco puro (#FFFFFF), asegurando contraste y legibilidad.
+- Forma: Esquinas redondeadas al máximo (corner radius: 999px), lo que comunica amabilidad y modernidad.
+
+Tono comunicacional:
+
+- Serio pero cercano: profesional sin rigidez.
+- Casual con intención: directo, moderno y accesible.
+- Respetuoso y entusiasta: invita a la acción sin agresividad.
+
+Botones Informativos (FAQ, About, Team):
+
+- Color de fondo: Blanco puro (#FFFFFF).
+- Texto: Negro absoluto (#000000), Istok Web Regular, 16px.
+- Estilo: Diseño plano sin decoraciones. Se comportan como enlaces, con jerarquía secundaria.
+- Tono comunicacional:
+- Serio y sereno: priorizan la información.
+- Casual y accesible: por el lenguaje directo y limpio.
+- Respetuoso: sin distracciones visuales, favoreciendo la lectura.
+
+Botones de Usuario (Join y Login)
+
+- Join
+
+- Fondo: #FFFFFF
+- Texto: #000000
+
+- **Login**
+
+  - Fondo: #000000
+
+  - Texto: #FFFFFF
+
+    
+
+- **Tipografía:** Istok Web Regular, 14px.
+
+  
+
+- **Forma:** Esquinas completamente redondeadas (999px), formato cápsula.
+
+  
+
+- **Estilo:** Centrado, sin bordes, con fuerte contraste para jerarquía visual.
+
+  
+
+**Tono comunicacional:**
+
+- Serio, casual y directo.
+- Respetuoso: permite elegir acción sin presiones.
+- Entusiasta: el botón de Login destaca como acción principal.
+
+Enlaces de navegación
+
+- **Texto:** Blanco puro (#FFFFFF).
+
+- **Fondo:** Negro absoluto (#000000).
+
+  
+
+**Tipografía:**
+
+- **Home Page** – Istok Web, 16px (primaria).
+- **Community** – Istok Web, 12px (secundaria).
+- **Estilo visual:** Sin subrayado, alineación limpia, sin adornos.
+
+**Tono comunicacional:**
+
+- *Profesional y enfocado*, gracias al contraste.
+
+  
+
+- *Casual y moderno*, por el uso de sans serif.
+
+- *Respetuoso*, con jerarquía clara y navegación fluida.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_v8YFOchjl0SvqrHhuketywvwuT9gCYkXcEfudhSmKdMRa5rib27UVR4go71_usDF7Flkr1fdSZOOkBvEoWWgwdIWElSUr4vyybtfnAWCLo9ky6pdQA4z2Mx-koUBBCG_ynZahA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+**Header**
+
+El encabezado actúa como ancla visual y centro de navegación principal:
+
+- **Elementos:** Logotipo a la izquierda, enlaces a la derecha (FAQ, About, Team, Login, Join).
+- **Estilo:** Barra superior fija con distribución horizontal y espaciado uniforme.
+- **Tipografía y colores:** Coherentes con los botones y enlaces anteriores.
+
+**Tono comunicacional:**
+
+- *Serio*: estructura informativa.
+- *Casual y respetuoso*: lenguaje accesible, sin recargar visualmente.
+- *Sereno*: equilibrio entre sobriedad y claridad.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc3KiG4MQYj8ig9ciY0Diq59tYJLg_egOgSwPHyd-lmtJQwHrjwoNX6MbLYIKO4adXTStK_68m2YtbwsD2l3cNBt1Bsbkebrhqm29vXvsf8XhFc7hXFK09bLBeyeNhsF9-fcLyx?key=wLsuErVgqDz-qczrBI4kMctR)
+
+
+
+**Footer**
+
+- El pie de página refuerza la identidad de marca y organiza accesos secundarios:
+
+**Secciones:**
+
+- Navegación (Home Page, Community)
+- Información corporativa (About Us, Contact Us)
+- Redes sociales
+- Mensaje de marca y enlaces legales.
+
+**Colores:**
+
+- Texto en blanco (#FFFFFF) sobre fondo negro (#000000) para secciones principales.
+
+- Íconos o enlaces adicionales pueden adoptar el morado (#9345B7) para diferenciación sutil.
+
+  
+
+**Tono comunicacional:**
+
+- *Respetuoso y confiable*, ofreciendo un cierre visual ordenado.
+
+- *Sereno*, sin sobresaltos visuales.
+
+  
+
+**Iconografía**
+
+- **Estilo:** Íconos lineales, delgados, estilo minimalista y flat.
+- **Tamaño estándar:** 24px.
+
+**Aplicación:**
+
+- Header: íconos de navegación (camiseta, brújula, usuario).
+- Cuerpo: íconos funcionales (editar, añadir).
+- Footer: redes sociales y secciones legales.
+
+**Colores:** Predominan #1689F4 y #9345B7 según contexto.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdbbklAUmbyjHNjqFjQslmccrRIRwFe7DKiMkPSwJc4MzLdft29ioRHdZoTqm48x5PmOd9DPrCrFQ_PTS-JJ-rZr6fCmisEv8QN6MbM7zcORts1jKPIU8LNnFw24jz6iQ5N-KA8JQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+**Tono comunicacional:**
+
+- Claro, directo y funcional, nunca decorativo sin propósito.
+- Coherente con el diseño general.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfEZzjv_OWJEGRMRPkx56U296TbhuvxHc4_TA2GgXCoYVqCzOqrITvU2ffgLPdNlxJvhst-VPmLrESSziV4AlmwzQYFGymnPH1g0jV5MlqUESipURTWMM_sGFM5maT8mfjedKokmw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Como parte de las buenas prácticas de desarrollo web inclusivo, se han incorporado atributos WAI-ARIA (Accessible Rich Internet Applications) en los componentes interactivos del sistema Quri. Estos atributos permiten mejorar la experiencia de usuarios que utilizan tecnologías asistivas como lectores de pantalla, garantizando que los elementos visuales sin contenido textual explícito sean igualmente comprensibles y navegables. A continuación, se detalla el uso específico de aria-label en los distintos componentes de la plataforma.
+
+Función: Indica explícitamente que el bloque <nav> corresponde a la navegación primaria del sitio, facilitando su reconocimiento por tecnologías de asistencia.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcX7j1zPibE5beILJnogaaNIbRJXRC5n1V0ND_73ZesLNSw2sGMsdtg20vGUmBSkBWEWRrKxFZlwgGoiMTmYwh21syPUAXNNsFuvhUxQY30E2ffmSLYr_3MP04819Sq0p1RD6Rq?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Función: Proporciona un nombre funcional al botón de menú representado solo con un ícono SVG (hamburguesa), permitiendo que el lector de pantalla anuncie correctamente su propósito.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxzqTreTKD1fIdfL7fRGIo7VKjPul1Vm5LzESsmrpP5fMthcAic5jYJEuWn9OQHXDtER-NVglk3QRQbbAmuzK33pHAadqUF17la1nl-ewhgEWARYrIOwa4aDmnzhhkzbgfbaQy?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Función: Describe la acción de cambiar el idioma de la interfaz, clarificando su función más allá del texto visible.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1lghQ1hJ_zX-WyGx79MZqG3JFdM1PVsXW4-Euj2dnW82TG_MFjJ8EnAPY09tfNMGLL65i9Jkw9eXzVKhYsQZ-rTQy-opqpflh_SPO-bHoiBFqWKinMJYEij7ebp93JxbHAGs-Iw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Función: Permite que el lector de pantalla anuncie correctamente a qué red social se accede, ya que el contenido visual se representa únicamente mediante un <svg>.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd73qIXS5MoSqHTO_EIEQxG7og6fWttojujkWq5uxfC1z2FJm7Vnp2hZQuImdJDI_Id7J2973p8mxaAe0mCpYVXndA8wmDRXPzdSWbLjOTChM_V_LxlNjxLWc44yLhuXPB-PZ8GzQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Función: Proporciona contexto sobre el propósito del carrusel, que contiene imágenes de diseños de camisetas. Se combina con role="region" para que el lector lo identifique como una sección relevante.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtoiFfTjZF7cG3Er0Be32x2O51cRvmfuFC5MC_Ne2uhsAbJaFVlF3pi9EVSNhh_MkFmPBf_kGDxzPOdCXctYwgC9i4sD2RR9Ia-eEyFBYZlzc2sPenYtuRpW_xytjE4XgZ40uNTA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Función: Describe la acción de cada botón de control que permite navegar entre las diferentes imágenes. Esto es esencial ya que visualmente son círculos sin texto.
+
+El uso de aria-label en Quri cumple una doble función: mantener una interfaz limpia y minimalista visualmente, mientras se garantiza la accesibilidad para usuarios con discapacidades visuales. La implementación de estos atributos asegura que todos los elementos interactivos puedan ser comprendidos y utilizados mediante tecnologías de asistencia, contribuyendo a una experiencia de usuario más inclusiva y alineada con las directrices WCAG 2.1 (Web Content Accessibility Guidelines). Esta práctica se extiende como estándar en toda la interfaz tanto en la landing page como en los módulos de la aplicación web, reforzando el compromiso del proyecto con la accesibilidad digital.
+
+## 4.2. Information Architecture
+UX Heuristics & Principles Evaluation
+
+Usability – Inclusive Design – Information Architecture
+
+CARRERA 		: Ingeniería de Software
+
+CURSO 		: Desarrollo de Aplicaciones Open Source 
+
+SECCIÓN 		: 4350
+
+PROFESORES 	: Todos 
+
+AUDITOR 		: Nombre del Grupo que ejecuta la Sesión de evaluación
+
+CLIENTE(S) 		: Grecia Curipaco Huayllani, Giuliana Nisbeth y Orianka Buitrón
+
+SITE o APP A EVALUAR: 
+
+Quri
+
+TAREAS A EVALUAR: 
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas: 
+
+Segmento Objetivo #1: Diseñadores Gráficos Independientes
+
+- Personalizar camisetas: Variedad y profundidad de opciones de personalización.
+- Acceder a guías: Disponibilidad y claridad de guías de diseño.
+- Ver ejemplos: Presencia y calidad de ejemplos inspiradores.
+
+Segmento Objetivo #2: Clientes Individuales Creativos
+
+- Iniciar diseño: Claridad del llamado a la acción para diseñar.
+- Inspirarse: Disponibilidad de ejemplos de diseños.
+
+Segmento Objetivo #3: Marcas Emergentes y Emprendedores
+
+- Información mayorista: Facilidad para encontrar información de pedidos al por mayor.
+- Acceso a sección B2B: Claridad y accesibilidad de la sección "Para Empresas".
+- Contacto comercial: Facilidad para encontrar información de contacto comercial.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas: 
+
+Segmento Objetivo #1: Diseñadores Gráficos Independientes
+
+- Diseño de otras prendas además de camisetas
+- Proceso de registro de usuario
+- Soporte técnico detallado
+
+Segmento Objetivo #2: Clientes Individuales Creativos
+
+- Opciones de pago
+- Detalles de envío
+- Calidad de la atención al cliente
+
+ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                  |
+| ----- | ------------------------------------------------------------ |
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+TABLA RESUMEN:
+
+| #    | Problema                                                     | Escala de severidad | Heurística/Principio violada(o)                            |
+| ---- | ------------------------------------------------------------ | ------------------- | ---------------------------------------------------------- |
+| 1    | Limitadas opciones de personalización de camisetas (solo colores básicos, sin opciones de texturas de tela) | 2                   | Usabilidad: Flexibilidad y eficiencia de uso.              |
+| 2    | Guías de diseño poco visibles y con información incompleta (falta información sobre tipos de archivo) | 3                   | Usabilidad: Ayuda y documentación.                         |
+| 3    | El llamado a la acción "Diseña Ahora" no es lo suficientemente visible en la página de inicio. | 3                   | Usabilidad: Visibilidad del estado del sistema.            |
+| 4    | No hay un enlace claro a información sobre pedidos al por mayor en el menú principal. | 3                   | Usabilidad: Coincidencia entre el sistema y el mundo real. |
+| 5    | La información de contacto comercial no es fácilmente accesible (solo un formulario genérico). | 2                   | Usabilidad: Ayuda y documentación.                         |
+
+DESCRIPCIÓN DE PROBLEMAS:
+
+SEGMENTO: CLIENTES
+
+- Severidad: 2
+   Heurística violada: Reconocimiento antes que recuerdo
+   Segmento: Clientes
+   Problema: Solo se visualiza la parte frontal del polo en la tienda. El cliente no puede ver la espalda, las mangas u otras zonas, lo que limita su comprensión del producto final.
+   Recomendación: Incluir vistas adicionales del producto desde múltiples ángulos o una vista 360° que permita inspeccionar la prenda completa.
+
+- Severidad: 2
+   Heurística violada: Coincidencia entre el sistema y el mundo real
+   Segmento: Clientes
+   Problema: No se muestran ejemplos visuales del tipo de impresión ni de la textura de la tela. Esto genera incertidumbre sobre el resultado final.
+   Recomendación: Añadir imágenes reales o simuladas que ilustren cómo lucen diferentes técnicas de impresión y tipos de tela como algodón o dry-fit.
+
+- Severidad: 2
+   Heurística violada: Ayuda y documentación
+   Segmento: Clientes
+   Problema: No se muestra información del fabricante al momento de comprar un producto, lo que reduce la transparencia y confianza.
+   Recomendación: Mostrar el perfil del fabricante (nombre, ubicación, reputación, tiempo estimado de entrega) en la ficha del producto.
+
+SEGMENTO: DISEÑADORES
+
+- Severidad: 3
+   Heurística violada: Flexibilidad y eficiencia de uso
+   Segmento: Diseñadores
+   Problema: Solo se puede diseñar la parte delantera del polo. Esto limita la creatividad y la funcionalidad del diseño.
+   Recomendación: Habilitar edición en otras zonas como espalda, mangas y cuello, con navegación clara entre vistas.
+
+- Severidad: 3
+   Heurística violada: Flexibilidad y eficiencia de uso
+   Segmento: Diseñadores
+   Problema: El editor solo permite subir texto e imágenes planas, sin acceso a herramientas vectoriales, formas o recursos avanzados.
+   Recomendación: Ampliar el editor con opciones de formas, vectores, capas y bibliotecas externas para mejorar la calidad profesional de los diseños.
+
+- Severidad: 2
+   Heurística violada: Flexibilidad y eficiencia de uso
+   Segmento: Diseñadores
+   Problema: El sistema solo ofrece un conjunto limitado de fuentes tipográficas, restringiendo la variedad estilística.
+   Recomendación: Integrar una biblioteca más extensa de fuentes categorizadas por estilo, e incluir opción de carga de fuentes personalizadas bajo condiciones de licencia.
+
+- Severidad: 3
+   Heurística violada: Flexibilidad y eficiencia de uso
+   Segmento: Diseñadores
+   Problema: Solo hay un tipo de prenda disponible (polo clásico), lo que reduce la diversidad de productos que los diseñadores pueden ofrecer.
+   Recomendación: Incluir distintos tipos de prendas como hoodies, polos sin mangas o crop tops, con adaptación del editor y vistas previas.
+
+SEGMENTO: MANUFACTURERS (Fabricantes / Vendedores)
+
+- Severidad: 3
+   Heurística violada: Coincidencia entre el sistema y el mundo real
+   Segmento: Manufacturers
+   Problema: No hay una sección clara que explique cómo ser fabricante, aceptar diseños, establecer márgenes, y gestionar producción.
+   Recomendación: Crear una sección “Produce en Quri” con onboarding paso a paso, reglas operativas, políticas de ingresos y ejemplos ilustrativos.
+
+- Severidad: 2
+   Heurística violada: Visibilidad del estado del sistema
+   Segmento: Manufacturers
+   Problema: No existe un panel centralizado que permita ver de forma unificada los diseños aceptados, los pedidos en curso y los ya enviados.
+   Recomendación: Diseñar un “Panel del Fabricante” con secciones específicas, filtros por estado, fechas y acceso directo a cada pedido.
+
+- Severidad: 3
+   Heurística violada: Ayuda y documentación
+   Segmento: Manufacturers
+   Problema: No hay forma de comunicarse directamente con el cliente para resolver dudas sobre pedidos, archivos o entregas.
+   Recomendación: Implementar un sistema de mensajería interna por pedido, que respete privacidad pero facilite la coordinación directa.
+
+- Severidad: 2
+   Heurística violada: Ayuda y documentación
+   Segmento: Manufacturers
+   Problema: El fabricante no tiene acceso a información mínima del cliente (ni siquiera nombre o contacto controlado), dificultando la resolución de incidentes.
+   Recomendación: Mostrar datos limitados y controlados como nombre y canal interno de mensajería autenticada.
+
+- Severidad: 3
+   Heurística violada: Ayuda y documentación
+   Segmento: Manufacturers
+   Problema: No existe una sección de soporte técnico especializada para fabricantes, y el único canal disponible es un formulario genérico.
+   Recomendación: Crear un centro de soporte exclusivo con artículos técnicos, chat y tickets clasificados por tipo de problema.
+
+Severidad: 2
+ Heurística violada: Flexibilidad y eficiencia de uso
+ Segmento: Manufacturers
+ Problema: Los fabricantes no pueden personalizar su perfil público, lo que impide construir una marca visible dentro de la plataforma.
+ Recomendación: Permitir crear perfiles personalizados con nombre comercial, logo, descripción, catálogo activo y sistema de calificaciones.
+
+### 4.2.1. Organization Systems
+En el contexto del diseño de interfaces digitales centradas en el usuario, el Organization System es el componente de la arquitectura de información encargado de definir cómo se agrupan, clasifican y presentan los contenidos dentro de una plataforma. Su propósito principal es facilitar la exploración, comprensión y acceso eficiente a la información, permitiendo que los usuarios encuentren lo que buscan de manera intuitiva. Este sistema cumple un rol clave en la estructuración lógica del sitio, ayudando a reducir la carga cognitiva, mejorar la usabilidad y apoyar los flujos de interacción con el producto.
+
+En el caso de Quri, se ha implementado un sistema de organización híbrido, que combina una estructura jerárquica y temática en la Landing Page, y una estructura funcional secuencial en la Web App. En la Landing Page, el contenido se organiza en bloques informativos que siguen una lógica de prioridad: primero se presentan llamadas a la acción visibles (“Start Creating”), luego se desarrollan argumentos de valor para diseñadores y creativos, y finalmente se ofrecen enlaces hacia secciones informativas y de soporte como “FAQ”, “About” y “Contact”. El header y el footer refuerzan esta jerarquía al agrupar los accesos principales y secundarios de navegación. Esta disposición garantiza que el usuario pueda comprender de forma rápida qué ofrece la plataforma y hacia dónde dirigirse, incluso desde un dispositivo móvil, aplicando principios como el progressive disclosure y la adaptabilidad responsiva.
+
+Por su parte, la Web App implementa un sistema organizativo centrado en las tareas del usuario. Cada sección (como Templates, Favorites, Projects, Design Lab, Cart, Profile) responde a una acción específica, permitiendo que los flujos como "crear diseño", "editar", "guardar" o "comprar" sigan una progresión lógica. Esta arquitectura funcional favorece la escalabilidad del sistema, ya que nuevas funcionalidades pueden integrarse sin romper la lógica ni generar fricción en la experiencia. En ambos casos, se respeta la buena práctica de mantener una profundidad de navegación no mayor a tres niveles, con rutas claras y predecibles, una jerarquía visual evidente y un etiquetado consistente, alineado con las necesidades del usuario final y los objetivos de negocio.
+
+**Landing Page – Organization System**
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXclkaGfLoytO_hCknNtOq_t1vBR7SyM1YYMAbzgZkSgspso4IzKJ95xO5IqKAoMfv_SUZPpfT4UxYNGCekksKxbsPCC9k1itDBANVn3frKwobOBndkfEMtfgPt4PNC99GeZMgg3Qg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Se utiliza un sistema jerárquico temático, con un nivel de profundidad mínimo para facilitar la comprensión. Las secciones se agrupan por intención comunicativa: navegación principal (header), propuesta de valor (hero y bloques informativos), credibilidad y soporte (About, Contact), y navegación secundaria (footer). Esta estructura:
+
+Favorece la exploración rápida.
+
+- Asegura acceso a funciones clave desde cualquier punto.
+- Aplica principios de progressive disclosure y scannability.
+
+**Web App – Organization System**
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMer8_fn2QvBnz5K-bNp8QwQwLgjFvI5kPY2M9vtLwP2gnQoCs_K3RYZBawiGt811Zr7DYZ5n9nzOXyb9oq4dZm8XsP8Y1IUgkOt8oCBxUp659hYjHhZM7_XdxLjcwId8BCvDs?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Se utiliza una estructura funcional secuencial, centrada en el flujo de tareas del usuario. Cada módulo corresponde a una acción clara:
+
+- Crear, explorar, editar, guardar y comprar diseños.
+- Separación clara entre navegación de contenido (templates, favoritos) y ejecución de tareas (design lab, checkout).
+- Se respeta el principio de mínima profundidad para no exceder 3 clics hasta la acción deseada.
+
+Este sistema modular y extensible permite agregar futuras secciones como Dashboard o Analytics sin comprometer la usabilidad general.
+
+El diseño del sistema de organización en *Quri* ha sido cuidadosamente estructurado para responder a los principios de usabilidad, claridad jerárquica y eficiencia en la navegación. La implementación de una organización jerárquica en la landing page permite que los usuarios accedan de manera inmediata a los contenidos más relevantes, como la propuesta de valor, preguntas frecuentes y acceso al registro o inicio de sesión. Esta jerarquía no solo prioriza las acciones clave del usuario, sino que también proporciona una estructura visual coherente y predecible.
+
+Por otro lado, la web app presenta una organización funcional centrada en tareas, donde cada módulo responde a un objetivo específico del usuario, como diseñar productos, gestionar proyectos o completar un checkout. Esta estructura modular facilita la escalabilidad del sistema y permite agregar nuevas funcionalidades sin comprometer la arquitectura existente. En conjunto, ambos sistemas de organización —jerárquico y funcional— garantizan una experiencia fluida, intuitiva y centrada en el usuario, alineada con las mejores prácticas en arquitectura de información y diseño de interacción.
+
+### 4.2.2. Labeling Systems
+En el marco del diseño de la arquitectura de información, los Labeling Systems cumplen la función de comunicar de forma clara, coherente y predecible los elementos de interacción presentes en la interfaz. En Quri, cada etiqueta textual empleada en botones, menús, enlaces y secciones tiene como objetivo guiar al usuario de forma intuitiva en su recorrido por la plataforma. Esta sección analiza el sistema de etiquetado implementado en la Landing Page, evaluando la pertinencia del lenguaje empleado según principios de UX y usabilidad.
+
+| **Etiqueta**           | **Ubicación / Componente**    | **Función**                                                  |
+| ---------------------- | ----------------------------- | ------------------------------------------------------------ |
+| FAQ                    | Header                        | Acceso a preguntas frecuentes. Término estándar y reconocido por los usuarios. |
+| About                  | Header                        | Describe el propósito de la marca. Término universal en interfaces informativas. |
+| Team                   | Header                        | Presentación del equipo detrás del proyecto. Genera cercanía y confianza. |
+| Join                   | Header (botón)                | Registro de nuevos usuarios. Corto, amigable y contrastado con Login. |
+| Login                  | Header (botón)                | Inicio de sesión. Palabra ampliamente reconocida y funcional. |
+| Start Designing Now    | Hero Section (CTA principal)  | Llamada a la acción inmediata. Uso de imperativo motiva la interacción. |
+| Start Creating         | Hero Section (CTA secundaria) | Alternativa directa para iniciar diseño. Complementaria y coherente. |
+| Learn more             | Sección de valor              | Enlace hacia contenido explicativo. Conciso, neutral y orientado al usuario. |
+| Learn pricing          | Sección de precios            | Acceso a modelo de costos. Claro, directo, sin tecnicismos.  |
+| Home Page              | Footer / Navigation           | Enlace a página principal. Termino autoexplicativo.          |
+| Community              | Footer / Navigation           | Vínculo hacia el entorno colaborativo. Comunica interacción con otros. |
+| About us               | Footer / Company              | Repetición estructural del “About”, pero con variante contextual. |
+| Contact us             | Footer / Company              | Enlace de soporte. Directo y centrado en acción.             |
+| Privacy Policy         | Footer / Legal                | Obligatorio por normativa. Etiqueta reconocida a nivel internacional. |
+| Terms & Conditions     | Footer / Legal                | Complementa al anterior. Estándar legal indispensable.       |
+| Sign in                | Texto bajo marca              | Variante funcional de “Login”. Enlace textual breve y claro. |
+| Contact Us             | Texto suelto (abajo)          | Refuerzo visual del mismo enlace de contacto. Consistencia semántica. |
+| Learn Pricing          | Texto suelto (abajo)          | Refuerzo del CTA hacia precios. Coherente con versión en minúscula. |
+| Social Media           | Sección informativa           | Agrupa acceso a redes. Etiqueta convencional, reconocida globalmente. |
+| QURI                   | Marca                         | Nombre distintivo en mayúsculas. Funciona como ancla visual y semántica. |
+| Sign in to get started | Frase institucional           | Etiqueta motivacional combinada con acción directa. Claridad y tono humano. |
+
+El sistema de etiquetado en la landing page de Quri demuestra una clara aplicación de buenas prácticas en arquitectura de información. Las etiquetas seleccionadas emplean un lenguaje simple, familiar y orientado a la acción, lo cual facilita la navegación y la comprensión inmediata del propósito de cada sección o componente. Se observa una adecuada consistencia semántica entre el header, el cuerpo de la página y el footer, así como un uso eficiente de frases imperativas y sustantivos comunes que optimizan la experiencia del usuario. Este Labeling System fortalece la accesibilidad cognitiva del sitio y sienta las bases para una experiencia web coherente, inclusiva y escalable.
+
+### 4.2.3. SEO Tags and Meta Tags
+Los meta tags y etiquetas SEO son elementos fundamentales dentro de la sección <head> de cualquier página web, ya que permiten controlar cómo es interpretado, indexado y presentado el contenido de un sitio por parte de los motores de búsqueda (como Google) y las redes sociales (como Facebook o Twitter). Estas etiquetas no son visibles directamente por los usuarios, pero influyen de manera determinante en la forma en que una página se posiciona y aparece en los resultados de búsqueda, así como en la claridad con la que comunica su propósito al compartir enlaces.
+
+En el desarrollo de la plataforma Quri, se han implementado meta etiquetas específicas para cada archivo HTML clave de la landing page con el fin de garantizar una correcta indexación, visibilidad en buscadores, claridad semántica y una presentación visualmente coherente al momento de compartir los enlaces en redes sociales. Estas prácticas fortalecen la identidad de marca y optimizan la experiencia de descubrimiento para nuevos usuarios.
+
+1. Index
+
+La página principal de Quri cuenta con un conjunto completo de etiquetas SEO que definen su título, resumen descriptivo, palabras clave relacionadas con camisetas personalizadas y emprendimientos creativos, así como la autoría del equipo. Además, se incluyen etiquetas Open Graph y Twitter Card para garantizar que al compartir el sitio en redes sociales se muestre un extracto visual atractivo, con imagen destacada y un mensaje claro sobre la propuesta de valor de la plataforma. También se especifica el idioma del contenido, el comportamiento del robot de búsqueda, y el color temático para navegadores móviles.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzrISwcNalG9KhM8W2nakN_a6h2aDJA4KxXXwqmJIj-ihzmcySsBLg4Xj8NbHN9ZbTsNnKjavWigBLdJr6W3X5hLjethIMnrjMo9I1h3KrLBjiEPcSUQOmzQHMH67TCmYhSUx1rQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+1. About
+
+La página “About” utiliza meta etiquetas diseñadas para transmitir la misión y visión del proyecto. Se prioriza una narrativa centrada en la creatividad, el empoderamiento y la comunidad de creadores. Las etiquetas informan a los buscadores sobre el propósito de la página (descubrir la historia y los valores de Quri) y mejoran su presentación en plataformas sociales mediante el uso de imágenes y descripciones alineadas con la identidad visual y discursiva del sitio. Esta implementación refuerza la credibilidad de la marca y conecta con audiencias que valoran el propósito detrás de un producto digital.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-RlFrbiFH2edZA7LXJbv1MVakLZJaSwDqoVd0aIO_FGQpbOgFoIRZVNX_-Oh39iw57Y7TXFICzJXPg4surlJwB3zqvIi5K-WCWfzsPS08-B1fLx7EdpbMNyIhZb3qdOeYDo6MJg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+1. FAQ
+
+La página de preguntas frecuentes implementa meta etiquetas orientadas a posicionarse como fuente de ayuda y orientación. Las descripciones y keywords están alineadas con consultas comunes como "cómo vender camisetas" o "diseño sin experiencia", lo cual incrementa su relevancia en búsquedas específicas. Las propiedades sociales enriquecen la experiencia al compartir esta página como recurso útil, mostrando un título directo y una imagen de marca. Este enfoque refuerza la función de soporte y confianza del sitio.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcC8AsQdWOjUTsS_9buObmyv8SX6P7lzrZq9nZdlJgEAmBlrbV_pYL7Ks_VYwCwX5sC58o9KNufTeOUYzU4-Jlcq66o6tt58cMy99urywJdxthO5C_KBjiHH96QV1P0lze1mpehvQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+1. Team
+
+La sección del equipo incluye etiquetas meta que destacan la historia y la identidad del grupo humano detrás de *Quri*. Al presentar información sobre los fundadores, sus roles y origen académico, se fortalece la transparencia y cercanía con los usuarios. Las etiquetas SEO utilizadas posicionan esta página como una ventana hacia la cultura del proyecto, y al compartirla en redes, se muestra un contenido visual y textual alineado con el tono institucional. Esto no solo incrementa el engagement, sino que también apoya la construcción de marca desde una perspectiva auténtica.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfOMSKgU91720kdU6liMxFotmAkZ8kFIxqh5QzvgDP4wKrHtAQQ6s_0071som_rCkVVBKxbdUekq2aecHJ78sZouolj5gXY7EhZIhdGCM7_2DHJuKw8NXrtvDlkHFZ1lPr1yFJTWw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+La implementación de SEO Tags y Meta Tags en Quri responde a una estrategia integral de accesibilidad, posicionamiento y comunicación visual coherente. Cada página clave del sitio ha sido optimizada para transmitir información precisa y persuasiva tanto a buscadores como a redes sociales, asegurando una experiencia de descubrimiento eficiente y alineada con los valores del proyecto. Estas etiquetas no solo fortalecen la estructura semántica del sitio, sino que también preparan la plataforma para su crecimiento orgánico y escalabilidad digital.
+
+### 4.2.4. Searching Systems
+La pantalla Explore es el núcleo de la experiencia de descubrimiento dentro de Quri – TeeLab. Desde esta vista, los usuarios pueden navegar, visualizar y seleccionar camisetas diseñadas por la comunidad, ordenadas por popularidad y novedades. En esta interfaz, el sistema de búsqueda se presenta como una herramienta esencial para facilitar el acceso eficiente a contenidos relevantes, alineándose con buenas prácticas de diseño de sistemas de información y experiencia de usuario (UX).
+
+El sistema de búsqueda tiene como objetivo ayudar a los usuarios a localizar camisetas personalizadas que se ajusten a sus intereses mediante el uso de palabras clave relacionadas con el nombre del diseño, autor o estilo visual. Esta funcionalidad complementa el sistema de navegación libre por categorías y tendencias.
+
+La interfaz está organizada de la siguiente manera:
+
+- Barra de búsqueda: ubicada en la parte superior de la vista Explore, presenta un campo de texto con placeholder “Hinted search text” y un botón en forma de lupa a su derecha, representando la acción de búsqueda. Este elemento es visualmente claro, accesible y está bien posicionado siguiendo la jerarquía visual del layout.
+
+  
+
+- Listados de productos:
+
+  
+
+  - Sección: You might want to check
+     Presenta camisetas destacadas, posiblemente por popularidad o historial de navegación.
+
+    
+
+  - Sección: New in the market
+     Muestra los últimos productos añadidos a la plataforma, lo cual promueve la visibilidad de nuevos creadores y diseños emergentes.
+
+    
+
+Cada producto se visualiza mediante una tarjeta que contiene:
+
+- Mockup de la camiseta
+
+  
+
+- Nombre del diseño
+
+  
+
+- Nombre del diseñador
+
+  
+
+- Precio en soles (S/)
+
+  
+
+- Número de likes o popularidad
+
+  
+
+Funcionalidades previstas
+
+Aunque la implementación actual corresponde principalmente al diseño de la interfaz, la arquitectura ya contempla la integración de la lógica de búsqueda. Se espera que la funcionalidad final incluya:
+
+- Búsqueda textual en tiempo real mediante keywords
+
+  
+
+- Filtrado por diseñador, precio, popularidad, colores o categoría temática
+
+  
+
+- Indexación de productos a través del ProductCatalogService
+
+  
+
+- Resultados dinámicos actualizados sin recargar la página
+
+  
+
+Principios de diseño aplicados
+
+- Accesibilidad: La barra de búsqueda es compatible con navegación por teclado y presenta contraste visual adecuado.
+
+  
+
+- Responsive Design: La disposición de los elementos se adapta a distintas resoluciones de pantalla, permitiendo una experiencia de búsqueda fluida tanto en desktop como en móviles.
+
+  
+
+- Minimalismo funcional: La interfaz es limpia, prioriza la visualización de productos y mantiene la atención del usuario centrada en el contenido.
+
+  
+
+- Internacionalización prevista: Aunque el placeholder aún está en desarrollo, se prevé su adaptación multilingüe en el Sprint 2.
+
+  
+
+El sistema de búsqueda dentro del módulo Explore ha sido diseñado con base en principios sólidos de usabilidad y experiencia de usuario, garantizando una navegación eficiente, clara y visualmente atractiva. Su despliegue completo, incluyendo conexión con servicios y filtrado dinámico, está planificado para fases posteriores del proyecto, reforzando su rol central dentro del flujo de descubrimiento de camisetas personalizadas en Quri – TeeLab.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcLrPVek2NDunDV1Q65A9fcKO2JqjPQHQdMUWfatn1rHVzNLNIdvEty3VvBOiKuhlRcZg8YDEft9Bat_rCo4IVJlJA1uCEStlRdF_3upmQpX0XB_960v0eaZklmXPhz8UMHZRduVw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+### 4.2.5. Navigation Systems
+La navegación es uno de los componentes más críticos en el diseño de interfaces web, ya que estructura el recorrido del usuario y garantiza que pueda acceder a las funcionalidades clave de forma eficiente. En la plataforma Quri, el sistema de navegación se ha concebido bajo principios de jerarquía visual, simplicidad funcional y accesibilidad universal, permitiendo una experiencia de usuario fluida, tanto en escritorio como en dispositivos móviles.
+
+Quri implementa un sistema de navegación global, persistente y horizontal, ubicado en la parte superior de cada vista pública. Este sistema está compuesto actualmente por seis elementos esenciales, los cuales cumplen funciones específicas:
+
+Home: vinculado al logotipo de la plataforma (quri), permite retornar a la página principal desde cualquier sección.
+
+- Explore: redirige al catálogo de diseños o espacio de descubrimiento creativo.
+- About: brinda información institucional sobre la plataforma, su propósito y su equipo.
+- Pricing: informa sobre el modelo de costos, tarifas y condiciones comerciales.
+- Join: conduce al formulario de registro de nuevos usuarios, diseñadores o marcas.
+- Login: ofrece acceso a usuarios ya registrados para ingresar a su cuenta.
+
+Esta distribución responde al patrón de diseño conocido como “navegación centrada en tareas”, en el que cada enlace refleja una acción clara, esperada por el usuario objetivo, y contribuye a la conversión dentro del embudo de uso (descubrir, registrarse, comprar o crear).
+
+Diseño visual y funcional
+
+El header está implementado en un fondo claro con texto negro, generando alto contraste y buena legibilidad. Su diseño es minimalista, sin elementos decorativos innecesarios, permitiendo al usuario enfocar su atención en las decisiones de navegación. El logotipo ubicado a la izquierda actúa como enlace semántico hacia Home, práctica común en interfaces web contemporáneas.
+
+- La alineación del contenido sigue una estructura en tres zonas:
+- Izquierda: logotipo quri, vinculado a Home.
+- Centro: enlaces de navegación (Explore, About, Pricing).
+- Derecha: acciones de usuario (Join, Login).
+
+Este modelo favorece el reconocimiento visual inmediato y facilita la interacción tanto con el ratón como con dispositivos táctiles.
+
+Adaptabilidad responsive:
+
+El sistema de navegación ha sido diseñado siguiendo el principio mobile-first, adaptándose automáticamente a distintos tamaños de pantalla. En resoluciones reducidas, el menú horizontal es reemplazado por un menú tipo hamburguesa, que preserva los seis elementos clave de navegación y los agrupa en un panel desplegable para optimizar el uso del espacio.
+
+Además, se han aplicado buenas prácticas de accesibilidad (a11y), como la navegación por teclado, la detección de enfoque (focus-visible) y el uso de atributos aria-label en botones interactivos, asegurando que la navegación sea funcional para personas con discapacidad visual o motriz.
+
+Navegación secundaria:
+
+Complementando el header, el footer del sitio actúa como sistema de navegación secundaria, agrupando enlaces de soporte, políticas legales y redes sociales. Esta capa informativa no interfiere con la navegación principal y ofrece un espacio discreto para contenidos de menor jerarquía, pero igualmente necesarios.
+
+Evaluación de usabilidad:
+
+La navegación de Quri cumple con los principios fundamentales de una buena experiencia de usuario:
+
+- Claridad: los enlaces están claramente etiquetados y visualmente diferenciados.
+- Consistencia: la barra de navegación es idéntica en todas las vistas, evitando disonancias cognitivas.
+- Jerarquía: las acciones más importantes (Join, Login) están destacadas y ubicadas estratégicamente.
+- Retroalimentación visual: se proveen efectos hover y focus para mejorar la percepción de interacción.
+
+## 4.3. Landing Page UI Design
+La sección de Landing Page UI Design tiene como objetivo definir, implementar y validar la interfaz visual de la página principal del sitio web, asegurando una experiencia clara, accesible y orientada a los distintos perfiles de usuario. En esta fase se diseñaron las primeras versiones de los wireframes para desktop y mobile, que permitieron estructurar los contenidos clave como la presentación del proyecto, beneficios, preguntas frecuentes, equipo, y el footer con enlaces a redes sociales. Posteriormente, se desarrollaron los mockups de alta fidelidad, aplicando el sistema de diseño basado en Material Design, garantizando coherencia visual, jerarquía informativa, y consistencia entre dispositivos. El diseño considera principios de accesibilidad como el uso de etiquetas semánticas, atributos ARIA y contraste adecuado. A futuro, se continuará con la validación de esta interfaz a través de entrevistas de usabilidad y pruebas heurísticas, y se implementará la lógica de navegación entre secciones internas y hacia la aplicación web, buscando que los usuarios puedan explorar, comprender y conectar con la plataforma desde el primer contacto.
+
+### 4.3.1. Landing Page Wireframe
+Como parte del proceso de diseño centrado en el usuario, se elaboraron wireframes de baja fidelidad para las vistas principales del sitio Quri, tanto en su versión escritorio (desktop) como en dispositivos móviles (mobile). Estos wireframes sirven como representación preliminar de la estructura de contenidos, jerarquía visual y distribución funcional de cada página, permitiendo validar decisiones tempranas de interfaz antes de avanzar al diseño visual detallado. Las pantallas diseñadas incluyen: Home, About, FAQ y Team, que conforman el núcleo informativo y narrativo de la plataforma.
+
+1. Home Page
+
+Versión Desktop
+
+La versión desktop presenta una estructura clásica en Z, iniciando con un header fijo que incluye el logo y accesos rápidos a secciones clave como FAQ, About, Team, Join y Login. La hero section utiliza un título atractivo, subtítulo explicativo y un CTA primario (“Start Designing Now”) centrado. Las siguientes secciones están organizadas en bloques de valor diferenciados: propósito de la plataforma, beneficios funcionales, y vínculo con artistas. La página culmina en un footer informativo con enlaces estructurados (Company, Legal, Social), localización y mensaje de marca.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc2JLp4CrpXKZYKmZ-ozCcWXh5yFUOfRL8PceWyvw_yQKTfsdMN6ANmeRLtpOorBIQJZXlgnBiGyGImZOSyVoLxypYdUy0Sb52ddobCQo-UzvnvzsFL-Ge9K1wl6BCGYXemRPqzDw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Versión Mobile
+
+La versión móvil adapta el contenido en una estructura vertical optimizada. El header se simplifica en un menú hamburguesa que despliega los enlaces a FAQ, About, Team, Join y Login. El CTA principal se mantiene centrado pero a mayor altura visual. Las secciones informativas se apilan con imágenes y textos alternados. El footer se convierte en un bloque compacto de navegación secundaria con accesos agrupados por tema.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXflQ77rxgCIgvl23PhGUZR_2-IpqDO1xKXhEMtoaEDUGIXKJTt4j9JWaacrL5GSPq0RvrB6hwoZ_MRPm2GF6DrwYbxcNhEDOzgF_Gv2dctfrFB_t2sQffn6on6lWnummljlkIlcYA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+1. About us
+
+Versión Desktop
+
+El wireframe de About presenta una narrativa en columnas: lado izquierdo con imagen y lado derecho con texto, incluyendo las subsecciones “Who Are We?”, “Our Story” y “What We Offer”. Cada sección está jerarquizada con títulos claros y párrafos explicativos. Se mantiene la navegación principal arriba y el footer completo abajo.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXep2MnLth3IdN1V-RyYuELtWonNhtL6QAQU9UoCknUmHNTFt70vu2hFoT46MIyxVZJhWQws3ZroKi4ebg9D-aTs3UuEKGeg6GA9M5w6n8FMMD8cGdf8nAM-ND5ZWQh80rNKLvG1ig?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Version Mobile
+
+El diseño adapta los bloques en un solo flujo vertical: primero imagen, luego título y texto. La narrativa es secuencial para facilitar la lectura desde pantallas pequeñas. Se minimiza el uso de columnas y se prioriza espaciado vertical amplio.
+
+1. FAQ
+
+Versión Desktop
+
+La estructura sigue un patrón de acordeón vertical donde cada pregunta se expande al hacer clic. Se incluyen preguntas frecuentes sobre precios, diseño, edición, ventas y alianzas con fabricantes. El CTA “Not What You Were Looking For?” enlaza con la página de contacto. El diseño prioriza legibilidad y espacio negativo para evitar sobrecarga visual.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdVY0AllEfXhLDjMrpKZpYsjW3Swtpbyy4TROZPhI9oTqD6SX7brOYsjHcLq9vmXdrxVIOnqHETe5sn_F3IHL3owl8_BHXskqJPFIPSbBCk9hr6OdRcLfEigIEKhIaii076uelDDA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Version Mobile
+
+Las preguntas se muestran como botones expandibles tipo acordeón, con un solo bloque visible por vez. Esto evita saturación visual y mejora la interacción táctil. El botón de contacto se muestra centrado al final.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXco2a_TzoSFEV8JfwDjO32NClEBSCSgKBVlw2g-nZQEa3twPtBLEjOKfxJRZ9TXtJXQQSDP2YXuPepA0H8mE0x7Algz9ZKOCq-cJM6SiMeLcx2Z1PuYRnuz26N1c3-NXbcAPctJ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+1. Team
+
+Version Desktop
+
+Presenta una cuadrícula con perfiles individuales del equipo, cada uno compuesto por imagen de avatar, nombre y breve biografía. El objetivo es humanizar la marca y mostrar transparencia. Los perfiles están organizados horizontalmente con distribución uniforme.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd6EL9hb5Hf4gbeIrslAQD27eeHPFUbL71hkajJb9h5XsZD7b7rOOdJGSuQtPE_HPs3sqfSm3lBO0hQfRyteNQ3TMtDW4R6k9hXWnlT3k3KdrsUqXIchF1wVHokjcHjRzYY5SbSdg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Versión Mobile
+
+Los perfiles se disponen uno debajo del otro, centrados, con imagen circular en la parte superior y texto en la inferior. Se privilegia legibilidad y escaneabilidad.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeFTvYKD3zBqXnuO-vYr56hKdOZcJNvV1LbI7-WeV7UgnDehUjrgHA75opWebPpKXk9Q_apMZXKb-VHnNrjBYeyVNXgLDD7TZn5bGFbw-a2keb2AK7uFOJzsFTlI51WdXVxGhZAXw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Los wireframes desarrollados para la plataforma Quri permite visualizar anticipadamente la lógica de organización, navegación y disposición de los contenidos en diferentes dispositivos. La versión desktop aprovecha el espacio horizontal para distribuir la información de forma jerárquica y modular, mientras que la versión mobile reestructura estos bloques en un flujo vertical optimizado para pantallas reducidas. Esta dualidad garantiza una experiencia responsiva y accesible, alineada con buenas prácticas de diseño UX/UI. Los wireframes sientan así la base para el desarrollo visual y funcional del producto final, facilitando decisiones informadas durante las siguientes etapas de prototipado y validación.
+
+### 4.3.2. Landing Page Mock-up
+Los mockups son representaciones visuales de alta fidelidad del diseño de una interfaz, que muestran con detalle el estilo gráfico, la disposición definitiva de los elementos y el lenguaje visual de la marca. En Quri, se desarrollaron mockups completos para las vistas principales del sitio en sus versiones desktop y mobile, manteniendo coherencia visual, accesibilidad y diseño responsivo. Las vistas consideradas son: Home, About, FAQ y Team, ya que representan las secciones clave para comunicar la identidad, propósito y funcionalidad de la plataforma.
+
+Home Page
+
+- Desktop Version
+
+El mockup desktop de la página principal destaca por una estética minimalista y moderna. La parte superior incluye un header con logo y enlaces a About, FAQ, Team, Join y Login. El foco visual está en el hero section, que presenta un título atractivo y un botón CTA (“Start Designing Now”) con fondo azul, además de un mensaje motivacional. A continuación, se despliega contenido visual por bloques con imágenes, tipografía clara y secciones como “Design It. Rock It.” y “Support real artists”. El footer contiene enlaces organizados (Home Page, Community, Legal, Company) con íconos sociales y mensaje de marca.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXec9jatOxyKeNWbcQh5w9MFCgjNrztqoqXGnHZzSXOx7v7CZ1toLyBF76T7-btFq3HHE_Vwsmy6UF3qKZxrTngipTfGeSPuHQabQ4LylkyVaRSaVP5_hJGSBjP7--Em3Dm1aECmoQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile Version
+
+La versión mobile adapta los elementos a una estructura scroll vertical fluido. El header se transforma en un menú hamburguesa accesible y los botones Join y Login se posicionan de forma visible. El botón “Start Designing Now” permanece en el centro del hero section, seguido por bloques con imágenes y textos alternados. Se mantiene una buena proporción entre tipografía, márgenes y altura de botones, asegurando usabilidad táctil.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdTtIh-PgrJNFfy_H58EiLetCQtZ2Lw-tTRVyb-pdp6weJ0ToMNj3nCkgcFvrNxDdUtffFwlnHY6lSbV7ic5k5Nbo_Q31JIP0DwPaS-tHg1_dDF1m70gmgVrT-8yiM6IcjQhR__?key=wLsuErVgqDz-qczrBI4kMctR)
+
+FAQ Page
+
+- Desktop Version
+
+El mockup de FAQ presenta una estructura de acordeón con preguntas frecuentes. Cada entrada muestra una respuesta clara al expandirse. Se conserva el branding visual de la plataforma y se incluye una sección adicional con canales de contacto (email, teléfono, Instagram). La interfaz es simple, legible y centrada en resolver dudas con eficiencia.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfTxFeB9_HqPPTB8YN8pKLgXdUAkSYWzRBvpkiRJbqTJS81A2s2LgN5Hh9cYMDR-lW2P_0DnpeMDMHATnui3Hy_GXusSIt8jqQaK_5rSifZmFgPD2vXOOIfDqsJ7X25kGFd504O?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile Version
+
+Cada pregunta se muestra como un bloque expandible individual. El diseño evita saturación visual mediante el uso de mucho blanco y un diseño “tap-friendly”. La sección de contacto se muestra al final como alternativa si las respuestas no son suficientes.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc8mgoupsYbvtpAxa-SIDo6jm1taWum2R0JZkGE8km9rh4K1ZE7E-5EubbYh6sAoYGn1hTbQT9arrwioCLws7o-YMemJz8xCqfaxHkB3QCJaglRSy7JHNSFLjuCaLvyhm0Eb8ka?key=wLsuErVgqDz-qczrBI4kMctR)
+
+About Page
+
+- Desktop Version
+
+Esta pantalla está estructurada con una introducción sobre la misión de Quri, seguida por “Our Story”, “What We Offer” y “Why It Matters”. Los textos están acompañados de imágenes representativas y llamadas a la acción como “Learn More” o “Learn Pricing”. Predomina el uso de fondos claros, espaciado amplio y jerarquía tipográfica bien definida.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcNpvIafDasjJ6t6FaOgL35n_UI3scz_yNTBVkvt8ph0t55rv7z3EtSwfWGx0CXjLnSL1K3nQQEXus_pfEuUSnkfuN5Corm6ImIB5dleoRw5lmBSFfJ5IADKRd5zJA0Y_Agx1TIqw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile Version
+
+El contenido se organiza en bloques verticales, iniciando por la misión y luego pasando a la historia y beneficios. Se prioriza el espaciado, con texto de cuerpo ampliado y títulos destacados, manteniendo un alto nivel de legibilidad. Las llamadas a la acción se presentan centradas, con botones de borde redondeado.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeBvGnmIslkMV7DW9Mo90b7YZbyZLoVjjMRSFtMuHUtm6_JmqqqI0GDnWXzjv7oEYwtyRC5dgFdF8N4itGYB4OXxxPtERtQuyOgvuvXeOjrlyMOWessSs0qZPQzVwtKwp56xTAa?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Team Page:
+
+- Desktop Version
+
+La sección del equipo muestra una grilla con cinco perfiles, cada uno con nombre, foto y descripción biográfica. El diseño mantiene una presentación limpia y profesional, transmitiendo cercanía y transparencia sobre quiénes están detrás de Quri. El fondo neutro y la alineación central refuerzan la lectura amigable.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeH5_LxLT8ENjO5VhaW0ctz9R0BMkGPx9ROfRj1PYli8tI3GW-DCR4fNfuyZew3zf_ULQI4qSts0CbxdqmjxRii4v0B0_K6ug3NnjS8ctcGRiIzp6ubgcwOmZwjoASPsSgZhz0O3A?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile Version
+
+Los perfiles del equipo se presentan en forma de lista vertical, uno debajo del otro, con imagen en la parte superior y descripción centrada. El diseño es responsivo, enfocado en claridad y lectura rápida desde dispositivos móviles.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXePT0JyfcVTL-xZI1c1UneK2VxkLfOVUOxE9zdyPz7pAol5Y2GU5t7WhSWG2FW7QYP3_m-mW22Ubqwoqcb_SXI0IvLGUh8Z8uCZHGTAl4TYejC-YCFg8VuEUKTbhaIa5PE97doCYg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Los mockups de Quri representan una etapa avanzada del diseño visual, donde se consolidan las decisiones tomadas durante el wireframing y se aplican los lineamientos estéticos definidos en las guías de estilo. Tanto en desktop como en mobile, se evidencia una interfaz limpia, accesible y alineada con los principios de diseño centrado en el usuario. La coherencia gráfica, el uso de tipografía sans-serif, el sistema de colores funcionales y la correcta jerarquía visual fortalecen la identidad de marca y garantizan una experiencia intuitiva en todos los dispositivos. Estos mockups constituyen la base visual para la implementación técnica de la plataforma.
+
+## 4.4. Web Applications UX/UI Design
+La sección de Web Applications UX/UI Design se centra en el diseño de la interfaz y la experiencia de usuario de las aplicaciones web que forman parte de la solución digital, incluyendo tanto vistas funcionales como flujos de interacción completos. En esta etapa se elaboraron wireframes para desktop y mobile que definen la disposición de elementos en pantallas clave como creación de productos, exploración de catálogos, gestión de pedidos y personalización de camisetas. A partir de estos esquemas se diseñaron los mockups de alta fidelidad, alineados al sistema visual adoptado para la plataforma, respetando principios de consistencia, simplicidad y orientación a la tarea. Los componentes fueron organizados siguiendo flujos de usuario validados previamente mediante escenarios To-Be y mapas de empatía, asegurando que cada acción tenga un propósito claro dentro del recorrido del usuario. La estructura y navegación han sido pensadas para ofrecer una experiencia inclusiva, aplicando criterios de accesibilidad (a11y) y soporte multilenguaje (i18n). En los siguientes sprints se realizará el desarrollo progresivo de las vistas, integrando servicios RESTful y prototipos navegables que permitan validar funcionalmente las interacciones más importantes del sistema.
+
+### 4.4.1. Web Applications Wireframes
+Los wireframes de la Web Application constituyen el primer paso en el desarrollo visual de la plataforma digital, definiendo la disposición estructural y jerárquica de los elementos en pantalla. Esta documentación permite anticipar cómo los usuarios interactuarán con el sistema, identificando componentes funcionales, zonas de navegación, y acciones clave. Se han diseñado versiones adaptadas tanto para desktop como para mobile, siguiendo principios de diseño centrado en el usuario y buenas prácticas de experiencia de usuario.
+
+Login
+
+- Desktop: Disposición centrada con campos de ingreso, opción de recuperación de contraseña y enlaces de autenticación complementaria. La estructura es limpia y directa, diseñada para minimizar fricción en el acceso.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJ67Y805-X9LP_WHaR2xZ34Slgo3oPwJF71rJWpSuMS1eyZwOgpClU5IU4W5YdloiZAsi-0TBRb1Ct32fMaFmlfz9vk5P7sMcEWs0vftOeXOkNWA3HlFB5rbMROwWdiJTwzkeBRg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: Layout simplificado con campos alineados verticalmente, botones ampliados para interacción táctil y jerarquía visual que guía al usuario paso a paso.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfbTzFFHa6JAQX-BOYuz5E1FbzKC7X1lscaDrdYLpmX8KfG-OW9ckU2DRAU9V4C_7-VkFeYcjMn4umNnA7hWIh1LaRv-WMeMcV1X8dgc_UR75SKBRIfPuCeUdKPDh5kMulkWKJz?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Orders
+
+- Desktop: Visualización tipo tabla con detalle de cada pedido: ID, productos, método de pago, estados del envío y resumen total. Se utiliza una progresión lineal para el seguimiento del pedido.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8mFFOM6U3Q0wVBB-TeDGonEnFuH08GoJb-De_uKhrLqFXL0IoO2hNd_U9PHZzQdVeiNzMgB3jXDWSxm4SQ0dOkfrg7Udwm9Alze3d7Z956B75qrkvdez_SaXAXtkI7X4WIf9POg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: Reorganización del contenido en tarjetas verticales que contienen información resumida del pedido. Se mantiene la secuencia de estados en formato compacto para facilitar el seguimiento desde el celular.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcfuUmXG1GElbADXG3kObLU6iQAzHkjKtojjdv4SLC2kut1mBEVFWDWCtNjRjO58YM34lls5Q8kwX_QJua7QaAC--1XDuSBKqTTxo4NfvrFTmfq2W1T3xiYezpumP6f5LqMrCU8?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Home 
+
+- Desktop: Distribución en grillas con productos destacados, secciones como “Popular Now” y “New”, y navegación lateral o superior. Se prioriza la exploración simultánea de múltiples categorías.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXekCGYvUe1JD9ax4jqxEPbSKquvWHUX_EKWmaRpkuWeIwUPmbmq3CsggGlHNYYMwPDZUl3vLnZd8ZB8uXzZvQxCTvDKqjLxM3MtzMT__Fj6PPvINSfZlHrd3sghCEHZDOamzHUm6g?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: Interfaz en scroll vertical con bloques de contenido apilados, carruseles horizontales para productos, y navegación simplificada para minimizar el esfuerzo cognitivo.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeFebqsSkC5eIdkJDuOgJPN7CamSWBLssQ4g-kMBqDn17kgDL2Ot_yuzPZMMv3Ic4pM9xOUWNxwokHQQNWN-zaUgVXOaKPoM7qlvQvkMGeAc-RGXrGMQwy2_V6o2lmnm4IVotai?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Cart
+
+- Desktop: Tabla de productos seleccionados con controles para modificar cantidades, eliminar ítems y resumen detallado del costo. El botón de checkout se presenta fijo o cercano al resumen.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeE16MEhdaed8ZQJ0N1c1USOiPTnTZRR10GCrlNPPKJQIkThiEjnIlJZy_jXwkwVEQYKW3-KECAMXIfuVvwNPbbIgaV9g_suyUv2ATIPCLI2sqbxFnOfeOMFD6JZ-xAB_IwLhK8pw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: Estructura en bloques con cada producto representado individualmente. Se optimiza el flujo de compra con un resumen total al final de la pantalla y acceso rápido al proceso de pago.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzcq1rp4gOMShqCZ1zWGBw1JjJYm1A9ncMxXzt-eWn-vjTWyMGRx4haiOTDpQJLV2kK_rNIDTSfbBflkZdmA7k3n0rr4v_wSB-glJfHPnV_ugiBuygJrHUeqsx-dTkmc1P9Z40?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Template
+
+- Desktop: Vista en galería con miniaturas de plantillas prediseñadas. Permite selección rápida y acceso directo al editor.
+- Mobile: Lista vertical con una plantilla por fila, imágenes ampliadas y selección por toque, respetando el espacio disponible en pantallas pequeñas.
+
+Design Studio
+
+- Desktop: Interfaz avanzada de diseño con área central para la prenda, herramientas laterales para edición de texto, color y capas. Espacio optimizado para precisión en el diseño.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXds8V1CpH7dFdwqGJGby9o-wsDJ6iwGNuisS9NV2mY55xvRwNFvsi2W-cueYUCtd8OBk8tEw6QiKYfsznnmmzapfuZftCexyS4cBAM3QI1tLyOa4K7ehph5nrxgnRjhTSMLdebCJQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Favorites
+
+- Desktop: Galería de productos guardados organizada en tarjetas con acciones como eliminar o agregar al carrito.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfoer1wt8y5xPHEkNOCqFQwY5lBxNHaO5XueO05H6V8txsupG-HXPaYEig076EZSV9I_DPb-lNZ7vBc5BuLJOcmL2QC57F9dZ1PYyjfv27kficBfT7KgWHhKylnNeO0cnMY2fJU?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: Lista de productos en formato vertical con acciones rápidas. Adaptación para navegación por toque.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXekqyyeo-Xns2Nx1jVK-3lK2p_rjJ9tPvSsGTHmH5q8OrdE7UXAmKqm_3i-97GPWS4dKBl9QM8qXLWJbkOhRH-nU-YTBLU8QJ1rm2z-EbeRrBE1xXriA8nK7-xYwu0X3XKk-VpQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Explore
+
+- Desktop: Exploración de productos por categoría, con filtros laterales y visualización simultánea de múltiples opciones.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXez7M5MyKWEkVG4UH-ub5MJn8UycHlbSATdc4yoeZBxdoFAGp7B0y4hshg9e-JZFWN-dhg1BW6mh6vEptH4Pc9ytoiA-j_taU_ohwX4KNQ6R5gWtRqYGd8ANX9j9kmtg2Jkn2Bu?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: Navegación vertical con filtros desplegables. Interfaz orientada al descubrimiento secuencial de contenido.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdBIlM__KpnJLNX8XuL6ze1x8jF3u7W8hvYHCimkdVQs9uj6xFVoklzeG1gxdHxV4tN5ae02Bg8xoBwm3aO4R4OE7miIGybFJbIVQHgcpn9uIJtL6lhxW7_5B3ny7gLL6MxpKkNww?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Design Lab
+
+- Desktop: Espacio para pruebas visuales avanzadas o diseño experimental. Herramientas extendidas y estructura similar al Design Studio.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcpjZInVXApb-fA6IxTvCNGOJcaaFLb4oCd5QMPYK0JzSeEKSprqrZTSycTGwQn0RgDHxuYKBm8K9iD3JYE1p7YHhDsscvXmaZKX30a_GHW5BDSRrgzxYGYPIoQ_AcR-4LuHDz62g?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Profile
+
+- Desktop: Panel dividido con secciones para datos del usuario, configuración de cuenta y seguridad. Estructura tipo dashboard.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcc3VDhng2-9AmnPwW9dyqH-GnULzIzc1FcR4u_DQRblxIsG5WbDK5nkvSbiLgo3A8G4X5cyay9n4VGvzfHQw77kKltPw6UKQccnaFA_Y4PaXnDq_myWXwKHMApP3A5WqVls5LjWA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: Menú en formato lista con secciones colapsables para mayor claridad y accesibilidad.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeNyj7k4pbvBNZHsdyKZ-kIqKfjUQYnx6_EVfMUqX9rBtXhxZAPiK5kVudZkIDFqhG41KyQ3HoQm7ZYbR1ewmKCcYog9zRsLEzdTuTXNPOYGeEYpMXPLUC9nE674e6Y65TFlceyIQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Your Designs
+
+- Desktop: Visualización en grilla de diseños previos con opciones de edición, duplicado o eliminación.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcjzIrYzdfsBY3o7kaChk-u7yiApHOqhO9XaUk8DKvlVYp0HewZikBRRvtiolOKcgns29u5NZQtaj2T7CxQB2LHXdqY8urkIIizNiRYQfQ0EM4pBQnsKa6HYmfNOPLoLJry9f6IdA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: Vista tipo lista con miniaturas de diseños, botón de acción principal y organización cronológica.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXr7NGHm0-u-MbaledMu2GgnGOXNQ2uorKb1CRMqruj-QRrEbnfehKqxreMWP4tus_SIYcMrUB3eIZACK4cfN23trKCLKFCei79_icnAg87KhlBVcVSYYXH5hzELXF7to3CzfUqw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+La estructura de los wireframes para la Web Application refleja una planificación basada en principios de usabilidad, accesibilidad y eficiencia. La segmentación entre versiones desktop y mobile permite optimizar la experiencia del usuario en distintos dispositivos, adaptando los flujos de navegación, el tamaño de los elementos y la jerarquía visual a las particularidades de cada entorno. Esta documentación será la base para las fases de prototipado, pruebas de usuario y posterior implementación funcional en código.
+
+### 4.4.2. Web Applications Wireflow Diagrams
+- **Segmento Objetivo #1: Diseñadores Gráficos Independientes**
+  El Diseñador Gráfico Independiente busca una plataforma intuitiva para crear, guardar, reutilizar y potencialmente vender diseños de polos personalizados, además de explorar diseños existentes para inspiración y gestionar sus pedidos y perfil.
+
+  **Login / Registro:**
+
+  
+
+- **Login:** Introduce sus credenciales (username y password) y hace clic en “Login” para acceder a su cuenta.
+- **Registro:** Si es un usuario nuevo, completa el formulario de registro con sus datos y crea una nueva cuenta para acceder a la plataforma.
+- **Acción esperada:** Autenticarse exitosamente en la plataforma.
+
+**Home:**
+
+- Visualiza un panel principal con posibles accesos directos a secciones clave.
+- Puede ver proyectos recientes (propios o de otros), blueprints populares o destacados.
+- Observa el menú lateral o superior con opciones de navegación a diferentes secciones como "Design Studio", "Blueprints", "Projects", "Explore", "Favorites", "My Orders", "Profile", etc.
+- **Acción esperada:** Familiarizarse con la interfaz principal y decidir a qué sección dirigirse.
+
+**My Orders:**
+
+- Accede a un listado de sus órdenes realizadas previamente.
+- Cada orden muestra información básica como fecha, resumen de productos y precio total.
+- **Acción esperada:** Revisar su historial de compras.
+
+**Order Details:**
+
+- Selecciona una orden específica de la lista en "My Orders".
+- Visualiza la información detallada de esa orden, incluyendo número de orden, productos adquiridos, estado del pedido, método de pago y dirección de envío.
+- **Acción esperada:** Consultar los detalles de una compra en particular.
+
+**Profile:**
+
+
+
+- Accede a la sección de su perfil personal.
+- Puede ver información de su cuenta y un listado visual de sus propios diseños creados (Designed Garments o Design Blueprints).
+- **Acción esperada:** Acceder a la información de su cuenta y a sus creaciones.
+
+**Detalles del diseño (desde Profile):**
+
+- Selecciona uno de sus diseños listados en su perfil.
+- Visualiza los detalles de ese diseño, como la imagen principal, nombre, métricas (favoritos, vistas) y posibles recomendaciones de diseños similares.
+- **Acción esperada:** Revisar los detalles de un diseño específico que ha creado.
+
+**Favorites:**
+
+- Accede a una galería de Designed Garments que ha marcado como favoritas.
+- Cada elemento puede ser revisado nuevamente, añadido al carrito o removido de la lista de favoritos.
+- **Acción esperada:** Revisar y gestionar su lista de diseños favoritos.
+
+**Blueprints:**
+
+- Accede a una lista de Design Blueprints disponibles (públicos o propios).
+- Cada blueprint puede mostrar un título y una vista previa.
+- **Acción esperada:** Explorar blueprints existentes para inspiración o para usar como base.
+
+**Vista de Blueprint:**
+
+- Selecciona un blueprint de la lista.
+- Visualiza detalles del diseño, incluyendo nombre, autor, vistas, descripción y elementos visuales incluidos.
+- **Acción esperada:** Obtener más información sobre un blueprint específico.
+
+**Use Blueprint:**
+
+- Hace clic en el botón "Use Blueprint" en la vista de detalles de un blueprint.
+- El sistema genera una copia editable del blueprint y lo abre automáticamente en el Design Studio.
+- **Acción esperada:** Comenzar a personalizar un diseño basado en un blueprint existente.
+
+**Design Studio / Design Lab:**
+
+- Se carga la interfaz del editor de diseño (Design Lab).
+- Visualiza el Garment Canvas donde puede interactuar con elementos de diseño.
+- Utiliza herramientas para personalizar el diseño: cambiar colores (Garment Color), agregar texto (Add Text), agregar imágenes (Add Image), editar elementos seleccionados (Edit Select, Delete Selected, Move Selected), gestionar capas (Bring Front, Send Back, Move Front, Move Back), y guardar su trabajo (Save Design Blueprint).
+- **Acción esperada:** Crear o modificar un diseño de polo.
+
+**Garment Canvas (Inicial):**
+
+- Se carga un lienzo en blanco o una plantilla básica de prenda.
+- **Acción:** Visualiza el área de diseño.
+
+**Utilizar Herramientas de Diseño:**
+
+- El diseñador construye su diseño usando herramientas como "Add Text", "Add Image", "Edit Select", "Move Selected", "Delete Selected", "Garment Color" y gestiona capas con "Bring Front" y "Send Back".
+- **Acción:** Manipula elementos visuales.
+
+**Save Design (Implícito: Designed Garment):**
+
+- Hace clic en el botón "Save" y asigna un nombre al diseño.
+- **Acción:** Guarda el diseño personalizado.
+
+**Explore:**
+
+- Accede a una vista donde puede navegar entre diferentes Designed Garments disponibles para la compra.
+- Puede haber opciones para aplicar filtros o buscar por nombre, categoría o autor.
+- **Acción esperada:** Descubrir diseños de polos disponibles para comprar.
+
+**Detalles del Designed Garment (desde Explore):**
+
+- Selecciona una camiseta de la lista en "Explore".
+- Visualiza una vista detallada con el nombre del diseño y del Garment Designer, precio (Designed Garment Price), información sobre materiales, vistas previas y recomendaciones.
+- **Acción esperada:** Obtener información detallada sobre un diseño específico que le interesa.
+
+**Add to Cart:**
+
+- Hace clic en el botón "Add to Cart" en la vista de detalles del Designed Garment.
+- El diseño seleccionado se añade a su carrito de compras.
+- **Acción esperada:** Añadir un diseño al carrito para su compra.
+
+**Cart:**
+
+- Es redirigido al carrito de compras.
+- Revisa el contenido del carrito, puede ajustar cantidades y confirmar su selección.
+- Visualiza el subtotal y la opción para proceder al "Checkout".
+- **Acción esperada:** Revisar su selección antes de la compra.
+
+**Checkout:**
+
+- Inicia el proceso de compra.
+- Introduce su información de envío, selecciona un método de pago y completa la transacción.
+- **Acción esperada:** Finalizar la compra del diseño seleccionado.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2SOGwxX4BrDPeiaeMZwYCo9ek_L6lhyqKN9PspgBxxkqEUtfS7EFIdJUT9ZTcoTqxEjaveUXEvsuQb5kJk_P4AhasD_UopYin85JPY0JnjY9kXJexTUGFnp367WbjA8BJxK5hnA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+El Diseñador Gráfico Independiente, utilizando la plataforma móvil, busca una manera rápida y eficiente de acceder a su cuenta, revisar sus pedidos y explorar diseños para inspirarse mientras se encuentra en movimiento. Valora la capacidad de consultar los detalles de sus compras y visualizar la información esencial de los diseños directamente desde su dispositivo móvil.
+**Login:**
+
+
+- El Diseñador Gráfico Independiente introduce su nombre de usuario y contraseña en los campos correspondientes.
+- Luego, pulsa el botón "Login".
+- **Acción esperada:** Autenticación exitosa en la plataforma móvil.
+
+**Home:**
+
+- El Diseñador Gráfico Independiente accede a la pantalla principal.
+- Visualiza una lista de diseños (posiblemente "Popular Now").
+- Observa iconos de navegación en la parte inferior o superior (Home, Explore, Profile, Cart, etc.).
+- **Acción esperada:** Exploración inicial de la interfaz móvil.
+
+**Profile:**
+
+- El Diseñador Gráfico Independiente pulsa el icono de "Profile" en la barra de navegación.
+- Accede a la sección de su perfil, donde puede ver información de usuario y accesos a otras secciones como "Designs".
+- **Acción esperada:** Acceso a la información de la cuenta y a sus diseños.
+
+**Acceso a "My Orders":**
+
+- Desde el perfil o desde un icono en la navegación, el Diseñador Gráfico Independiente accede a la sección de sus órdenes. (La pantalla muestra "My Orders" en la parte superior).
+- Visualiza una lista de sus pedidos.
+- **Acción esperada:** Revisión del historial de compras.
+
+**Detalles de Orden:**
+
+- El Diseñador Gráfico Independiente selecciona una orden de la lista.
+- Visualiza la pantalla de "Order Details" con información como el número de orden, productos, cantidad, precio unitario, precio total, método de pago, dirección de envío y estado del pedido.
+- **Acción esperada:** Consulta de la información detallada de una orden específica.
+
+**Selección de Diseño:**
+
+- De vuelta en la pantalla "Home", el Diseñador Gráfico Independiente selecciona uno de los diseños mostrados en la lista.
+- **Acción esperada:** Selección de un diseño para ver más detalles.
+
+**Detalles del Diseño:**
+
+- Tras seleccionar un diseño en el Home, el Diseñador Gráfico Independiente visualiza la pantalla con los detalles del diseño.
+- Esta pantalla muestra información como el nombre del diseño ("Bocanada"), el creador, el precio, una descripción, imágenes del diseño y posiblemente una sección de diseños similares.
+- **Acción esperada:** Obtención de información detallada sobre el diseño seleccionado.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1pfmm0HHXbVEdb-OdRooEa-0AHfxP9kDO7pHI9ERNlx8vruT8AXw0A5GBfn14HJVx3yGVkAk2HLZ9fHrBHr-OGYOZnkY3xrp0ngreeFMAisIiucJIZRmeoW98Fp6JQj_jGxWaSQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+
+
+- **Segmento Objetivo #2: Clientes Individuales Creativos**
+
+
+El Cliente Individual Creativo busca una plataforma accesible y divertida para personalizar sus propias camisetas, ya sea partiendo de un lienzo en blanco o utilizando diseños preexistentes como inspiración. Valora la capacidad de expresar su individualidad a través de sus creaciones, así como la posibilidad de explorar y guardar sus diseños favoritos y gestionar sus compras de manera sencilla.
+
+
+
+**Login:**
+
+- El cliente introduce sus credenciales y hace clic en "Login".
+- **Acción esperada:** Autenticación exitosa.
+
+**Home:**
+
+- El cliente visualiza la página principal con accesos a diversas secciones.
+- **Acción esperada:** Exploración inicial y selección de una sección.
+
+**Profile:**
+
+- El cliente accede a su perfil para ver su información y diseños.
+- **Acción esperada:** Revisión del perfil y diseños propios.
+
+**Profile - Designs:**
+
+- Dentro del perfil, el cliente ve sus diseños guardados y puede seleccionarlos.
+- **Acción esperada:** Visualización de diseños propios.
+
+**My Orders:**
+
+- El cliente accede a su historial de órdenes.
+- **Acción esperada:** Revisión de órdenes pasadas.
+
+**Detalle de Orden:**
+
+- El cliente selecciona una orden para ver los detalles.
+- **Acción esperada:** Consulta de información detallada de una orden.
+
+**Explore:**
+
+- El cliente navega por los diseños de polos disponibles.
+- **Acción esperada:** Descubrimiento de diseños para comprar.
+
+**Detalles del Producto en Explore:**
+
+- El cliente selecciona un diseño para ver su información detallada.
+- **Acción esperada:** Obtención de detalles del producto.
+
+**Cart:**
+
+- El cliente revisa los artículos en su carrito de compras.
+- **Acción esperada:** Gestión del carrito y preparación para el pago.
+
+**Checkout:**
+
+- El cliente inicia y completa el proceso de pago.
+- **Acción esperada:** Finalización de la compra.
+
+**Favorites:**
+
+- El cliente accede a su lista de diseños favoritos.
+- **Acción esperada:** Revisión de diseños guardados como favoritos.
+
+**Blueprints:**
+
+- El cliente explora los blueprints disponibles.
+- **Acción esperada:** Descubrimiento de plantillas de diseño.
+
+**Design Studio:**
+
+- El cliente accede al estudio de diseño para crear desde cero o usar un blueprint.
+- **Acción esperada:** Creación o modificación de un diseño.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdW8O9Uu69Nt90vcKspQRqL7jk329Cyp9ajg6heeK0LXNYQnCgs6mmZi0jQ11rDyfONexyVQMdZFIm6FsHdHlRh43UQrPkvUv0YFtSZqZ30xlP8aE1CNcOs2MPWf1dZGF0YtXGr9Q?key=wLsuErVgqDz-qczrBI4kMctR)
+
+
+
+El Cliente Individual Creativo, utilizando su dispositivo móvil, busca una forma intuitiva y visualmente atractiva de explorar diseños de camisetas, revisar sus pedidos y acceder a su perfil de manera rápida y sencilla. Valora la capacidad de descubrir nuevos estilos y mantenerse al tanto de sus compras desde la comodidad de su teléfono.
+
+**Login:**
+
+- El cliente introduce su nombre de usuario y contraseña en los campos correspondientes.
+- Luego, pulsa el botón "Login".
+- **Acción esperada:** Autenticación exitosa en la plataforma móvil.
+
+**Home:**
+
+- El cliente accede a la pantalla principal.
+- Visualiza una lista de diseños (posiblemente "Popular Now").
+- Observa iconos de navegación en la parte inferior o superior (Home, Explore, Profile, Cart, etc.).
+- **Acción esperada:** Exploración inicial de la interfaz móvil.
+
+**Profile:**
+
+- El cliente pulsa el icono de "Profile" en la barra de navegación.
+- Accede a la sección de su perfil, donde puede ver información de usuario y accesos a otras secciones como "Designs".
+- **Acción esperada:** Acceso a la información de la cuenta y a sus diseños.
+
+**Acceso a "My Orders":**
+
+- Desde el perfil o desde un icono en la navegación, el cliente accede a la sección de sus órdenes. (La pantalla muestra "My Orders" en la parte superior).
+- Visualiza una lista de sus pedidos.
+- **Acción esperada:** Revisión del historial de compras.
+
+**Detalles de Orden:**
+
+- El cliente selecciona una orden de la lista.
+- Visualiza la pantalla de "Order Details" con información como el número de orden, productos, cantidad, precio unitario, precio total, método de pago, dirección de envío y estado del pedido.
+- **Acción esperada:** Consulta de la información detallada de una orden específica.
+
+**Selección de Diseño:**
+
+- De vuelta en la pantalla "Home", el cliente selecciona uno de los diseños mostrados en la lista.
+- **Acción esperada:** Selección de un diseño para ver más detalles.
+
+**Detalles del Diseño:**
+
+- Tras seleccionar un diseño en el Home, el cliente visualiza la pantalla con los detalles del diseño.
+- Esta pantalla muestra información como el nombre del diseño ("Bocanada"), el creador, el precio, una descripción, imágenes del diseño y posiblemente una sección de diseños similares.
+- **Acción esperada:** Obtención de información detallada sobre el diseño seleccionado.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdURVrZ7S0M1vTwnWkudewV49g1NNnFBzgzEbBQwrCVX90O_oLT1v1rrByyFaxMZTWf26UGsT7KwBidcw3SIr0fYtVowJ2y7L7VrxDM6Cw-gm8-2nb_5pdTNC5l2aR0f-zMakNNlQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- **Segmento Objetivo #3: Marcas Emergentes y Emprendedores**
+
+  La Marca Emergente o Emprendedor busca una plataforma integral para diseñar, prototipar y potencialmente producir sus líneas de camisetas personalizadas. Valora la capacidad de inspirarse en blueprints existentes, crear sus propios diseños únicos, gestionar sus proyectos en curso y facilitar el proceso de compra para sus futuros clientes, todo dentro de un entorno que respalde el crecimiento de su marca.
+
+**Login:**
+
+- El emprendedor introduce sus credenciales (username y password) y hace clic en “Login”.
+- **Acción esperada:** Autenticación exitosa en la plataforma.
+
+**Home:**
+
+- El emprendedor accede a la página principal, donde puede visualizar un resumen de la actividad, proyectos recientes y accesos directos a diversas secciones.
+- **Acción esperada:** Exploración inicial del panel principal.
+
+**Profile:**
+
+- El emprendedor navega al perfil para ver la información de su cuenta y posiblemente un resumen de sus proyectos.
+- **Acción esperada:** Acceso a la información de la cuenta y gestión de proyectos.
+
+**Ver sus Proyectos :**
+
+- El emprendedor localiza y accede a una sección donde se listan sus proyectos de diseño en curso.
+- **Acción esperada:** Revisión y selección de proyectos existentes.
+
+**Ver Blueprints:**
+
+
+- Desde el menú de navegación, el usuario accede a la sección de "Blueprints".
+- **Acción esperada:** Exploración de blueprints disponibles.
+
+**Detalles del Blueprint:**
+
+
+- El emprendedor selecciona un blueprint para ver información detallada como nombre, autor, descripción y elementos visuales.
+- **Acción esperada:** Obtención de información sobre un blueprint específico.
+
+**Use Blueprint:**
+
+- En la vista de detalles del blueprint, el usuario hace clic en "Use Blueprint".
+- **Acción esperada:** Creación de una copia editable del blueprint en el Design Studio.
+
+**Design Studio:**
+
+- El emprendedor es redirigido al entorno de diseño donde puede modificar el blueprint o crear un diseño desde cero.
+- **Acción esperada:** Personalización del diseño utilizando las herramientas disponibles.
+
+**Explorar:**
+
+- El emprendedor regresa al Home y selecciona la sección "Explore".
+- **Acción esperada:** Búsqueda de diseños de polos disponibles.
+
+**Add to Cart:**
+
+- El emprendedor selecciona un diseño de su agrado y lo añade al "Cart".
+- **Acción esperada:** Adición de un producto al carrito de compras.
+
+**Botón Checkout:**
+
+
+- El emprendedor accede al "Cart" y hace clic en el botón "Checkout" para iniciar el proceso de compra.
+- **Acción esperada:** Inicio del proceso de pago.
+
+**![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXewWA5HEl_-XgMQqiOkMZkYOCNqvt5G6AEPYdBuSuKWj-yIJovnJ0fwhmVCiUEz-m8LRANF8buYxI-SasloJ27zezs2q85iHmCYj6zdhKlCfpkop7X16rNJF1HE29ULDRTE0a_lGA?key=wLsuErVgqDz-qczrBI4kMctR)**
+
+
+
+La Marca Emergente o Emprendedor, utilizando su dispositivo móvil, busca una manera práctica de mantenerse al tanto de sus pedidos y acceder rápidamente a la información de su perfil mientras gestiona su negocio en movimiento. Valora la capacidad de revisar los detalles de sus órdenes de producción y tener una visión general de su cuenta directamente desde su teléfono.
+
+**Login:**
+
+- El emprendedor introduce su nombre de usuario y contraseña en los campos correspondientes.
+- Luego, pulsa el botón "Login".
+- **Acción esperada:** Autenticación exitosa en la plataforma móvil.
+
+**Home:**
+
+- El emprendedor accede a la pantalla principal.
+- Visualiza una lista de diseños (posiblemente "Popular Now").
+- Observa iconos de navegación en la parte inferior o superior (Home, Explore, Profile, Cart, etc.).
+- **Acción esperada:** Exploración inicial de la interfaz móvil.
+
+**Profile:**
+
+- El emprendedor pulsa el icono de "Profile" en la barra de navegación.
+- Accede a la sección de su perfil, donde puede ver información de usuario y accesos a otras secciones como "Designs".
+- **Acción esperada:** Acceso a la información de la cuenta y a sus diseños.
+
+**Acceso a "My Orders":**
+
+- Desde el perfil o desde un icono en la navegación, el emprendedor accede a la sección de sus órdenes. (La pantalla muestra "My Orders" en la parte superior).
+- Visualiza una lista de sus pedidos.
+- **Acción esperada:** Revisión del historial de compras.
+
+**Detalles de Orden:**
+
+- El emprendedor selecciona una orden de la lista.
+- Visualiza la pantalla de "Order Details" con información como el número de orden, productos, cantidad, precio unitario, precio total, método de pago, dirección de envío y estado del pedido.
+- **Acción esperada:** Consulta de la información detallada de una orden específica.
+
+**Selección de Diseño:**
+
+- De vuelta en la pantalla "Home", el emprendedor selecciona uno de los diseños mostrados en la lista.
+- **Acción esperada:** Selección de un diseño para ver más detalles.
+
+**Detalles del Diseño:**
+
+- Tras seleccionar un diseño en el Home, el emprendedor visualiza la pantalla con los detalles del diseño.
+- Esta pantalla muestra información como el nombre del diseño ("Bocanada"), el creador ("Quri"), el precio, una descripción, imágenes del diseño y posiblemente una sección de diseños similares.
+- **Acción esperada:** Obtención de información detallada sobre el diseño seleccionado.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdsqBT_lJG-oTDwh27l3I60jpjQwyUgItui1zMLIMnmZ6KNV9uSa7tbb3vJVnHchZEYkwcJ4Qf2imEzEUlW01CTqe8nD7fiovaekDfqZSUVyExbnl47DfUFxw5dPi4kcoPrxJ_Njg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+### 4.4.3. Web Applications Mock-ups
+Los mockups de alta fidelidad de la Web Application representan una consolidación visual de las decisiones tomadas durante el diseño de wireframes. Aquí se incorporan aspectos gráficos clave como la tipografía, paleta de colores, estilo de botones, íconos, espacios en blanco y jerarquía visual. Su objetivo es ofrecer una representación cercana al producto final, sirviendo como referencia directa para los desarrolladores frontend. En este análisis se evalúa tanto la versión desktop como mobile, considerando criterios de accesibilidad, eficiencia en la navegación y consistencia visual.
+
+Login
+
+- Desktop: El diseño presenta una interfaz centrada, minimalista, con buena proporción de espacios en blanco. Se destacan los campos de usuario y contraseña, acompañados por elementos secundarios como “¿Olvidaste tu contraseña?” o login con terceros. El llamado a la acción (CTA) es claro, con un botón primario diferenciado por color. Se mantiene un equilibrio entre formalidad y calidez visual, transmitiendo confianza al usuario.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXffw_n3uqjpfgsCmo274puOz4z1Oc2W3cF-NcCTQ0zqvjIW_5_1iBheN-5_IRPAmmIByEIz_EFSSJ5TWtArFMeeJKWMB9YiEcabQR28J1AFepWbii8yqRyi1xxkCuL8UnWhxxvw7g?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: La estructura se adapta verticalmente con espaciado generoso entre campos, ideal para interacción táctil. Los botones son accesibles con el pulgar, y la tipografía conserva buena legibilidad. Se reduce el contenido visual no esencial, priorizando el inicio rápido de sesión.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-syYvCgOx0VTva8w8CkIIYqwwH1dx645P41-vY4NmkCqIonL8NHPOxGrAHb8ZrtpgaymkDRNgB05whig5bR90_b2SB6Qe6bWIg4hWtVIDZH75C_ZRdWWxoxE7pS5ZlFBp3sU3OA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Orders
+
+- Desktop: Los mockups muestran un historial de pedidos con layout de columnas, jerarquía clara entre ID de pedido, producto, estado y resumen de pago. Se emplea una línea de progreso visual (tracker) para mostrar el estado de envío, lo que refuerza la transparencia en la experiencia post-compra.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRQGmT8fE6QNPHJWRVn0LymzwajAPQtVG6CN1slPNwJGpXQqPriW-VtwkaKRd-WTqR_B91m8yMeyjfSSHNbNf1-6IWmaxNQo7Xz4Fou7fqGevYbl4DWfVAvpmkkrKlOV6KbQmB-g?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: El layout se reorganiza en tarjetas con bloques de información y estados del pedido en formato lineal. Esto facilita el seguimiento desde dispositivos pequeños sin comprometer la comprensión del estado de cada orden.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdqcmTByZgVpdPIbIydrmu1NrFsUhPs8PGHRgdoj_QJNnCpKgZXrz-Y-3TskA2e6pJFJbKxIdBpgyxulps6pYLHknISeSVr3CBBl2vG5Jg53OHiRM-KhpYjyBywTv_NNXSUG-36Sg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Home
+
+- Desktop: Se presenta un diseño editorial con banners, secciones visuales (“Popular Now”, “New”) y productos destacados en grillas. La navegación es clara, con menú superior y acceso rápido al perfil y carrito. Se logra un balance entre promoción de productos y navegación funcional.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfokRFNx-6IJJgd5DmDxYxNBT4BFAh9dAKcbC3NE9WKCc95TIag-upZUPsQfhzh34G9hr2q0BBA8fK6tThtm0ffQpsB7lPGc1gdQ9h4OEJWwuuKDhSRJF7CyDKzuS9d2Xv8ClxVNA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: El diseño optimiza el desplazamiento vertical con secciones apiladas. Se utilizan carruseles horizontales para categorías, favoreciendo la exploración con el pulgar. Los elementos visuales están adaptados al espacio limitado sin sacrificar identidad visual.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdo9j8jF1QGZmkQ4ZZzjR_YwA0mqL6gq8T901WgN-GuWU8hG_XYIredelv90Lu1a2L8t3VxvrJjPWq04moONLKyFEJzzcB6l7J_4g1k0-NSq0DQ_cGn0sASkvWXtL58si3Zq9dQ5A?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Cart
+
+- Desktop: El carrito muestra productos listados con imagen, cantidad, precio y opción de eliminar. El resumen de compra está fijo o bien ubicado a la derecha para facilitar la conversión. El botón de checkout es prominente y claro.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXemqHmga-UImzm8oJv-ts8P9_s5Iwaxprr0dMgLeFdHY1rYuuVQlgFku0s1CU-oJROrtUx9tfiaW97W4gRrxSmq5qSeF70ymcJ29FJQQocFz1KJ6Bd5JqakA_LtUsj85G89_g8mqg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+
+
+
+
+- Mobile: Los elementos se agrupan por producto con botones grandes para editar o eliminar. El resumen de totales está al final de la vista, con CTA fijo para facilitar el paso hacia el pago. El enfoque es claro: evitar fricción en la conversión.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc9f6KJFNbgn995sOYhd3MixxTry_6252ofDB5uD4F0TQ2Ub-5eBFYb6GzCTOF4xDYxze1fKKPLx4BDA40jLzupBdFeg-YSi4WEhjc2WaWCP5nt5VzfmbIjYfAR8trrGRWiTdEdAA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Template
+
+- Desktop: Vista de galería con plantillas de camisetas predefinidas. Se muestra una cuadrícula uniforme con imágenes atractivas, nombres y CTA para editar. Se prioriza la estética, invitando al usuario a inspirarse y crear.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdbIwi5X4e6OkZWqVcZ7oB08luVrP8JBtLDlPe_2LCJi46EBsFqeKuPjdVihasxZctYh0WvKnOkUVDti9j6KC9QrSaLu2L17-vWgm8gad56xbeQBAw_WNpiMOGAD9OE8LzJB0ABVQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Design Studio: Interfaz compleja con áreas definidas para edición: previsualización central, herramientas laterales (colores, capas, tipografía), y navegación secundaria. La UI se asemeja a herramientas profesionales de diseño gráfico, con controles de precisión. Se integra lógica de capas y acciones contextuales, aportando una experiencia de personalización completa.
+
+- Desktop
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcV_fLji_TKLktcK36-FPFshOpHCxwXS0f52d3Y1MF80_3BRRROxU43zFRQlPZI4Mg9WIvhqQ0FX-rZJNZYuFhydxL2LzEtZiNMJ3swNRpWfX0Dd8x5ahp3MXttwV6WGYLLWtSqxg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Favorites
+
+- Desktop: Galería de productos favoritos organizados en tarjetas. Cada tarjeta muestra el diseño, nombre, y accesos rápidos para editar o eliminar. El enfoque es visual y emocional, buscando motivar la acción de volver a comprar o editar.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcUNnsHpocgi-C1btwECUkTkYZfEBBXI8QHy7ZeJ53qs6i1VybXOtev_pxpS0bfwp0wei9nHmTGOKT0ysxqoZCGZ0IV9DBxvFBAZ7dDdjrnyGwJDbeZW3uCmhLcxP-P7IV-K3JYXg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: Formato lista con miniaturas grandes y acciones prioritarias visibles. Se adapta a la navegación rápida sin comprometer el valor visual de los productos guardados.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe93pMgaJqvgBP291JbXb2Hg_g3MTVYcQpXJlUddgMjb8ghDQOV4Hutq1tqXLittldrEWSzvgCXgHnoYKyRJSJrcqYqzv-SYrYiATqYo7kfXTvK3aJbwIVHV7FjIYv0JQxyasQZSQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Explore
+
+- Desktop
+
+Pantalla centrada en descubrimiento de productos, con filtros en la parte lateral o superior. Se destacan etiquetas, categorías y tendencias. El diseño fomenta la curiosidad, guiando al usuario a través de un flujo de exploración libre.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeFKp-irZK2RGO5pr_pU_QOaYyXcN7fCoUAnbQek1QOr2NfCot-tFwCEHTaJcLH5Rd0p5ySqjABz4NFz3SMYqP6Y9wniPkgjf8-KWh7IJnzJ9xob9BibRnSylY_n8n6AKIk3mMIkQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile
+
+Filtros adaptados en formato desplegable, con navegación vertical continua. Las categorías son accesibles con un toque y se priorizan contenidos visuales por encima del texto.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXerXV2_7rCK0vW6pw1NQzhXphSWwUrzk7G4IYuHsICTOI67TFPm3oYI-Y0BmBBw2iDIO_JJAFC6zV-jTtq1Xk_1QLxr5o6jxx4LBoCvTOLCyfQdIZOI81kWvl2q0ooVP83YBfeL?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Design Lab
+
+- Desktop: Área experimental para diseñadores. Se incluye carga de imágenes, vista previa avanzada y pruebas A/B visuales. Este entorno permite testear creatividades antes de publicarlas o producirlas. El diseño está orientado a productividad y control creativo.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLs2xHR5IQdARVB7uMiiqtJfUwzG9T8S1rwEPc1wF0stD7-YriIs3PJPfVHJqaIZGB0JL4FnIgcf7x0vctDwieHt6BIDZkqJJmB7YzYGTr6w2VGZaFbd2oX3mlkZp3tpxHru3efg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Profile
+
+- Desktop: Vista tipo panel con opciones de configuración, datos del usuario, seguridad y métodos de pago. Interfaz organizada por pestañas o columnas, que facilita la modificación rápida de información personal.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdWvNegaMj4qXPyo6R4db1mEQPf-cDP-ph49-zXG9PfURlxOa8gG7_iMeWXazkI9n5C6Q43MIh55fssTCtLsoqFQaqWLiDc6__T92pFXBlg5ySCnIF9WqvCSYltZlLN0tfwMfWhtQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: Diseño en forma de lista expandible, con accesos simplificados. Se asegura que todas las funciones sean accesibles con una sola mano y se mantenga la claridad en los formularios.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXebvYJkcFBfGIEXhd6-8owZ-7-U66kh4FOLBYbcGIGLKdYnKMSQCiReCr6sBAKk08-Him5glQnk3O4KCUFZQrbNAsgZVZ7RYrVlhQCjoRbL8YCSyLmvjnKf5gyu6iQia7WHuYXc9w?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Your Designs
+
+- Desktop: Galería con los diseños creados por el usuario. Se presenta una grilla editable con herramientas de duplicación, eliminación o exportación. El objetivo es reforzar el sentido de propiedad y motivar la iteración.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdeO9hwo-lfA0_deumM5p8L1uJuc1NiQBQQOCQLGQsAbV-DesobygH5GbNbUIIpRThYhxnmbcRDij7CNsDjAsbA7cx2QzuMrEdvgFvFlq0nQJ5urWvayYtTmdtPXOAZ6IlgHcosw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Mobile: Interfaz con tarjetas apiladas y botones principales visibles. Se conserva la estética original del diseño y se permite acceder a la edición con un solo toque.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeeYuIhyAy0aW0Aani0kzbOXDWUl1-Ddc66jmdgsMx0xIheabSit7nolZv1HUT7rcyPZTH63XG0UePhEvnknXpnDRJnqomgQdtC5-srn8jzXzq_GGfipxbTACaMfu1AD7TdduSF?key=wLsuErVgqDz-qczrBI4kMctR)
+
+### 4.4.4. Web Applications User Flow Diagrams
+La presente sección reúne y describe los flujos de usuario (User Flows) diseñados para los tres segmentos principales de la plataforma: Diseñadores Gráficos Independientes, Clientes Individuales Creativos y Marcas Emergentes y Emprendedores. Cada uno de estos perfiles responde a motivaciones y objetivos distintos dentro del ecosistema digital, por lo que sus recorridos funcionales fueron modelados tanto desde el happy path que representa el flujo ideal esperado sin fricciones como desde el unhappy path, que contempla errores, validaciones fallidas y escenarios de desviación. A través de los diagramas presentados en la galería https://imgur.com/a/H7DD9iP, se puede visualizar de forma clara y estructurada cómo cada tipo de usuario interactúa con la plataforma: desde el acceso inicial y la navegación por rutas clave como Home, Design Lab, Explore, Orders o Profile, hasta la ejecución de acciones críticas como publicar, aprobar, personalizar o comprar un diseño. Estos flujos reflejan no sólo la lógica funcional del sistema, sino también las necesidades específicas de cada usuario, y permiten asegurar que la experiencia esté optimizada para cada segmento dentro del proceso de diseño, validación y venta de productos personalizados.
+
+**Segmento Objetivo #1: Diseñadores Gráficos Independientes**
+
+Un grupo de usuarios expertos en herramientas de diseño visual que utilizan la plataforma con el objetivo principal de crear, editar, publicar y vender sus propios diseños personalizados. Estos diseñadores tienen como propósito profesional consolidar un portafolio comercial dentro del ecosistema digital de la plataforma, administrando su catálogo y facilitando el acceso de sus productos a posibles compradores. Para ello, requieren una experiencia fluida, potente y con rutas específicas que se alineen a sus flujos de trabajo creativo y comercial.
+
+En el diagrama correspondiente al Happy Path, se modeló el flujo ideal que sigue este tipo de usuario desde el inicio de sesión o registro hasta la publicación exitosa de un diseño y la validación de su venta mediante una compra simulada. El recorrido parte desde la pantalla de Login/Register (en versión Desktop o Mobile) y continúa hacia la pantalla Home, la cual funciona como centro de operaciones desde donde el diseñador puede acceder directamente a rutas clave como Explore, Favorites, Blueprints, Projects y Design Lab. Desde esta interfaz central, el diseñador ingresa a Design Lab para comenzar el proceso de creación gráfica. Allí puede diseñar desde cero o editar trabajos existentes, y tiene la posibilidad de borrar versiones previas. Tras finalizar el diseño, el usuario accede a la función de previsualización y luego a la interfaz de publicación donde debe asignar nombre, precio y categoría al producto.
+
+La validación en este flujo incluye controles para asegurar que todos los campos necesarios estén completos y correctamente formateados antes de proceder a publicar. Una vez publicado, el sistema muestra una confirmación de éxito y redirige al usuario a su sección de Blueprints o Projects, donde podrá visualizar su diseño como activo y disponible. Para comprobar la experiencia de compra desde el punto de vista del consumidor, el diseñador navega nuevamente a Explore, selecciona su propio diseño, lo agrega al carrito, realiza el pago y confirma que el pedido se refleja correctamente tanto en la sección Orders como en su perfil personal. Este recorrido demuestra la integridad del flujo creativo-comercial y permite al diseñador verificar que su producto cumple con todo el ciclo funcional dentro de la plataforma.
+
+- Happy Path
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkutvMB3igfdMKt6hM4GJVt11wsgA81-wCcU2yf3jbGFmobHRMcM_NnKE3c6ta01zpdpQMFSmp79y5PlcuHSB2IDLYdo-wdGqZyE_wdvPXoYqr587L19Qli7tnT1WGSzb8BKvQ6Q?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Unhappy Path
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQXg08g7abTjTg1UYdMHgRIOOXiMyP5V6KrpLOYjIIAJJKZW8x193A3k98KpUzqtfUIh0_BoR0tKM6INyAqUUEzp8hviLcS61zhiCNW5vO0udWZz0e9t4xsTCZTlwidhdggsl1Wg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Por otro lado, en el diagrama correspondiente al **Unhappy Path**, se modelaron diversas situaciones de error o desviación que pueden afectar negativamente la experiencia del diseñador. Estos escenarios comienzan con fallos en la autenticación como credenciales inválidas, campos vacíos o usuarios no registrados. Luego, se contemplan problemas dentro de Design Lab como la pérdida de datos por no guardar correctamente, cierres inesperados del navegador o errores en la carga del entorno de diseño. También se consideraron fallos durante la publicación, como la omisión de campos obligatorios (nombre, precio, categoría), intentos de publicación duplicada, o interrupciones por fallos del servidor.
+
+A nivel comercial, se incluyeron errores en el proceso de compra como fallos al agregar productos al carrito, problemas con la pasarela de pago o transacciones rechazadas. Finalmente, se evaluaron inconsistencias en la actualización de la sección Orders o en la visualización del perfil del diseñador, como pedidos no registrados o ventas no reflejadas por problemas de sincronización del backend. En todos estos casos, el sistema debe mostrar mensajes de error claros, sugerencias de corrección y, de ser posible, permitir reintentos sin pérdida de datos.
+
+Ambos flujos, el ideal (Happy Path) y el de desviaciones (Unhappy Path), han sido desarrollados con una arquitectura modular, respetando las rutas visibles en la interfaz de usuario y manteniendo la coherencia con las necesidades funcionales de los diseñadores. Las rutas como Design Lab, Blueprints y Projects se alinean directamente con los objetivos del segmento, mientras que las secciones Explore, Cart y Orders permiten al diseñador interactuar con la plataforma como si fuera también un comprador, completando así la validación end-to-end del diseño publicado. Gracias a este enfoque, se logra una experiencia rica, controlada y profesional, adecuada para un usuario que trabaja de manera autónoma y exige robustez tanto en la etapa creativa como en la de venta digital.
+
+**Segmento Objetivo #2: Clientes Individuales Creativos**
+
+Usuarios que, si bien no necesariamente son diseñadores profesionales, sí tienen un interés activo en la personalización y creación visual. Estos usuarios acceden a la plataforma con la motivación de diseñar productos personalizados (como camisetas, polos u otros artículos) para uso personal, como regalo, para eventos o para autoexpresión. Su comportamiento combina exploración visual, personalización asistida y procesos sencillos de compra digital.
+
+En el diagrama correspondiente al Happy Path, se modeló el flujo ideal que estos usuarios seguirían desde el acceso inicial a la plataforma hasta la compra final de un producto personalizado. El recorrido comienza con el login o registro del usuario, accediendo luego a la pantalla Home, donde se presentan las rutas principales como Explore, Favorites, Blueprints, Projects y Design Lab. A diferencia de los diseñadores, este segmento suele iniciar su experiencia desde Explore, donde puede ver modelos prediseñados o inspiración. Desde allí, el cliente selecciona un diseño base o plantilla (Blueprint), lo guarda en sus favoritos si desea evaluarlo luego, y lo edita directamente en Design Lab. En este entorno, puede modificar textos, colores y elementos gráficos de forma asistida, sin requerir conocimientos avanzados de diseño.
+
+Tras completar la personalización, el usuario previsualiza su producto, accede a la interfaz de publicación para asociarlo a su perfil como un diseño privado o público, y lo agrega directamente al carrito de compras. Posteriormente, continúa hacia la pantalla Cart, revisa el pedido, realiza el pago mediante una pasarela integrada y recibe una confirmación de pedido exitoso. La información del pedido queda registrada en la sección Orders y también se refleja en su perfil personal, donde puede hacer seguimiento a sus compras o volver a personalizar productos similares en el futuro.
+
+- Happy Path
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcIQNbzuRj_zIh4s9q2NTMRuh_luuS-GGmSnvEbVtYiMF7Qp34Cr1b8yeTR8ZhzBa5kXk68e8Oljjfq82z96kXxRv9vVYWNypuJsgJg5-rQcpqsIK7Y2YYzxEov3a0LJiJe92EWdA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+El diagrama correspondiente al Unhappy Path contempla los errores más comunes que este tipo de usuario puede experimentar a lo largo de su proceso. Entre ellos se incluyen problemas al iniciar sesión, olvidos de contraseña o datos incompletos al registrarse. Una vez dentro del sistema, puede enfrentarse a errores en la carga de contenido desde Explore, fallos de conexión, plantillas no disponibles o errores al intentar editar diseños desde Design Lab. Durante la etapa de personalización, es posible que el usuario omita guardar los cambios o que el sistema no valide correctamente ciertos campos obligatorios como textos mínimos o áreas de impresión válidas. También se contemplan fallos en la adición de productos al carrito, errores de facturación o rechazos en el procesamiento del pago.
+
+En todos estos casos, el sistema debe ofrecer mensajes de error comprensibles, validaciones oportunas y, sobre todo, permitir al usuario continuar sin perder su progreso. Para este tipo de cliente, la facilidad de uso, la claridad en las acciones y la simplicidad en la experiencia de compra son fundamentales. Por esta razón, las rutas como Explore, Favorites, Blueprints, Cart y Orders están diseñadas para ser intuitivas, mientras que Design Lab se adapta con herramientas guiadas y opciones visuales amigables para usuarios no técnicos.
+
+- Unhappy Path
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOmFXt58v_Txsinm8VSt90T54TgOiPitf_QRWj_vPB7GP5EyCzswjargKNDn3uV37rbuDzeB7xC9jxFU7Mw-BWtz6NbDMyaSVdlr4rdUWbQz6LRZw5SGGVa8h1gv7woHGbSSu85g?key=wLsuErVgqDz-qczrBI4kMctR)
+
+En síntesis, aunque este segmento comparte algunas rutas con los Diseñadores Gráficos Independientes, su experiencia está orientada hacia la autoexpresión simplificada y la compra directa de productos personalizados. Las validaciones aplicadas en cada etapa garantizan una experiencia coherente, predecible y libre de frustraciones, asegurando que cualquier usuario creativo pueda completar su objetivo sin requerir habilidades especializadas. La estructura modular de los flujos, sumada al enfoque UX centrado en el cliente casual, posiciona a este segmento como un componente clave del éxito de la plataforma.
+
+**Segmento Objetivo #3: Marcas Emergentes y Emprendedores**
+
+Usuarios que utilizan la plataforma no solo para diseñar, sino también para construir un negocio alrededor de sus productos personalizados. Este segmento tiene una naturaleza dual: por un lado actúa como diseñador (User-Designer), y por otro como vendedor con capacidad de producción o delegación de fabricación (Manufacturer). Su objetivo principal es consolidar una línea de productos bajo su marca personal o comercial, publicarlos, gestionarlos y ofrecerlos a un público comprador a través del ecosistema digital.
+
+En el diagrama correspondiente al Happy Path, se representa el flujo ideal que sigue una marca desde el registro hasta la venta efectiva de un diseño. El recorrido inicia con el login o registro, que da acceso al dashboard principal (Home), donde la marca puede dirigirse a rutas esenciales como Design Lab para la creación, Blueprints para gestionar sus diseños, Projects para visualizar los activos, Orders para administrar ventas y Profile para controlar su identidad comercial. En Design Lab, la marca puede crear nuevos diseños, editar los existentes y eliminar versiones no deseadas. Luego de previsualizar el diseño, asigna nombre, categoría y precio, y procede a publicarlo. A diferencia de un usuario común, este diseño no se publica automáticamente: pasa a una fase de revisión por parte del Manufacturer, quien evalúa su viabilidad técnica para producción.
+
+- Happy Path
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0UNWOwqpYa432F3wYYbDZGvaoWejHXSZ5EpfpiJzqNFnJf7JhzpqRE1jTXDafovW1ZIxIKOWSk9qEvBdjEsta7BCczONoy1VmLBL7CZpaziAHIEz-aVvyLjxUANxz5oNb6Ii6?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Una vez enviado a revisión, el diseño aparece en la sección Blueprints con el estado “pendiente”. Desde su propio panel, el Manufacturer —que puede ser la misma marca o un tercero dentro de la plataforma— revisa los diseños enviados, verificando aspectos como complejidad, materiales, disponibilidad y logística de producción. Si el diseño cumple con los requisitos, se aprueba y se activa para su publicación en el catálogo. En caso contrario, se rechaza con retroalimentación clara para su corrección. Posteriormente, un cliente puede comprar el producto desde la sección Explore, realizar el pago, y el pedido queda registrado en la sección Orders, donde la marca puede gestionar la producción, seguimiento y facturación. Finalmente, en Profile, la marca observa estadísticas de ventas, reputación, comentarios y productos activos.
+
+- Unhappy Path
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdGdzm3QpUDb-rGS-377bFdDd0L3zWzGqE6zyqFMTZobqVVfc_Rf24kopBnfXvUWt9DC7nYaDACaxBlzY2KwEFI4gS45xb0TlDS7M9rSNxn5HB4XUpSPU99vX1Sx9NCQQfE8ZyxZg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Por otro lado, el diagrama del Unhappy Path detalla los escenarios de error o fricción a lo largo del mismo flujo. En la fase inicial, puede haber errores de login como credenciales inválidas o cuentas no reconocidas. En el Design Lab, es posible que se pierda información por cierre inesperado, errores de guardado o formatos inválidos. Durante la publicación, el sistema puede rechazar el diseño por omisión de campos obligatorios o fallos de conexión. En la revisión del Manufacturer, puede haber rechazos sin retroalimentación útil o incluso aprobaciones erróneas que terminan en quejas de los clientes. En la etapa de compra, un producto puede estar visible pero no disponible, o la pasarela de pago puede fallar, impidiendo la conversión. Finalmente, errores de sincronización en Orders o en el Profile pueden provocar desactualización de estadísticas, métricas o reputación comercial.
+
+Este flujo dual (User-Designer y Manufacturer) permite a las marcas emergentes tener control total sobre el ciclo de vida de sus productos. A diferencia de un cliente individual o un diseñador freelance, este segmento integra diseño, gestión de aprobación, administración comercial y visión de negocio. Las rutas como Blueprints, Orders y Profile cobran especial relevancia, ya que son las que conectan directamente la creación con la venta efectiva. Las validaciones implementadas en cada paso buscan reducir errores operativos y garantizar que solo productos viables lleguen al mercado. Así, la plataforma no solo se convierte en un espacio de creatividad, sino también en un canal sólido para el emprendimiento digital.
+
+## 4.5. Web Applications Prototyping
+Página 72
+
+## 4.6. Domain-Driven Software Architecture
+Domain Driven Design proporciona un enfoque estructurado para el desarrollo de software que gestiona eficazmente la complejidad del negocio mientras mantiene el enfoque en el modelo de negocio (Nair, 2019). Uno de los conceptos importantes dentro de DDD son los 
+
+Bounded Context, a continuación el detalle:
+
+| Bounded Context       | Descripción                                                  |
+| --------------------- | ------------------------------------------------------------ |
+| **Design Lab**        | Allows Designers to create the products that will later be purchased. Without designs, there is no catalog or sales. |
+| **Order Processing**  | Manages the commercial flow of the order from the moment the user makes a purchase until it is ready for production. Without this, there is no business. |
+| **Order Fulfillment** | Physically executes the order: manufacturing, packaging, and delivery. It is the operational heart of the personalized t-shirt model. |
+| **Product Catalog**   | Makes products visible to buyers, allowing them to explore and discover designs. It is the user's point of contact with the offerings. |
+| **Payment Gateway**   | Enables charging users. It is essential but can initially be delegated to an external provider. |
+| **User Management**   | Manages identity, roles, and authentication. It is crucial, though more infrastructural than part of the core domain. It can initially rely on external auth providers if necessary. |
+
+En el desarrollo del sistema TeeLab, una plataforma perteneciente al ecosistema Quri, se implementó una arquitectura de software basada en el modelo C4 (Context, Container, Component, Code) junto con los principios de diseño estratégico de Domain-Driven Design (DDD). TeeLab busca empoderar a creadores digitales permitiéndoles diseñar, lanzar y vender camisetas personalizadas sin necesidad de experiencia técnica o logística. Esta arquitectura no solo responde a una necesidad técnica, sino que refleja directamente la visión de negocio del proyecto: *reducir la fricción entre la creatividad y el comercio, eliminando intermediarios tradicionales*.
+
+El enfoque arquitectónico adoptado segmenta el sistema en bounded contexts alineados con funcionalidades clave del modelo operativo de TeeLab: diseño visual (Design Lab), comercialización (Product Catalog), procesamiento de pedidos (Order Processing), cumplimiento (Order Fulfillment), transacciones (Payment Gateway), y gestión de usuarios (User Management). Estos módulos están orquestados mediante una API central y respaldados por tecnologías como Supabase, Stripe y Cloudinary, que garantizan escalabilidad, modularidad y time-to-market acelerado.
+
+Esta sección documenta los niveles Contextual, Contenedor y Componente del modelo C4 para TeeLab. Las imágenes están disponibles para su consulta y descarga en el siguiente repositorio:
+
+[https://drive.google.com/drive/folders/1IBcYGBnI3-Xl4SRyJGn8h0g5WZWiZipe
+](https://drive.google.com/drive/folders/1IBcYGBnI3-Xl4SRyJGn8h0g5WZWiZipe)
+
+### 4.6.1. Software Architecture Context Diagram
+El diagrama de contexto representa la visión más externa del sistema TeeLab y posiciona sus actores clave, sus relaciones funcionales y sus conexiones tecnológicas. En este nivel, se identifican tres roles fundamentales: el usuario (comprador final), el diseñador (creador de los productos visuales), y el fabricante (productor físico de las camisetas). Cada uno de estos actores accede a TeeLab con fines distintos, pero todos convergen en una plataforma central que les permite interactuar con productos personalizados de forma transparente y eficiente.
+
+TeeLab se conecta además con tres servicios externos que permiten extender sus capacidades sin comprometer la cohesión del núcleo: Cloudinary gestiona la visualización y almacenamiento optimizado de imágenes; Stripe se encarga de las transacciones económicas, garantizando pagos seguros y distribución de ganancias entre las partes; y Supabase proporciona autenticación, base de datos en tiempo real y almacenamiento estructurado. Esta integración permite que TeeLab funcione como un ecosistema completo para el diseño, la comercialización y la entrega de productos personalizados bajo demanda.
+
+Este modelo contextual refuerza la visión estratégica de Quri: permitir que cualquier persona convierta sus ideas visuales en productos reales y monetizables, conectando a creadores y compradores mediante una infraestructura digital modular. La arquitectura orientada a usuarios y a servicios permite adaptar TeeLab a nuevos segmentos, geografías o verticales sin afectar su core funcional.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMXyb0nQJpZWCY8SfN--iXeRAK-7KPSyk-8cK8J1rIoJGKIfE-yRmI3pGxCwKryVOvdwC_qa7NrL_AClfZdhi3vpiRSetH8_ondfOTLa9SKnCblh10al1_cE4sjFhNFkliyRf3eg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+### 4.6.2. Software Architecture Container Diagram
+El diagrama de contenedores profundiza en la estructura interna del sistema y muestra cómo está organizado TeeLab desde el punto de vista de los bloques de ejecución. La aplicación se divide en cuatro contenedores principales: la Landing Page, la Web App con SPA, el API Backend, y los servicios externos integrados. Cada uno de estos elementos responde a una necesidad operativa del modelo de negocio.
+
+La Landing Page actúa como punto de entrada estratégico, presentando la propuesta de valor de TeeLab y diferenciando la experiencia según el tipo de usuario. Desde allí, los usuarios acceden a la Web App, una interfaz de una sola página (SPA) que ofrece todas las funcionalidades principales: diseño de camisetas, exploración de catálogo, configuración de pedidos, seguimiento de entregas y gestión de perfil. Esta SPA consume servicios desde un backend central (API), que orquesta las operaciones entre los diferentes módulos funcionales como el procesamiento de pagos, la gestión de órdenes o la generación de productos.
+
+La comunicación con los servicios externos se realiza desde la capa de infraestructura del backend. Cloudinary permite servir imágenes optimizadas para el catálogo visual; Stripe se encarga de crear sesiones de pago y registrar movimientos económicos; y Supabase gestiona toda la persistencia de datos estructurados, autenticación y lógica de usuarios. Este diseño distribuido permite a TeeLab escalar sus módulos de forma independiente, mantener una separación clara entre el frontend y la lógica de negocio, y reducir el tiempo de despliegue de nuevas funcionalidades.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdHAm2P3vjK1gjP4hod9Q7iUzdSOoYJo3VTldrLLRnfB5JjRQY0Qs_FmLdGM0WkzyX6cn6TBvh4_yDF_o8eqn_25_AC7eTvsoVvI-nffQYlHlw1vwYqk0ym5Gu_DW61Vt-2aSI5ZQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+### 4.6.3. Software Architecture Componentes Diagrams
+Api Components Diagram
+
+El componente API representa el eje de integración del sistema TeeLab. No se trata simplemente de una puerta de entrada para peticiones externas, sino de una capa de coordinación estratégica entre los distintos bounded contexts. Cada endpoint disponible en la API responde a un caso de uso específico, como registrar un nuevo blueprint, procesar una compra, generar un recibo o consultar el estado de un pedido. El componente también contiene un conjunto de servicios compartidos (cross-cutting concerns), como validación, logging y control de errores, que son utilizados transversalmente por todos los módulos funcionales.
+
+A nivel de implementación, la API distribuye sus responsabilidades en componentes por dominio como Order Processing, Payment Gateway, User Management o Product Catalog, facilitando el desacoplamiento lógico. Esta estructura permite que cada bounded context sea desplegable y actualizable de forma independiente, respetando los principios de modularidad y orquestación ligera. Desde el punto de vista del negocio, la API actúa como garante de la coherencia del sistema, asegurando que todas las operaciones respeten las reglas definidas y que las transacciones fluyan correctamente desde el diseño hasta la producción y el cobro.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdM8383uFqRRxqSqsexPGWXVYJ2Yw16Tbn6r3gbZpVZVj1xCn7aPvLCX5Vuk_-gaEJVxPIwl9iE90yC0LdRIgRJ0zXf0-fdaLZUFlQSlUDloeZmrtm0ppYbTvX1Px9W-eK1MN9GTA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Order Processing
+
+El componente Order Processing representa uno de los pilares funcionales del sistema TeeLab, ya que se encarga de gestionar el flujo comercial de los pedidos desde el momento en que un cliente inicia el proceso de compra hasta que la orden queda validada y lista para su ejecución logística. Dentro de la arquitectura orientada a dominio, este módulo materializa el uso de un bounded context específico que encapsula todas las reglas, eventos y entidades relacionadas con el ciclo de vida del pedido, manteniendo una autonomía funcional respecto a otros contextos como el catálogo o el gateway de pagos.
+
+El proceso se inicia cuando un usuario, tras seleccionar un producto del catálogo y personalizarlo si lo desea, decide realizar una compra. En ese momento, se activa el componente de Order Processing, que crea una nueva instancia de orden, valida su contenido, calcula el monto total considerando comisiones y descuentos, y establece un estado inicial del pedido como “pendiente de pago”. El módulo permite también aplicar políticas comerciales tales como validez de cupones, mínimos de compra o condiciones de promociones temporales, configurables según campañas activas.
+
+Una vez validada la orden, el componente interactúa con el Payment Gateway para iniciar la sesión de pago correspondiente, generando los identificadores de transacción necesarios y quedando a la espera de una notificación de éxito o rechazo. Si la transacción es confirmada, Order Processing cambia el estado del pedido a “pagado” y emite un evento de dominio que será consumido por el componente de Fulfillment, dando inicio a la producción física del bien adquirido.
+
+Desde el punto de vista técnico, el componente se compone de tres subniveles: Interfaces, Application y Domain. La capa de Interfaces expone endpoints específicos para crear, listar y actualizar órdenes; la capa de Application orquesta la lógica de validación y cálculo de precios; y la capa Domain encapsula entidades como Order, OrderItem, PaymentStatus y DiscountPolicy, además de contener agregados que permiten mantener la integridad transaccional de cada orden.
+
+El valor estratégico de este componente radica en su rol como punto de convergencia entre las decisiones del usuario, las políticas de negocio y los flujos técnicos internos. Cualquier error o ambigüedad en esta parte del sistema afectaría directamente la experiencia del cliente y la viabilidad comercial de TeeLab. Por ello, se ha diseñado como un módulo autocontenible, con eventos bien definidos y contratos claros con los otros componentes del sistema. Gracias a ello, es posible extender sus funcionalidades (por ejemplo, con reembolsos, cambios o reservas de stock) sin impactar otras áreas del producto, asegurando así su adaptabilidad futura y su alineación con la visión de crecimiento de Quri.
+
+
+
+Order Fulfillment
+
+El componente Order Fulfillment constituye la pieza clave en la cadena de valor de TeeLab, ya que se encarga de llevar a cabo la materialización física del pedido que el usuario ha generado digitalmente. Una vez que la orden ha sido validada y pagada mediante el componente de Order Processing, es el módulo de Fulfillment el que toma el control del flujo, asegurando que se cumplan todas las actividades necesarias para producir, empacar y despachar la camiseta personalizada, cerrando así el ciclo de experiencia del cliente. Este componente opera como un bounded context autónomo que encapsula la lógica específica del cumplimiento de pedidos, respetando los principios de independencia funcional del modelo Domain-Driven Design.
+
+Desde el punto de vista funcional, Order Fulfillment se activa automáticamente tras la confirmación de una orden exitosa. El evento “orden pagada” es interpretado por este módulo como un disparador para iniciar la secuencia de operaciones que conducen a la producción del artículo. El proceso comienza con la creación de una instancia de producción (ProductionBatch), que agrupa órdenes similares para optimizar los costos de impresión y empaquetado. Posteriormente, se genera una asignación para uno o más fabricantes, quienes, mediante sus interfaces administrativas, pueden actualizar el estado de cada lote o unidad: en producción, terminado, empaquetado, despachado o entregado.
+
+Técnicamente, el componente está estructurado en tres capas: Interfaces, Application y Domain. La capa de Interfaces proporciona vistas internas y endpoints RESTful que permiten a los fabricantes interactuar con el sistema, registrar avances y resolver incidencias. La capa de Application se encarga de orquestar las reglas de negocio del proceso de cumplimiento, como los tiempos máximos de producción, los puntos de control logístico, o las notificaciones al usuario. Finalmente, la capa de Domain modela las entidades relevantes, incluyendo FulfillmentOrder, ManufacturingStatus, DeliveryCheckpoint y PackagingUnit, con agregados que aseguran la consistencia de cada etapa del proceso.
+
+Desde el punto de vista del negocio, este componente materializa la promesa de TeeLab de convertir ideas en productos reales. Representa el puente entre el mundo digital del diseño y el mundo físico de la fabricación, empaquetado y distribución. En ese sentido, su correcto funcionamiento impacta directamente en la percepción de calidad del cliente final, en la reputación de los diseñadores que usan la plataforma y en la eficiencia operativa de los fabricantes asociados.
+
+El componente también está preparado para emitir eventos de dominio hacia otros módulos del sistema, como actualizaciones en la interfaz del usuario o alertas en el panel del diseñador. Esta capacidad permite mantener una trazabilidad completa del proceso de fabricación, mejorar la comunicación y anticipar posibles cuellos de botella. Asimismo, el diseño modular permite escalar el componente a diferentes regiones geográficas, integrar nuevos socios logísticos o añadir funcionalidades como seguimiento en tiempo real, validación de calidad o gestión de devoluciones.
+
+
+
+Design Lab
+
+El componente Design Lab es, sin lugar a dudas, el núcleo estratégico del sistema TeeLab, ya que es el espacio donde nace el valor diferencial de la plataforma: la creatividad. A través de este módulo, los usuarios con perfil de diseñador acceden a una interfaz visual avanzada que les permite conceptualizar, estructurar y publicar sus propios diseños de camisetas. A nivel de negocio, este componente habilita la transformación de ideas en productos vendibles, posicionándose como la herramienta fundamental que convierte a TeeLab en un espacio de expresión creativa, monetización independiente y producción personalizada. Desde el enfoque arquitectónico, Design Lab es un bounded context autónomo, altamente especializado y orientado a maximizar la usabilidad, escalabilidad y compatibilidad visual de los productos diseñados.
+
+La funcionalidad principal del Design Lab es ofrecer a los diseñadores un entorno visual interactivo para crear blueprints de camisetas. Estos blueprints no son simplemente archivos de imagen, sino representaciones estructuradas que combinan múltiples capas (texto, gráficos, colores y posicionamiento) sobre un lienzo de prenda. Cada blueprint puede ser editado, previsualizado, versionado, y eventualmente publicado en el catálogo de productos para ser comprado por otros usuarios. Esta lógica de “crear para vender” convierte a TeeLab no solo en un sistema de diseño, sino en una plataforma de lanzamiento de productos.
+
+Técnicamente, el componente está dividido en sus tres capas habituales: Interfaces, Application y Domain. La capa de Interfaces ofrece un entorno visual (canvas interactivo), cargado desde el frontend SPA, que permite al diseñador manipular elementos en tiempo real. Esta capa también se comunica con Cloudinary para subir imágenes optimizadas y con Supabase para guardar configuraciones del diseño y atributos asociados. La capa Application contiene los casos de uso como crear diseño, duplicar diseño, publicar producto, y previsualizar como cliente, gestionando el ciclo de vida de los blueprints con validaciones lógicas, reglas de composición y controles de integridad. Finalmente, la capa Domain define las entidades Blueprint, DesignLayer, GarmentCanvas, y TemplatePreset, permitiendo que cada diseño tenga trazabilidad, composición estructurada y pertenencia autoral.
+
+A nivel estratégico, este módulo habilita el core del modelo de negocio de Quri: permitir que cualquier persona pueda convertirse en creadora de moda sin necesidad de conocimientos técnicos o inversión inicial. Gracias a Design Lab, TeeLab deja de ser un simple e-commerce para convertirse en una plataforma de autogestión creativa. Los usuarios pueden idear un diseño, visualizar cómo lucirá en una camiseta, y publicarlo como un producto listo para comprar, todo desde una sola interfaz. Además, esta interfaz no solo está pensada para artistas gráficos, sino para cualquier persona que quiera experimentar con mensajes, causas sociales, memes, o estilos culturales.
+
+Otra dimensión relevante es la interoperabilidad con otros módulos. Una vez publicado un diseño, el blueprint es vinculado al Product Catalog, lo que permite su exploración por los compradores. Asimismo, cuando un diseño es comprado, la instancia del blueprint se asocia a la orden y se replica en el módulo Order Fulfillment, permitiendo su reproducción exacta durante la fabricación. Esto garantiza que el producto físico conserve fidelidad visual con la propuesta creativa original.
+
+En conclusión, el Design Lab representa la propuesta de valor esencial de TeeLab. Es donde se origina el contenido que le da sentido al catálogo, donde los diseñadores desarrollan su marca personal, y donde se conecta la visión de un creador con el interés de un consumidor. Es un espacio que debe ser técnicamente robusto, visualmente amigable y funcionalmente expansible, porque de su éxito depende el posicionamiento de TeeLab como una plataforma de comercio creativo, colaborativo y descentralizado.
+
+
+
+Product Catalog
+
+El componente Product Catalog de TeeLab representa el eje de visibilidad y descubrimiento dentro del sistema. Desde el punto de vista del usuario comprador, este módulo es la primera ventana de contacto con los productos diseñados por la comunidad; desde el punto de vista del diseñador, es el escaparate donde su creatividad se transforma en una propuesta de valor concreta. En el contexto de la arquitectura Domain-Driven Design, el Product Catalog funciona como un bounded context que encapsula la lógica asociada a la presentación, organización y navegación de los productos ofertados en la plataforma. Su propósito central es articular una experiencia de exploración atractiva, segmentada y persuasiva que facilite la conversión comercial de los diseños creados en el Design Lab.
+
+El catálogo no es un simple listado de camisetas, sino una representación dinámica y organizada de diseños activos, acompañados de metadatos clave como nombre, descripción, diseñador, colección, etiquetas temáticas, tallas disponibles y precio final. A través de filtros, ordenamientos y sugerencias, este módulo permite a los usuarios descubrir productos relevantes según sus gustos, intereses o contexto de navegación. Además, el catálogo está optimizado para comportarse como una galería visual; cada producto se renderiza en tarjetas con imágenes procesadas desde Cloudinary, lo que permite una carga rápida y una visualización clara incluso en dispositivos móviles o redes lentas.
+
+A nivel técnico, el componente se estructura en tres capas: Interfaces, Application y Domain. La capa de Interfaces proporciona los endpoints RESTful que permiten a la Web App consultar productos, aplicar filtros, recuperar detalles específicos y navegar entre categorías. Esta capa también incluye mecanismos de paginación, búsqueda y compatibilidad con interfaces responsivas. La capa de Application contiene la lógica para interpretar las consultas, aplicar estrategias de presentación (por ejemplo, priorizar productos nuevos o más vendidos), y realizar operaciones de transformación de datos antes de enviarlos a la interfaz. La capa de Domain, por su parte, modela las entidades como Product, Tag, Category, DesignerProfile y Rating, encapsulando la lógica de organización, visibilidad y curaduría.
+
+El componente también establece relaciones directas con otros bounded contexts. Por ejemplo, cuando un diseñador publica un blueprint desde el Design Lab, el producto correspondiente se activa automáticamente en el catálogo. Además, cuando un comprador decide adquirir un producto, la información del catálogo se sincroniza con el módulo de Order Processing para asegurar que los datos del producto (como precio o stock) se mantengan consistentes en la orden generada. En sistemas descentralizados como TeeLab, donde los productos pueden provenir de cientos de diseñadores diferentes, esta sincronización es crítica para evitar errores, fraudes o inconsistencias en la experiencia de compra.
+
+Desde una perspectiva estratégica, el Product Catalog tiene un impacto directo sobre la conversión comercial y la retención de usuarios. Un catálogo mal organizado o lento afectaría negativamente la percepción de calidad, incluso si los diseños son buenos. Por eso, el sistema incorpora prácticas como cacheo de vistas frecuentes, priorización por contexto (ej. “explora lo más comprado en tu zona”) y recomendaciones cruzadas (“otros usuarios que compraron esto también vieron…”). Estas características permiten al catálogo comportarse no solo como un escaparate pasivo, sino como un motor de descubrimiento inteligente.
+
+Payment Gateway
+
+El componente Payment Gateway de TeeLab cumple un rol crítico dentro del modelo de negocio de Quri, al encargarse de gestionar la capa financiera que permite concretar las transacciones entre los distintos actores del sistema. Es el módulo responsable de transformar una intención de compra en una operación financiera efectiva, segura y verificable. Desde la perspectiva de Domain-Driven Design, este bounded context encapsula todas las reglas, entidades y eventos relacionados con los flujos de pago, integrando la lógica comercial interna con la pasarela de pagos externa, en este caso Stripe, sin comprometer la independencia del dominio.
+
+Funcionalmente, el componente se activa una vez que el usuario ha confirmado su intención de comprar un producto. A través de los servicios expuestos por este módulo, se genera una sesión de pago, en la que se encapsulan detalles de la orden: productos, precio total, impuestos si aplica, identidad del comprador, y las proporciones de ganancia para los distintos beneficiarios (diseñador, fabricante y TeeLab como plataforma). Este encapsulamiento se traduce en una transacción iniciada en Stripe, donde se le presenta al usuario una interfaz segura para completar el pago con tarjeta, Apple Pay, Google Pay, o medios alternativos.
+
+Desde un punto de vista técnico, el componente se divide en tres capas principales: Interfaces, Application y Domain. La capa de Interfaces expone los endpoints REST necesarios para inicializar una sesión de pago, recuperar el estado de una transacción, o reaccionar ante eventos asíncronos emitidos por Stripe (webhooks). Estos endpoints son consumidos por el frontend SPA para redirigir al usuario al entorno de pago. La capa de Application contiene la lógica que vincula la orden con la transacción, calcula las comisiones, y valida que la sesión de pago sea válida, no duplicada y coherente con el estado del pedido. Finalmente, la capa de Domain modela entidades como Transaction, Payout, RevenueSplit, PaymentStatus, y Receipt, permitiendo registrar y consultar el historial financiero de cada operación.
+
+Una vez realizado el pago, Stripe devuelve una notificación (event-driven webhook) que es interpretada por el Payment Gateway. Si la transacción es exitosa, el módulo actualiza el estado del pedido en el componente de Order Processing, emite un recibo, y registra la distribución de ingresos correspondiente. Si ocurre un fallo, se actualiza el estado a “rechazado” y se notifica tanto al usuario como al diseñador implicado, garantizando transparencia y trazabilidad.
+
+Desde la perspectiva estratégica, este componente garantiza la monetización del ecosistema Quri. No solo asegura el flujo de ingreso para los diseñadores, sino que también permite la sostenibilidad económica de la plataforma. Además, al operar con Stripe como proveedor externo, se delegan responsabilidades complejas como cumplimiento de normas PCI, verificación de identidad, y transferencias internacionales, permitiendo al equipo de desarrollo centrarse en la lógica de negocio.
+
+User Management
+
+El componente User Management es la base estructural del sistema TeeLab en lo referente a identidad, control de acceso y personalización de la experiencia de los distintos tipos de usuario. Aunque muchas veces invisible desde la perspectiva funcional, representa un pilar esencial para garantizar la seguridad, coherencia y adaptabilidad del sistema. En el contexto de Domain-Driven Design, este módulo se define como un bounded context de infraestructura estratégica, ya que encapsula las reglas y comportamientos relacionados con el ciclo de vida del usuario, desde su registro hasta su autenticación, autorización y gestión de perfiles. Su correcto funcionamiento es indispensable para preservar la integridad operativa del ecosistema Quri.
+
+Desde el enfoque de negocio, TeeLab debe poder diferenciar y gestionar múltiples perfiles: usuarios compradores, que navegan por el catálogo y realizan compras; diseñadores, que acceden a Design Lab y publican productos; y fabricantes, que interactúan con el sistema para producir y despachar órdenes. Esta segmentación exige una estructura robusta de gestión de usuarios, que no solo garantice la autenticidad de cada identidad, sino que también determine el nivel de acceso, las funcionalidades disponibles y la visibilidad de interfaces o datos específicos para cada tipo de usuario.
+
+A nivel técnico, el componente está estructurado en las tres capas tradicionales: Interfaces, Application y Domain. En la capa de Interfaces, se ofrecen endpoints RESTful para operaciones como registro, login, edición de perfil, recuperación de contraseña, y actualización de preferencias. Estas operaciones son consumidas desde la Web App y deben mantenerse sincronizadas con los estados de sesión de Supabase Auth, el proveedor externo utilizado por TeeLab para la autenticación segura. La capa de Application se encarga de la lógica que interpreta los flujos de acceso, aplica políticas de validación (como contraseñas seguras o emails únicos), y enrutamiento basado en roles. Finalmente, la capa de Domain modela entidades como User, UserRole, UserProfile, SessionToken y AuthProvider, gestionando tanto los datos como los comportamientos asociados a cada tipo de cuenta.
+
+Uno de los aspectos más importantes de este componente es su capacidad de interoperar con otros bounded contexts sin crear acoplamientos innecesarios. Por ejemplo, el componente de Design Lab consulta los roles de usuario para verificar si alguien tiene permisos para crear blueprints; el módulo de Order Processing asocia cada pedido a un userId único; y el Payment Gateway utiliza los datos de perfil para generar recibos personalizados. Esta interoperabilidad se realiza mediante contratos explícitos y eventos de dominio que permiten mantener la cohesión sin sacrificar independencia.
+
+Desde el punto de vista de escalabilidad y seguridad, User Management está preparado para crecer en funcionalidades avanzadas como autenticación multifactor (MFA), OAuth con redes sociales, integración con wallets digitales, y mecanismos de verificación de identidad para diseñadores o fabricantes. Asimismo, se considera su expansión hacia una arquitectura basada en tokens JWT para sesiones distribuidas, lo que permitirá a TeeLab escalar horizontalmente sin comprometer la experiencia del usuario.
+
+En términos estratégicos, este componente permite personalizar profundamente la experiencia de la plataforma, adaptando los flujos, interfaces y notificaciones según el tipo de usuario. Además, la segmentación de roles garantiza que los procesos críticos del sistema (como la creación de diseños o la aprobación de producción) solo estén disponibles para quienes poseen los permisos correspondientes. Esta separación de responsabilidades reduce riesgos, facilita la auditoría, y permite mantener una gobernanza clara sobre el comportamiento de cada actor dentro del ecosistema.
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+Desing Studio:
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdh6FmB-t-b9-vxNpjLsabL65TW-fq7kqSxNPmM05h3k_wO78eEBzRehn9FCboWMDA3z98l5bR_ABqgTg5i4AwU-l14aKPDeYDGiKN4vT2c45CTjxuXZKH3JPEaZWQk9k3T6WyH?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Este diagrama muestra la arquitectura en capas (**Interfaces, Aplicación, Dominio**) de un "Design Lab". La capa de Interfaces (**DesignLabController**) recibe las peticiones. La capa de Aplicación (**DesignLabService**) coordina la lógica y utiliza repositorios y servicios. El núcleo es la capa de Dominio, centrada en el agregado **Blueprint**, que representa un diseño y contiene objetos como **DesignLayer** y **GarmentCanvas**. El Dominio también define interfaces para la persistencia (**IBlueprintRepository**) y servicios externos. Las dependencias apuntan hacia el Dominio.
+
+
+
+Order Processing:
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfprSq28c39UysuCeMSCkEFAFn-MQZ9Bc2nuVWnPEta00uyd8EIsEzUNPmMyMPAYnUDBHlatxUCVWsh1ZkFGH3-CvXKq1xEDw9LT9-z3ZoYixtFwo4KkDMdemNziWXlZQpYRKRa1Q?key=wLsuErVgqDz-qczrBI4kMctR)
+
+ Este diagrama ilustra un sistema de "Procesamiento de Pedidos" con una arquitectura de tres capas: Interfaces, Aplicación y Dominio. La capa de Interfaces (**OrderController**) maneja las solicitudes entrantes para crear pedidos, aplicar cupones y recibir confirmaciones de pago. La capa de Aplicación (**OrderProcessingService**) orquesta estas operaciones, interactuando con un repositorio de pedidos (**IOrderRepository**) y un servicio de pago (**IPaymentInitiator**). El núcleo es la capa de Dominio, donde el agregado **Order** gestiona su ciclo de vida y contiene **OrderItem** (artículos del pedido) y **Address** (direcciones). El dominio también incluye servicios como **OrderValidationService** y políticas como **DiscountPolicy**.
+
+
+
+Order Fulfillment:
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe6fB0cZOTd6ztWuziX2Y4METEIOm81X9XwdENJg1BvuOTR4-RuFBmMUTWaHqXN_Huqmz2lgIdmPwGMtRTfdfJ-IEFfQwNJxSsMrCDx0fDwDF3CbU387wUjHnNcNeoVJLnzvrSPKQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Este diagrama representa el contexto de "Cumplimiento de Pedidos" (Order Fulfillment) usando tres capas: Interfaces, Aplicación y Dominio. El **FulfillmentController** (Interfaces) gestiona las interacciones externas como actualizaciones de estado y webhooks. El **OrderFulfillmentService** (Aplicación) coordina la lógica de cumplimiento, usando un repositorio (**IFulfillmentOrderRepository**) y respondiendo a eventos. El núcleo (Dominio) contiene el agregado **FulfillmentOrder** (que rastrea el estado de manufactura, empaquetado y puntos de entrega), la entidad **ProductionBatch** y un servicio **FulfillmentOrchestrator**. El repositorio gestiona la persistencia de las órdenes de cumplimiento y los lotes de producción.
+
+Product Catalog:
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfKRrxWYXAr7QW2V72HTok7AjGw-lcd9ae4zQ-idnXNe7YWBgqOj-ZZRgera7pDWGe7BG7j9sBb659oFmAulSvTHjqJFi1RsfziYxDmxwyGS6meVgmUjorbLpQz7WMWRffi0cb5?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Este diagrama describe el contexto de "Catálogo de Productos" (Product Catalog) usando las capas de Interfaces, Aplicación y Dominio. El **ProductCatalogController** (Interfaces) gestiona las solicitudes de productos, filtros y categorías. El **ProductCatalogService** (Aplicación) coordina la obtención y manejo de datos del catálogo, usando repositorios (**IProductRepository**) y servicios (**ProductSearchAndFilterService, CloudinaryAdapter**). La capa de Dominio se enfoca en el agregado **Product** (con detalles, categorías, etiquetas, perfil de diseñador y rating) y define interfaces para la búsqueda/filtrado, persistencia y servicios externos como el de imágenes (**CloudinaryAdapter**).
+
+
+
+Payment Gateway:
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXejYVdYR_mbrY7t2Yty6PNAwmeM53erwmOxoAMHeYTEU9yyOuHsKGpiV4xrn4oxdm3M7IYKSwjF42Yk-2SQ9VSvrLz07J3whKqCHLBYr7upoiSSJe0d8N9Yn2BtRBcQBV-grLapag?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Este diagrama ilustra el contexto de "Pasarela de Pago" (**Payment Gateway**) con las capas de **Interfaces, Aplicación y Dominio**. El **PaymentController** (**Interfaces**) maneja las solicitudes para iniciar pagos, obtener estados y procesar reembolsos. El **PaymentGatewayService** (**Aplicación**) coordina estas operaciones usando un repositorio (**ITransactionRepository**) y un adaptador para un servicio externo (**StripePaymentAdapter**). El Dominio se centra en el agregado Transaction, que representa una transacción de pago con su estado, monto, divisiones de ingresos (**RevenueSplit**) y recibo (Receipt), definiendo también las interfaces para persistencia y el servicio de pago externo.
+
+
+
+User Management:
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfORl6nxDz8mY1AQd8vgJ8pvnrQBPlm8zfIJ_4v79ATxxRoJFyS0lGylENuv1xEBPpLPmhVWVYI3CdK_IUjsDRdtDwFKcRyh9MjZL-AmK5-I5eu5p9TQvTJo0CR0Ag1BGhzlVpr?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Este diagrama muestra el contexto de "Gestión de Usuarios" (**User Management**) con las capas de **Interfaces, Aplicación y Dominio**. El **UserController (Interfaces)** procesa las solicitudes de registro, inicio de sesión, actualización de perfil y roles. El **UserManagementService (Aplicación)** orquesta estas operaciones, utilizando un repositorio **(IUserRepository)** y un adaptador de autenticación **(SupabaseAuthAdapter).** La capa de Dominio se centra en el agregado **User** (que contiene perfil, roles, tokens de sesión) y define las interfaces para el repositorio y el servicio de autenticación externo **(Supabase).**
+
+
+
+### 4.7.2. Class Dictionary
+
+Class Dictionary
+
+**Blueprint:** Represents a design blueprint, including layers, status, and associated images.
+
+**DesignLayer:** Represents a single layer within a design blueprint (e.g., text, image).
+
+**GarmentCanvas:** Defines the dimensions and base color of the design canvas.
+
+**DesignStatus:** Encapsulates the status of a design.
+
+**BlueprintComposer:** Domain service for composing or rendering blueprints.
+
+**BlueprintRepository:** Defines the contract for storing and retrieving blueprints.
+
+**BlueprintService:** Application service coordinating blueprint-related use cases.
+
+**DesignLabController:** Handles incoming requests related to designs.
+
+**Order:** Represents a customer order, containing items, status, amounts, and addresses.
+
+**OrderItem:** Represents a single item within an order.
+
+**OrderHistory:** (Details minimal, likely tracks order changes).
+
+**OrderState:** Encapsulates the current state of an order.
+
+**OrderValidationService:** Domain service for validating orders.
+
+**OrderRepository:** Defines the contract for storing and retrieving orders.
+
+**PaymentInitiator:** External service interface for initiating payments.
+
+**DiscountPolicy**: Represents a discount policy applied to an order.
+
+**OrderProcessingService:** Application service coordinating order processing use cases.
+
+**OrderController:** Handles incoming requests related to orders.
+
+**FulfillmentOrder:** Represents the fulfillment process for an order.
+
+**FulfillmentStatus:** Encapsulates the status of a fulfillment order.
+
+**PackagingUnit:** Details about the packaging for fulfillment.
+
+**DeliveryCheckpoint:** Represents a step in the delivery process.
+
+**ProductionBatch:** Represents a batch of fulfillment orders assigned for production.
+
+**FulfillmentOrchestrator:** Domain service orchestrating the fulfillment process.
+
+**FulfillmentRepository:** Defines the contract for storing and retrieving fulfillment orders and production batches.
+
+**FulfillmentService:** Application service coordinating fulfillment use cases.
+
+**FulfillmentController:** Handles incoming requests related to fulfillment.
+
+**Product:** Represents a product in the catalog with details like price, description, and images.
+
+**Category:** Represents a category for products.
+
+**Tag:** Represents a tag associated with a product.
+
+**DesignerProfile:** Represents the profile of a product's designer.
+
+**Rating:** Represents a rating given to a product.
+
+**ProductSearchAndFilterService:** Domain service for searching and filtering products.
+
+**ProductRepository:** Defines the contract for storing and retrieving products.
+
+**CloudinaryAdapter:** Adapter for interacting with the Cloudinary image service.
+
+**ProductCatalogService:** Application service coordinating product catalog use cases.
+
+**ProductCatalogController:** Handles incoming requests related to the product catalog.
+
+**Transaction:** Represents a payment transaction.
+
+**PaymentStatus:** Encapsulates the status of a payment transaction.
+
+**RevenueSplit:** Represents how transaction amounts are split.
+
+**Receipt:** Contains details of a payment receipt.
+
+**TransactionRepository:** Defines the contract for storing and retrieving transactions.
+
+**StripePaymentAdapter:** Adapter for interacting with the Stripe payment gateway.
+
+**PaymentGatewayService:** Application service coordinating payment gateway use cases.
+
+**PaymentController:** Handles incoming requests related to payments.
+
+**User:** Represents a user of the system.
+
+**UserProfile:** Contains profile details for a user.
+
+**UserStatus:** Encapsulates the status of a user.
+
+**SessionToken:** Represents a user's authentication session token.
+
+**AuthProvider:** Represents the authentication provider used for a user.
+
+**UserRepository:** Defines the contract for storing and retrieving users.
+
+**SupabaseAuthAdapter:** Adapter for interacting with the Supabase authentication service.
+
+**UserManagementService:** Application service coordinating user management use cases.
+
+**UserController:** Handles incoming requests related to user management.
+
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+Design lab
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdSfha5GJgYHbUO-XBFFNVaDiFYabIjhE9L63I_paXRJE5ywoQrqJ5W_VjJg-X4QvDRWEbWQU7hZPXV8qGP2o2lJx4VoIjR2eXHOvmWcxOR4FZOZVDH9-AKskKHcXEKaGv0ZRASwA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Este diagrama representa la estructura de la base de datos para un "Design Lab". La tabla principal es **Blueprint**, que almacena información general del diseño como nombre, descripción, estado y una referencia al diseñador. Cada **Blueprint** está asociado con múltiples registros en la tabla **DesignLayer**, que detallan cada capa del diseño (tipo, contenido, posición, tamaño, color). Además, cada **Blueprint** utiliza una entrada en **GarmentCanvas** para especificar detalles de la prenda base (tipo, color, tallas disponibles), la cual puede hacer referencia a una plantilla predefinida en **TemplatePreset**. Las relaciones se establecen mediante llaves foráneas (**FK**) que apuntan a las llaves primarias (**PK**) correspondientes.
+
+Order Fulfillment
+
+ ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfq4U2PPqKUm7Xpzwik9UDK3cIuy6PlphRz0Uz9Hwo9AYtjtOI77Kei8hfPtfY7zFiXSQY4xeUaxlARddS-ObHGasD8n6XlPkNqGRmZztTHiPpBAdXdez3HHva5hAweWhuT7AZ_8g?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Este diagrama muestra la base de datos para el cumplimiento de pedidos. La tabla **ProductionBatch** agrupa órdenes por lotes de producción asignados a un fabricante. Cada lote contiene múltiples **FulfillmentOrder**, que registran el estado del cumplimiento de un pedido específico, cantidad, número de seguimiento y referencias a pedido, producto, blueprint y fabricante. Cada **FulfillmentOrder** a su vez contiene múltiples **DeliveryCheckpoint** (registros de seguimiento) y tiene asociadas unidades de empaquetado (**PackagingUnit**) con detalles de tipo, dimensiones y peso. Las claves primarias y foráneas definen las relaciones entre tablas.
+
+
+
+Order Processing
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdJkeQKSDE1kpqYUbNUa_24nOuPaxjdVlJqSL-7Iwmr2j6TVb9AoWivtNJuq47pI36wyNbkiYypLDsUi601yajB1fFU-dxBmVDPiFaFjRw-bh76naUDGD5YUF_pg6Nn_S3eLOdRiA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Este diagrama de base de datos para **"Procesamiento de Pedidos"** se centra en la tabla **Order**, que almacena detalles del pedido como usuario, fecha, estado, monto total y direcciones. Cada **Order** contiene múltiples **OrderItem** (artículos del pedido con producto, cantidad y precio). Opcionalmente, a una **Order** se le aplica una **DiscountPolicy** (política de descuento con sus reglas y validez). Finalmente, cada **Order** está asociada a registros en **PaymentTransaction** que detallan las transacciones de pago (estado, monto, método, fechas). Las claves foráneas (FK) conectan estas tablas entre sí.
+
+
+
+Payment Gateway
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2SR-QrWwaMi-iZ-5eOo_VbKCkMmYPCD6MFpgxvLPxwTsTwg_s7QOtB4jVftW9LPgovOqSlnL_MYAcKSPJcUqPHO-iWEbvLWwKTa3aamokOySFUZzcXMutUKuPKeX5C7inkBfykQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Este diagrama de base de datos para la **"Pasarela de Pago"** se enfoca en la tabla **Transaction**, que almacena los detalles de cada transacción **(estado, monto, moneda, fecha, ID de cargo externo).** Cada **Transaction** puede contener múltiples registros en **RevenueSplit**, que especifican cómo se divide el ingreso entre diferentes beneficiarios. Además, cada **Transaction** tiene asociado un único **Receipt** (recibo) que almacena la URL del recibo y la fecha de emisión. Las claves foráneas en **RevenueSplit** y **Receipt** las vinculan a la tabla **Transaction**.
+
+
+
+Product Catalog
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf1O4DRaFE6b_XQq0hOHwU3Nsb6NhMGH1v1_hIQ2ZuGvS1gmmeEEQKKb8kKw2mvsdd2iLzJL8-283YRclAL5EARQthOYu1Q1MPRuYVW0CZgO7NEtT0MpYGJKzDfYNVMBoKujeA2Kw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Este diagrama de base de datos para el **"Catálogo de Productos"** muestra la tabla central **Product** con los detalles principales del producto. Se relaciona mediante tablas de unión **(ProductCategory, ProductTag)** con las tablas **Category** y **Tag** para manejar relaciones de muchos a muchos (un producto puede tener varias categorías/etiquetas y viceversa). Además, un producto se relaciona con múltiples registros en las tablas **Rating** (calificaciones de usuarios), **ProductImage** (URLs de imágenes) y **ProductSize** (tallas disponibles), estableciendo relaciones uno a muchos mediante claves foráneas.
+
+
+
+User Management
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFR-GUeOQjyHwAuQPFllXA0vbyGD9epmhubPsr0qpm3UaK8J4mI9FcifTL491LDJCZ8OIO6R23B5zLJ_BLsjxPnASVLMuP-kjq20fVMiRnM6fPdyyEUj0M7DJOh6b9XrzaMva-?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Este diagrama de base de datos para **"Gestión de Usuarios"** tiene la tabla **User** como entidad central, almacenando credenciales básicas **(email, hash de contraseña)**, estado y proveedor de autenticación. Un **User** tiene asociado un único **UserProfile (con datos como nombre, imagen, bio)** mediante una llave foránea. Además, un usuario puede tener múltiples **UserRole** (roles asignados) y gestiona múltiples **SessionToken** (tokens de sesión activos con su fecha de expiración y validez), ambas tablas vinculadas también a través de la userId.
+
+
+
+# 5. Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+### 5.1.1. Software Development Environment Configuration
+
+
+| **Producto**                                                 | **Propósito en el proyecto**                                 | **Categoría**        | **Ruta De descarga/ acceso**           | **Descripción**                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------- | -------------------------------------- | ------------------------------------------------------------ |
+| OpenJDK![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBTabul7SL0R-ELOfhh2AM2oLCT5qTqpv1BsfvHFebs2NrHGvdAtsRx5fZRp9lxV-4F9Y2E3a4eXlVlhBbr0c1X5usK-skBD-vJZyrGQjRo5L7A8TPl2zDkAfkaaslyebon9uZPA?key=wLsuErVgqDz-qczrBI4kMctR) | Ejecución y compilación de aplicaciones Java.                | Software Development | https://jdk.java.net/                  | OpenJDK es una implementación de código abierto del JDK (Java Development Kit), esencial para ejecutar y compilar aplicaciones Java. |
+| Maven ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYbgPWN7tnFt0dCugSJBScgHkNNfDcsTiN98RkqC-cH-rW04PsT2hykc-GaIJwvzX-XzKKV85Ywxyyc0NufWjfqAPStGQwlg7g04Cq02kf-fGowAWJ3wupl_pqFH8olNAzbRp8Kg?key=wLsuErVgqDz-qczrBI4kMctR) | Automatización de compilación y gestión de proyectos Java.   | Software Development | https://maven.apache.org/              | Herramienta de automatización de compilación y gestión de proyectos Java, ampliamente utilizada con Spring Boot. |
+| Spring Boot![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdDY36peJis9gTSEOWhjZIIZkYB3rQymTC66NXMq2AbFCvPQJXaTJUsEMHs9qPouWoQ9mlSeBU3L0FpJpHUfwR8aKZIt24nx7X6lbUfh_Uz4R32spAckjDdjGS83uJSW-A9qdl2?key=wLsuErVgqDz-qczrBI4kMctR) | Creación simplificada de aplicaciones backend y servicios REST. | Software Development | https://spring.io/projects/spring-boot | Framework que simplifica la creación de aplicaciones backend con Java, permitiendo levantar servicios REST de forma rápida y eficiente. |
+| JetBrains WebStorm![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeIjhIkVQsIZsPv_GSvjxovHw0tlY2ItoVoQdIp2FIvg0fb11hbmLhNr3d-kh9ZL12aE9dFTF8VaUfm0w7XcDJL3cBd6TiOpTlf7nomDuhM1YwWQSDn_W6-XiJ2rIs6azCwV7RrUA?key=wLsuErVgqDz-qczrBI4kMctR) | Desarrollo web moderno (e.g., con Angular, TypeScript).      | Software Development | https://www.jetbrains.com/webstorm/    | IDE especializado en desarrollo web moderno, con soporte completo para Angular, TypeScript y otras tecnologías frontend. |
+| Angular CLI![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvRb8x8vBaq4W4zltTEqCLdOxjvyBWrFJlNvHiZXeJaCPsFhM09z6AM7ocbIt1c7RY55I2rJFZ7UTUlZseSVrm8jkVytOFOsRD1oJg99bOkX0jlkYtpJa6uSYBTycBd4kr0Yq3?key=wLsuErVgqDz-qczrBI4kMctR) | Gestión del ciclo de vida de aplicaciones Angular.           | Software Development | https://angular.io/cli                 | Interfaz de línea de comandos que permite generar componentes, servicios y manejar el ciclo de vida de una aplicación Angular. |
+| Postman![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfqOWlHLeB1cMTmfQjwLmvZkalW_gnSngMaEQ8e0RHmJq-1DkvX4Zvpbi9--TFrwh9piYXefn5aPHykYMVCUg1ZAetP9kyJXQ1Xa3EzJAzJpRwqR9E51hCQFiZS4XvlP5mrL4LOFA?key=wLsuErVgqDz-qczrBI4kMctR) | Prueba y documentación interactiva de APIs.                  | Software Development | https://www.postman.com/               | Plataforma para probar y documentar APIs de forma interactiva, ideal para validar endpoints desarrollados con Spring Boot. |
+| UXPressia![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfg_uvP9tg7HUmbVZTGBRsZis6DzlIHfLpxIymDuAT6NcjakL5rCyc_sQGnh8neXHj0pI_MC66rccSnZVrMSLrO5EEEaUyYc5H9_IChqMdfX6t0mxAOBz3bOi-wXTrK-y6RyOc1?key=wLsuErVgqDz-qczrBI4kMctR) | Visualización de la experiencia del usuario.                 | Product UX/UI Design | https://uxpressia.com/                 | Herramienta enfocada en la creación de journey maps y perfiles de usuario, útil para visualizar la experiencia del usuario en el sistema. |
+| Lucidchart![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc6KTk1sDdB1dhE9JwEZTNGRL1ogiETWdxuOO53-oWMTg1LvhM629jwGwksoWnAQtBTtYzoj_-w5AKHP3tW8QsCnluuN3o6J6ClOESt4Bd9weCRlrYh3hp0WcGYGNdBz6PGbdXpgQ?key=wLsuErVgqDz-qczrBI4kMctR) | Planificación visual de software mediante diagramas.         | Product UX/UI Design | https://www.lucidchart.com/            | Plataforma para crear diagramas de procesos, flujos y arquitecturas de sistema, facilitando la planificación visual del software. |
+| Structurizr![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0D6AL1W6l8BgKfQ8NR45RaxYpMACMcjc7hzslgpP3IL4o_K1cIqYP6yQUWik0O44jYXfgk95n8VJ4bhO0NTOWm9lyVt3SEMeU320qNjTS-1siGgJ2jyddiPD_Lb0sBDelmRXpVQ?key=wLsuErVgqDz-qczrBI4kMctR) | Modelado y documentación de arquitectura de software (Modelo C4). | Product UX/UI Design | https://structurizr.com/               | Herramienta para crear modelos de arquitectura de software basada en el modelo C4, útil para documentar sistemas complejos. |
+| Supabase![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeexIZ3p_JKO0F-T4jjynsUPF34pocyRLX7RPRoB9n6cHbv51BrXyH1raWbHZUbiEwFdfvmm1DixTkQbKpJzLLyAgILckX9zyzea9zyMzsxbhRXxCqT1PO4c3oJvlIUINYX6Z0r?key=wLsuErVgqDz-qczrBI4kMctR) | Almacenamiento y administración de información para backend. | Software Development | https://supabase.com/                  | Sistema gestor de bases de datos ampliamente usado para almacenar y administrar la información estructurada de aplicaciones backend. |
+| Firebase![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXenM66qqtnFnYQ9QI26ehMThrQ8Y2yTwKONwbav5GJTBBpgJ3mP-3uwAwHX6Ueegt3HjPorzuIQnpSsMdy85zFtIvrE1bmav3S8Gku0LElIWAy6khuthqb6MINDMI-OhOn8pJe0DQ?key=wLsuErVgqDz-qczrBI4kMctR) | Plataforma para desarrollo de aplicaciones web y móviles.    | Software Development | https://firebase.google.com/           | Plataforma de Google que ofrece diversos servicios (autenticación, base de datos NoSQL, hosting, funciones serverless) para acelerar el desarrollo de aplicaciones. |
+
+### 5.1.2. Source Code Management
+Página 86
+
+### 5.1.3. Source Code Style Guide & Conventions
+El mantenimiento de un estilo de código estandarizado y una arquitectura bien definida es esencial para la escalabilidad, mantenibilidad y colaboración efectiva en proyectos de desarrollo de software. En el proyecto **TeeLab**, se han adoptado prácticas de codificación y convenciones estructurales que aseguran calidad técnica, legibilidad y coherencia en todos los módulos del sistema, tanto del frontend como del backend, siguiendo lineamientos basados en estándares de la industria y metodologías modernas.
+
+Arquitectura y organización del sistema
+
+Desde el punto de vista arquitectónico, se emplea el modelo **C4 de Simon Brown**, el cual permite visualizar el sistema en distintos niveles de abstracción: contexto, contenedor, componente y código. Este enfoque facilita la comprensión y comunicación entre desarrolladores, diseñadores, testers y stakeholders no técnicos. El sistema está organizado por *bounded contexts*, adoptando principios de **Domain-Driven Design (DDD)** y **Clean Architecture**, permitiendo una separación clara entre las capas de presentación, aplicación, dominio e infraestructura. Esta separación fomenta la independencia entre módulos, facilita las pruebas automatizadas y reduce el acoplamiento entre componentes.
+
+Backend: Java + Spring Boot
+
+En el backend, se utilizan las convenciones estándar de **Java** y **Spring Boot**. Las clases y enumeraciones siguen la convención PascalCase (como OrderService, ProductType), los métodos y variables usan camelCase (processOrder, orderList), y las constantes se definen con UPPER_SNAKE_CASE (MAX_TIMEOUT, DEFAULT_LANGUAGE). La organización de los paquetes se realiza por funcionalidad (por ejemplo: controller, service, repository, model), lo que permite una estructura coherente, alineada con el dominio del negocio. Además, se aplican principios **SOLID**, se promueve la inyección de dependencias mediante constructor y se emplean anotaciones estándar de Spring para configuración, seguridad y persistencia.
+
+Frontend: Angular
+
+En el frontend, se utiliza **Angular** como framework principal. La arquitectura está basada en módulos y componentes reutilizables, con una estructura generada por el Angular CLI (ng generate component, ng generate module, etc.). Las clases utilizan PascalCase (ProductDetailComponent) y los archivos se nombran en kebab-case (product-detail.component.ts). Se aplican prácticas recomendadas como:
+
+- Detección de cambios con OnPush.
+- Separación entre lógica y presentación.
+- Programación reactiva con **RxJS**.
+- Inyección de dependencias vía constructor.
+- Internacionalización nativa con @angular/localize y ngx-translate, gestionando los archivos JSON de texto por idioma (assets/i18n/es.json, assets/i18n/en.json).
+
+Estructura y Formato del Código
+
+- **DOCTYPE y Estructura HTML:** El código inicia con **<!DOCTYPE html>** y sigue una estructura básica de HTML5 con las etiquetas **<html>**, **<head>** y **<body>**, lo cual es una práctica estándar.
+- **Meta Etiquetas:** La sección **<head>** incluye diversas metaetiquetas esenciales para la configuración del documento, SEO y presentación en redes sociales (Open Graph, Twitter Card), como se alinea con los objetivos de implementación de meta etiquetas mencionados en el reporte.
+- **Enlaces a Recursos Externos:** Los archivos CSS externos y las fuentes de Google Fonts se enlazan en la sección <**head**>, mientras que los archivos JavaScript se enlazan al final del **<body>**. Esta organización es común para gestionar dependencias y optimizar el tiempo de carga.
+- **HTML5 Semántico:** Se utilizan elementos semánticos de HTML5 como <header>,<main>,<footer>, <section>, <article>, y <nav>, lo que mejora la estructura y la accesibilidad de la página.
+- **Indentación:** El código presenta una indentación consistente, lo cual facilita su lectura y comprensión.
+
+Convenciones de Nomenclatura (Inglés)
+
+- **Nombres de Archivo:** Los nombres de los archivos CSS y JS enlazados (**home.css**, carousel.css, **main.css**, carousel.js,i18n.js, index.js) están en inglés y utilizan minúsculas con guiones, una convención recomendada en desarrollo web.
+- **Nombres de Clases CSS:** Los nombres de las clases CSS en el HTML (container, nav, header-nav, mobile-menu-button, user-buttons, header-button, outline-button, primary-button, hero-section, carousel-container, carousel, carousel-controls, design-it, features, features-container, card-vertical, card-horizontal, about, start-creating, footer-bottom, links, social-media, etc.) son descriptivos y están en inglés, en conformidad con la guía del reporte.
+- **IDs:** Los IDs como **header-nav** y **language-button** también están en inglés y siguen convenciones de formato.
+- **Atributos** **alt** **de Imágenes:** Los atributos **alt** para las imágenes proporcionan texto descriptivo en inglés, lo cual es crucial para la accesibilidad, un aspecto mencionado en el reporte junto con los atributos ARIA.
+
+Alineación con Guías de Estilo Estándar
+
+Aunque el contenido completo de las guías de estilo externas referenciadas (como la Google HTML/CSS Style Guide) no está detallado en el reporte, la estructura y la nomenclatura observadas en el código HTML sugieren una alineación con prácticas establecidas para mejorar la mantenibilidad y la colaboración en proyectos de desarrollo. La aplicación del inglés para la nomenclatura es una implementación directa de la convención definida.
+
+JavaScript moderno
+
+En los módulos JavaScript, se aplica el estándar **ECMAScript 6+** utilizando const y let, funciones flecha (() => {}), desestructuración, promesas, módulos import/export y métodos de arrays como map, filter y reduce. Se evita el uso de código imperativo y se promueve la inmutabilidad y la programación funcional.
+
+Control de versiones y colaboración
+
+Para la gestión de versiones se implementa **GitFlow**, con ramas específicas para desarrollo (develop), producción (main), nuevas funcionalidades (feature/), correcciones (fix/) y lanzamientos (release/). Esto permite flujos de trabajo paralelos sin comprometer la estabilidad. Se emplea también **Conventional Commits**, una convención que estandariza los mensajes de commit y facilita la generación automática de changelogs. Los mensajes siguen la sintaxis: tipo(scope): descripción, por ejemplo, feat(order): add status tracking.
+
+### 5.1.4. Software Deployment Configuration
+Página 91
+
+## 5.2. Landing Page, Services & Applications Implementation
+### 5.2.1. Sprint 1
+Este diagrama de base de datos para **"Gestión de Usuarios"** tiene la tabla **User** como entidad central, almacenando credenciales básicas **(email, hash de contraseña)**, estado y proveedor de autenticación. Un **User** tiene asociado un único **UserProfile (con datos como nombre, imagen, bio)** mediante una llave foránea. Además, un usuario puede tener múltiples **UserRole** (roles asignados) y gestiona múltiples **SessionToken** (tokens de sesión activos con su fecha de expiración y validez), ambas tablas vinculadas también a través de la userId.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMC9WCmG3DPGOYwauEJ_c7I8f4KqxHyEn8umieyxr6IJTfX41SbEb5sqmXTdav7K_5RgyWf48_3iZOiE7Bhcm3ydRg-G9SrDXlDzMHLUbV-5LWyhITw9iAe4S9jsyZF7Dz5kR5Vw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdl82uGTUomGpJjHRnqFbauc1Vb7eHfC1BA-YP3k_sqJCQhoElKHYx5WBf62c01xR32dyIQgNJHOm5nwvOoqBPcoC1x2M8j0PCusassKBchZAgMYrN7MDBoJ4oFCokAMx31c-TuUA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfYfYwV7fxWacBk2ksl3WvsOa42W2q7LSpu4ml_qSmgWb-4V1Fn9uxkSBgO740qwq7FPX_ljKTed3-lymH2mse98an8gGa6s9BKyNOItwozQuS8o7iF1KOMy6SBogSft4m1CESMXw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+#### 5.2.1.1. Sprint Planning 1
+
+El 31 de marzo de 2025, el equipo de QURI se reunió virtualmente a través de Google Meet para dar inicio al Sprint 1, la primera iteración enfocada en establecer las bases de la plataforma. Bajo la coordinación de Dante Alemán y con la participación de Jonatan Ariel Acuña Corahua, Fabrizio Contreras Peralta, Neil Curipaco Huayllani y Renzo Luque Minaya, revisamos el backlog, definimos el objetivo principal y acordamos las historias de usuario a abordar. Con un claro enfoque en la navegación accesible y coherente (header, footer y rutas clave), establecimos criterios de aceptación, validamos estimaciones que sumaron 118 puntos de historia y aseguramos el compromiso de todos para cumplir con la meta de ofrecer una experiencia inclusiva y fluida para nuestros usuarios.
+
+| Sprint #                        | 1                                                            |
+| ------------------------------- | ------------------------------------------------------------ |
+| Sprint Planning Background      |                                                              |
+| Date                            | March 31, 2025                                               |
+| Time                            | 10:00 AM                                                     |
+| Location                        | Google Meet                                                  |
+| Prepared By                     | Dante Alemán                                                 |
+| Attendees (to planning meeting) | Jonatan Ariel Acuña Corahua, Dante Mateo Aleman Romano, Fabrizio Alessandro Contreras Peralta, Neil Aldrin Wilhelm Curipaco Huayllani, Renzo Andres Luque Minaya |
+| Sprint Goal & User Stories      |                                                              |
+| Sprint 1 Goal                   | Our focus is on delivering an accessible and consistent navigation system including header, footer, and key routes.We believe it delivers a smoother and more inclusive browsing experience for end users.This will be confirmed when users can navigate through the main areas of the platform using visual and assistive technologies (e.g., screen readers, keyboard navigation). |
+| Sprint 1 Velocity               | 118                                                          |
+| Sum of Story Points             | 118                                                          |
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+En esta sección se presentan los principales aspectos funcionales considerados durante el Sprint 1 del desarrollo de la plataforma Quri. Cada aspecto corresponde a un subconjunto relevante del alcance funcional de la solución, tales como componentes de la interfaz (header, footer), características técnicas (internacionalización, accesibilidad), o elementos visuales y estructurales (carousel, diseño responsivo).
+
+Para cada aspecto, se ha identificado a un responsable principal —denominado **Líder (L)**—, quien asumió el liderazgo técnico o de ejecución. Asimismo, se reconoce como **Colaborador (C)** a aquellos miembros del equipo que participaron activamente en la implementación, revisión o soporte de dicho aspecto.
+
+La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de manera clara y estructurada la distribución de responsabilidades dentro del equipo, promoviendo la trazabilidad del trabajo colaborativo realizado durante el Sprint.
+
+A continuación, se presentan las tablas con los aspectos definidos y los roles asignados.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Language & Internationalization** | **Responsive & Mobile Design** | **Value Proposition & Company Info** | **Navigation: Header & Footer** |
+| --------------------------------------- | ------------------- | ----------------------------------- | ------------------------------ | ------------------------------------ | ------------------------------- |
+| Jonatan Ariel, Acuña Corahua            | JonatanFD           | L                                   |                                | C                                    | C                               |
+| Luque Minaya, Renzo Andres              | renzoluquem         | C                                   | C                              | L                                    | C                               |
+| Dante Mateo, Aleman Romano              | Matteo              |                                     | L                              | C                                    | C                               |
+| Fabrizio Alessandro, Contreras Peralta  | Fabrizio Contreras  | C                                   | C                              | C                                    |                                 |
+| Neil Aldrin Wilhelm, Curipaco Huayllani | Neilcuri            |                                     |                                | C                                    | L                               |
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Editor Access & Redirection** | **Accessibility (ARIA & Alt)** | **FAQ & Legal Content** |
+| --------------------------------------- | ------------------- | ------------------------------- | ------------------------------ | ----------------------- |
+| Jonatan Ariel, Acuña Corahua            | JonatanFD           | C                               | C                              |                         |
+| Luque Minaya, Renzo Andres              | renzoluquem         | C                               | C                              | C                       |
+| Dante Mateo, Aleman Romano              | Matteo              | L                               |                                |                         |
+| Fabrizio Alessandro, Contreras Peralta  | Fabrizio Contreras  |                                 |                                | L                       |
+| Neil Aldrin Wilhelm, Curipaco Huayllani | Neilcuri            |                                 | L                              |                         |
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Team & Social Media Integration** | **SEO & Meta** | **Gallery & Carousel** |
+| --------------------------------------- | ------------------- | ----------------------------------- | -------------- | ---------------------- |
+| Jonatan Ariel, Acuña Corahua            | JonatanFD           | C                                   |                | C                      |
+| Luque Minaya, Renzo Andres              | renzoluquem         | C                                   |                |                        |
+| Dante Mateo, Aleman Romano              | Matteo              | C                                   | L              |                        |
+| Fabrizio Alessandro, Contreras Peralta  | Fabrizio Contreras  |                                     |                | L                      |
+| Neil Aldrin Wilhelm, Curipaco Huayllani | Neilcuri            | L                                   |                | C                      |
+
+#### 5.2.1.3. Sprint Backlog 1
+El presente Sprint se centra en establecer la base funcional y visual de la plataforma web de QURI, garantizando una primera versión navegable, multilingüe, accesible y preparada para futuras extensiones. El objetivo principal del Sprint 1 es construir una landing page responsive que integre los elementos principales de navegación (header y footer), funcionalidad de cambio de idioma, presentación del equipo y propuesta de valor, asegurando también el cumplimiento de criterios de accesibilidad (etiquetas ARIA, navegación asistida).
+
+ A continuación, se presenta la tabla de control de estado del Sprint 1, la cual detalla los User Stories asignados, sus respectivas tareas (Work Items), descripciones funcionales, estimaciones en horas, responsables y estado actual.
+
+| User Story Id | User Story Title                                            | Task Id | Task Title                                    | Description                                                  | Estimation (Hours) | Assigned To | Status |
+| ------------- | ----------------------------------------------------------- | ------- | --------------------------------------------- | ------------------------------------------------------------ | ------------------ | ----------- | ------ |
+| US06          | Explore information about the company                       | 6       | Add About Us section                          | Display company background and mission in About section.     | 5                  | Fabrizio    | To-do  |
+| US07          | Redirect to the editor from the Landing Page                | 7       | Enable editor access from CTA                 | Redirect user to editor when clicking 'Start Designing'.     | 5                  | Mateo       | To-do  |
+| US08          | Configure navigation from the Landing Page to the editor    | 8       | Implement routing logic to editor             | Ensure smooth redirection and route handling to editor page. | 3                  | Mateo       | To-do  |
+| US09          | Display team information                                    | 9       | Show team member details                      | Add section with names, roles, and photos of team.           | 3                  | Neil        | To-do  |
+| US10          | Consult frequently asked questions                          | 10      | Design and display FAQ section                | Display and expand common service questions for user.        | 3                  | Fabrizio    | To-do  |
+| US11          | Implement ARIA tags for accessible navigation               | 11      | Add ARIA roles and labels                     | Enhance accessibility with ARIA attributes for navigation and content. | 5                  | Neil        | To-do  |
+| US12          | Access image descriptions for accessible navigation         | 12      | Add image alt descriptions                    | Include meaningful alt text and skip decorative images.      | 5                  | Neil        | To-do  |
+| US13          | Browse social networks                                      | 13      | Display social media icons                    | Show social media links in footer or section.                | 5                  | Neil        | To-do  |
+| US14          | Implement social media access points                        | 14      | Implement icon metadata and ARIA labels       | Add social links with metadata and accessibility labels.     | 5                  | Neil        | To-do  |
+| US15          | Implement custom SEO with robots                            | 15      | Create and configure robots.txt               | Enable indexing control with robots.txt file.                | 5                  | Mateo       | To-do  |
+| US16          | Navigate between sections from the header                   | 16      | Header links scroll or route to sections      | Enable section navigation from header items.                 | 8                  | Neil        | To-do  |
+| US17          | Implement header with navigation links                      | 17      | Add header with 6 accessible links            | Render QURI, FAQ, About, Team, Join, Login with accessibility. | 5                  | Neil        | To-do  |
+| US18          | Visualize the header visible while scrolling                | 18      | Ensure persistent header visibility           | Keep header visible while user scrolls page.                 | 8                  | Neil        | To-do  |
+| US19          | Set the header as sticky on top                             | 19      | Apply sticky positioning and margin fixes     | Keep header fixed using sticky layout.                       | 8                  | NCeil       | To-do  |
+| US20          | Visually distinguish header options                         | 20      | Style header links for clarity                | Use visual distinction and active state styles.              | 5                  | Neil        | To-do  |
+| US21          | Apply consistent styles to header links                     | 21      | Apply unified header link styles              | Ensure consistent font, spacing and hierarchy in nav links.  | 8                  | Neil        | To-do  |
+| US22          | View inspiring t-shirt examples                             | 22      | Add image gallery of designed shirts          | Display at least 3 examples of shirts built on platform.     | 5                  | Renzo       | To-do  |
+| US23          | Implement visual carousel of custom layouts                 | 23      | Develop t-shirt carousel                      | Create functional carousel for showcasing designs.           | 3                  | Fabrizio    | To-do  |
+| US24          | Access key sections from the footer                         | 24      | Footer nav to top sections                    | Add footer links to main platform sections.                  | 5                  | Renzo       | To-do  |
+| US25          | Implement bottom navigation in the footer                   | 25      | Add footer links to Community, About, Contact | Persistent access from footer to community and info pages.   | 3                  | Renzo       | To-do  |
+| US26          | Invite registration from anywhere on the page               | 26      | Add persistent registration CTA               | Ensure join CTA is always accessible.                        | 5                  | Renzo       | To-do  |
+| US27          | Show text with link to login and registration in the footer | 27      | Add static login/signup text in footer        | Add footer text with links to /login and /signup.            | 3                  | Renzo       | To-do  |
+| US28          | Show geographic location of the company                     | 28      | Display location on About section             | Indicate Lima, PE in company info section.                   | 3                  | Mateo       | To-do  |
+| US29          | Include geographical headquarters visible in the footer     | 29      | Show LIMA, PE in footer                       | Display headquarters in footer without obstructing content.  | 2                  | Fabrizio    | To-do  |
+| US30          | Access the privacy policy and legal conditions              | 30      | Implement legal access from footer            | Show Privacy Policy and Terms on request.                    | 2                  | Jonatan     | To-do  |
+| US31          | Link to legal documents from the footer                     | 31      | Add footer links to legal docs                | Label and route links to privacy and terms info.             | 3                  | Neil        | To-do  |
+
+ 
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+A continuación se presenta un registro detallado de los commits realizados en la rama develop del repositorio quri-open-source/landing-page durante el Sprint 1. Cada entrada incluye el identificador de commit, el mensaje descriptivo y la fecha de consolidación, mostrando la evolución de la estructura HTML inicial, los estilos responsivos, la inclusión de activos visuales, la implementación de i18n y los componentes clave (FAQ, equipo, carrusel). Este historial ilustra cómo el equipo transformó paso a paso la landing page, desde su esqueleto básico hasta una experiencia completa y accesible.
+
+| Repository                                                   | Branch                                     | Commit Id | Commit Message                                               | Committed on (Date) |
+| ------------------------------------------------------------ | ------------------------------------------ | --------- | ------------------------------------------------------------ | ------------------- |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | eb64cd1   | Feat: Add initial HTML structure for Quri landing page       | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | 02e3826   | feat(css): add responsive support and improve general styles | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | ace0104   | feat(css): add base styles for carousel component            | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | 87679b2   | Merge pull request #1 from quri-open-source/feat/style-carousel | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/style-faq            | ec01462   | feat(css): add base styles for faq component                 | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | a81517a   | Merge pull request #2 from quri-open-source/feat/style-faq   | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/fix/style-faq             | 186c2f9   | feat(css): add styles for contact section and responsive adjustments | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | 1c556a9   | Merge pull request #3 from quri-open-source/fix/style-faq    | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/fix/style-carousel        | 24961a6   | style(css): refactor carousel styles for improved readability and organization | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | 9263102   | Merge pull request #4 from quri-open-source/fix/style-carousel | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-about-page       | d440822   | feat(html): add about page with structured content and navigation | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | e38370a   | Merge pull request #5 from quri-open-source/feat/add-about-page | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-about-styles     | 00d309b   | feat(css): add styles for about page layout and responsiveness | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | 135cb7c   | Merge pull request #6 from quri-open-source/feat/add-about-styles | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-hero-assets      | 0c32338   | feat(assets): add hero images for enhanced visual content    | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | 6471c02   | Merge pull request #7 from quri-open-source/feat/add-hero-assets | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-features-assets  | 645b338   | feat(assets): add feature images for enhanced visual presentation | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | 5.70E+08  | Merge pull request #8 from quri-open-source/feat/add-features-assets | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-team-page        | bbd8e0e   | feat(team): add team page with member profiles and descriptions | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-team-page        | a02c38c   | feat(team): create team CSS styles for layout and member presentation | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | c88e348   | Merge pull request #9 from quri-open-source/feat/add-team-page | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-i18n-about-page  | dcffc885  | feat(i18n): add English localization for about section       | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-i18n-about-page  | 4b053e3   | feat(i18n): add Spanish localization for about section       | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | be882c0   | Merge pull request #10 from quri-open-source/feat/add-i18n-about-page | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-main-assets      | d549e3e   | feat(assets): add our story image                            | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-main-assets      | 30d461a   | feat(assets): add Quri logo image                            | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-main-assets      | 680a52d   | feat(assets): add "What We Offer" image                      | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | 71b833f   | Merge pull request #11 from quri-open-source/feat/add-main-assets | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-faq-page         | 9089425   | feat(faq): add FAQ page with common questions and contact information | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-faq-page         | c8c5010   | feat(styles): add main CSS styles for layout and responsive design | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | 199c056   | Merge pull request #12 from quri-open-source/feat/add-faq-page | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-js-animations    | 63d4c38   | feat(carousel): implement carousel functionality with slide navigation | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | 13d7947   | Merge pull request #13 from quri-open-source/feat/add-js-animations | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-i18n-js-logic    | a7775c8   | feat(i18n): add internationalization support with language toggle functionality | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feat/add-i18n-js-logic    | b18cd60   | feat(i18n): add English and Spanish translations for FAQ and team sections | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | 0b52fdc   | Merge pull request #14 from quri-open-source/feat/add-i18n-js-logic | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | quri-open-source/feature/style-about-image | e82477b   | feat(styles): enhance image responsiveness and center align history section | May 12, 2025        |
+| [github.com/quri-open-source/landing-page](http://github.com/quri-open-source/landing-page) | develop                                    | 201fff0   | Merge pull request #15 from quri-open-source/feature/style-about-image | May 12, 2025        |
+
+Durante el Sprint 1, se crearon y utilizaron múltiples ramas de desarrollo, cada una correspondiente a una historia de usuario o tarea específica asignada dentro del backlog del Sprint. Estas ramas siguen el estándar de nomenclatura propuesto por GitFlow, utilizando el prefijo feature/ seguido de un identificador claro de funcionalidad, por ejemplo:
+
+Cada rama fue creada desde develop, y al finalizar su implementación y revisión, se integró nuevamente mediante Pull Request (PR), garantizando revisión por pares y trazabilidad.
+
+Participación de los usuarios
+
+El trabajo fue distribuido entre los integrantes del equipo, quienes realizaron commits regulares con mensajes estructurados bajo la convención Conventional Commits, permitiendo un historial claro y comprensible. La participación individual fue trazable a través del historial de contribuciones de GitHub. 
+
+Cada desarrollador utilizó su propia rama de trabajo, fusionando mediante Pull Requests revisados y aprobados por al menos un compañero del equipo, asegurando así un enfoque de calidad y mejora continua.
+
+Commits y trazabilidad
+
+- feat(login): implement login modal with validation
+
+  
+
+- fix(header): correct alignment in mobile view
+
+  
+
+- style(footer): improve spacing and color contrast
+
+  
+
+- refactor(cart): optimize rendering performance
+
+  
+
+Estos commits reflejan una combinación equilibrada entre nuevas funcionalidades (feat), correcciones (fix), mejoras visuales (style), y ajustes técnicos (refactor).
+
+Pull Requests y revisiones
+
+Cada funcionalidad fue subida mediante Pull Request, los cuales incluyen:
+
+- Descripción de la tarea implementada.
+
+  
+
+- Enlaces a la historia de usuario correspondiente.
+
+  
+
+- Aprobaciones del equipo.
+
+  
+
+Las PRs se revisaron con enfoque colaborativo, promoviendo la detección temprana de errores, sugerencias de mejora y aprendizaje entre pares.
+
+La estrategia de ramificación, uso disciplinado de commits, y trabajo colaborativo en GitHub garantizó una integración continua exitosa. La trazabilidad de cada historia de usuario, junto con la revisión estructurada por Pull Requests, permitió validar que todas las funcionalidades entregadas cumplen con los criterios de aceptación definidos. El equipo demostró dominio de herramientas de control de versiones, colaboración efectiva y capacidad para desarrollar en un entorno distribuido, tal como lo exige un proyecto profesional de desarrollo de software.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfVLdcFUVi_Q_WNzi_Hmu7qgnjKQT_ta8mFU0qnC4Z2gA0mVLszzj4lJRlnal4PnVbUy4ZbodRW7inUJvFqsBl3GI3vPluesuiAP7_lO1Chlb_g9s49Kw45WPdVG89lCA10qEmGBg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+Durante el Sprint 1 del proyecto QURI se logró implementar la estructura base de la landing page, enfocándose en una experiencia accesible, responsiva y multilingüe. El equipo desarrolló y conectó los principales puntos de navegación mediante un **header funcional con enlaces activos** y un **footer informativo** con accesos a secciones clave.
+
+También se integró exitosamente la funcionalidad de **cambio de idioma**, permitiendo al usuario seleccionar su idioma preferido y conservar esta configuración durante su navegación. Se garantizaron criterios de **accesibilidad** a través de etiquetas ARIA, descripciones en imágenes y navegación por teclado.
+
+Además, se diseñaron y habilitaron secciones como **Propuesta de Valor**, **Información de la Empresa**, **Preguntas Frecuentes (FAQ)**, **Equipo** y enlaces a redes sociales, incluyendo soporte visual responsivo para dispositivos móviles.
+
+A continuación, se presentan capturas de las vistas más relevantes implementadas en este Sprint.
+**Propuesta de Valor**
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkXscLRKUmT-G4QD_Ubg5sDaQZes0yZG8QbsyqEK1i__eRL-HwzpZbumjTQoh2sJ0baxWBQTZemjrqGk_BeIjvjnYFiMPAA5Q6dpwyX5Yy8eG1rWJZHn6pbhc7iHv5l1vZGb8rIg?key=wLsuErVgqDz-qczrBI4kMctR)
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe9V4--vStoX0-g7hNuJYaYL4PrAq1m5CeQskARdp4m-QY2DyOpni8Ut3rnKcc4_3BJCrNgLBk310hstZr3igut3Kjnom73O0z_Tmd-0ZmGrJ8K_VGY6mlKIEapz62aFxxYCd5SXg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+**Información de la Empresa**
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeWw5FJsZ9EknPxJoDyCk4mD02it7xeqrZl_ymw85Pi2eS-ixh65HAEXmW2xHCfjcDz0DUrW2okVo6C_iggflUcaY6462bi9DjAavdVgX_mJlFPk_GL-FP_utG0Q0YBvCUlax985Q?key=wLsuErVgqDz-qczrBI4kMctR)
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeSXtt7A4NnIe2JFEU-WBdexlFRzttXBQcGX-_ejOANOzrKo38H03Pzx563QErw2i2pT71Ezy4tucVZDnj2a-PkaqgM5Css1VQjyqh6edmWJuIGtHjJrIok7pYqN9xgcyWypIR7GA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+**Preguntas Frecuentes (FAQ)**
+
+**![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf030WNdEEJ7Wcs6Qu35xTJj8zXOz4ZdlsxLM6xKlsetD9tgesoXtZbXVsUybWnuyc2ferFvrXEHzDlvw8WxP3LCopANy1rd0sS_3hVgCHJU3uHpiHfcqzz1VaWhX3KhKyzPAYlvg?key=wLsuErVgqDz-qczrBI4kMctR)**
+
+**![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc6WRe7kOPWYtsoNzHggPY5G_Dl4JN7Ri7KDFT6VEc7n7ZIEpa23qDlIA3YC6l5lxXtvMV6_xLPYGOFSm38yLGetAiR56fn0w8fxW9GDzTJt5eg9I-DxoPcA4KxnnCbH5hNQF-Fsw?key=wLsuErVgqDz-qczrBI4kMctR)**
+
+ **Equipo**
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHBpKZBaa91e24lA_6veIYq1wV_55qLLbMLmZEVMA5WnJ5kzHGa7p5rbe66klZ-_FL_QkDv33z9WVIJdIEFbKxjUy0LPuCC8Ze3bDWnzCPYiSVypeGgn6I3pBqujAed5LjQZm5Rg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFofnAk-iZvUIttx3ZyXiEq9lt6_ptoL0ZWWOY6dIT3Nv1j9ZLp9i2fY8siEKNhPOMk_y8bZVvsuPL56qOHegybQQhB7_77xn5A-MAC380xvZybItPVVg6ATHV5NdK4cFlgOLs?key=wLsuErVgqDz-qczrBI4kMctR)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Durante el Sprint 1, el foco del desarrollo estuvo centrado exclusivamente en la implementación de la interfaz gráfica del sistema, particularmente en el diseño, maquetación y despliegue funcional de la Landing Page. En esta etapa, no se desarrollaron aún servicios de backend ni endpoints de API RESTful, por lo cual no corresponde documentación técnica de servicios para este Sprint.
+
+Estado actual:
+
+No se han implementado controladores (controllers) ni servicios de aplicación (application services).
+
+No se han definido endpoints HTTP ni documentación Swagger u OpenAPI.
+
+No se han activado microservicios ni lógica de negocio en la capa backend.
+
+El proyecto se encuentra en etapa de diseño visual, internacionalización y diseño responsivo.
+
+Justificación:
+
+El enfoque del Sprint 1 responde a las épicas EP04 - Landing page y visibilidad de productos, EP06 - Internacionalización (i18n), EP10 - Responsive UI, y EP07 - Accesibilidad (a11y), las cuales no requieren integración con lógica de negocio. La implementación de servicios comenzará a partir del Sprint 2, con la activación del Create Module y el diseño de los primeros flujos funcionales del dominio (Design, Projects, Orders).
+
+Próximos pasos:
+
+A partir del siguiente Sprint, se documentarán:
+
+Interfaces REST y contratos de servicios (DesignService, TemplateService, etc.).
+
+Especificaciones OpenAPI (Swagger) para endpoints públicos y protegidos.
+
+Diagrama de Componentes (C4 level 3) mostrando la relación entre servicios.
+
+Integración de pruebas Postman o herramientas similares para validación.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd3xwb3FRaDMryq35QUEcWFFCQKhK4Ye9bcFYG81x5u-Bul-DzXSjIYZDgdls93I40rR02xUj32TXS-ukZsXNSc4lAa_gqd-uYpuPg8O37P0LUUloGGTza26n2nNRuKs1hdB6RWXg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+Durante el Sprint 1 del proyecto QURI, las actividades de implementación se organizaron en torno a tres frentes de trabajo: **Landing Page**, **Web Applications** y **Web Services**. Cada uno de los miembros del equipo participó activamente en el desarrollo de los entregables asignados, garantizando una distribución equilibrada del esfuerzo técnico.
+
+La colaboración se gestionó mediante GitHub, empleando ramas por feature, commits convencionales y pull requests. A continuación, se detalla el enfoque de participación por producto:
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRcyiYmf-LDZV4gFBlf0vAv53hAboUp5d1Rj0K_Xe1mOmHDQCSH7znjx5rkgkU33xQB-5Vk5OguJCHEkCjaxXbtuCDF_tzgXfUn8ain0IAuYVju-enwrfWHHputL4WNkw3xcex4A?key=wLsuErVgqDz-qczrBI4kMctR)
+Capturas de los commits 
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcaYqKcxEua_p_iEWdZ8EM_GXzL9oYFjO0b_Zc62rYlQw7-2lTF2g4pj09W-OopSXlZPdgTjCYqncQebHVQOux2jXgwv9Fc3CTKby6hxObl8Pv2TV5_9KtuoPL835ZOY1LiQC_fAg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdU5VhYSg022T6Paidq3Z-RmIgPMIVd0RvQf0Etj97nrDwo6SNhUcNJwzWyp6-j0SMNXNvfScS25uJ6C0MVbky-lr-MUs1ASfURQr54I48bkX6frZNTT5ZvMuAOhl8uTrGE6rS4pQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+### 5.2.2. Sprint 2
+
+Continuando con el desarrollo del proyecto TeeLab, el Sprint 2 se enfocó en expandir las funcionalidades de la aplicación web, introduciendo la estructura de navegación interna, las herramientas de diseño de productos y la gestión de plantillas de diseño (blueprints). Este ciclo iterativo avanzó sobre las bases sentadas en el sprint anterior, comenzando a dar forma a la experiencia interactiva del usuario dentro de la plataforma. A continuación, se detallan los componentes de este sprint.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5vvCU039h6kT3YAqulGJO6WH_DPnoLU53Nw9ZixCHImFEVFqxigReDEWre2BqO_LYQ5Z_eT78SmPB62as0w5uR8V1o8B9HKitiMewQh7Bg5pjFSzVVty4mVTfESrAZKPV88Yt?key=wLsuErVgqDz-qczrBI4kMctR)
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdYj_k3fPKNI4auvrArwV6g_ymfmwt1kkKHQC0ahxSsGbKD8w9NRJXzyBCxUIWvX3Z7yniWJXGmw79L3Kj3kGNv-kKZkmtNXtNPQm-16TXFMNThsfAIxCHASD82fyRMxM2L-dUP?key=wLsuErVgqDz-qczrBI4kMctR)
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc9ftteA05twPp2zSXjZ5Gqwag-3NTcx3PorlYMYM5qTlfbAWBhrn6IryNmFpIwHkycYcNlG61pCRWwzYwhqF8yTaSpfJ9jFNuH53IoApy8ziCsCHLLPkG-81mS7AEKXAWt7aeFyA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxHoAcKNSGsVgbfr1Qrk34ai3tIJ1ABlV734rivQ24bh8eAtnS5wfvfWVqXMSogWNcQ1YlmvTwS3qj4emW7HWhrJ52U3Cf7Wd1DdDBpKugsNC6o62WEC5K7EBGvawSu-vCWWe2?key=wLsuErVgqDz-qczrBI4kMctR)
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdgrj3eNlkKzm-RVF_NpGHB4SvBBxdXmpCcPwwEFa7Z3r5qd2r5B6p5XLm_K8_QQlqul9GOrLKzIMB64ieixsFJ-DK7clYvh_El8zviS4uAxs0qyTRbFJ-ZFRCnbmT2TSM6xELGow?key=wLsuErVgqDz-qczrBI4kMctR)
+
+#### 5.2.2.1. Sprint Planning 2
+
+El 10 de mayo de 2025, el equipo de desarrollo de QURI se reunió de manera virtual a través de Google Meet para dar inicio al Sprint 2, correspondiente al periodo del 28 de abril al 22 de mayo. Bajo la coordinación de Jonatan Ariel Acuña Corahua y con la participación de Dante Mateo Alemán Romano, Fabrizio Contreras Peralta, Neil Curipaco Huayllani y Renzo Andrés Luque Minaya, en esta sesión de planificación revisamos los resultados y aprendizajes del Sprint 1, definimos el objetivo de este nuevo Sprint y seleccionamos las historias de usuario prioritarias. Con un enfoque claro en la estructura de navegación interna, las herramientas de diseño de productos y la gestión de “blueprints” de diseño, acordamos los criterios de éxito, validamos estimaciones por un total de 113 puntos de historia y establecimos las bases para una iteración eficiente y de alta calidad.
+
+
+
+| Sprint #                           | 2                                                            |
+| ---------------------------------- | ------------------------------------------------------------ |
+| Sprint Planning Background         |                                                              |
+| Date                               | May 10, 2025                                                 |
+| Time                               | 10:00 AM                                                     |
+| Location                           | Google Meet                                                  |
+| Prepared By                        | Jonatan Ariel Acuña Corahua                                  |
+| Attendees (to planning meeting)    | Jonatan Ariel Acuña Corahua, Dante Mateo Aleman Romano, Fabrizio Alessandro Contreras Peralta, Neil Aldrin Wilhelm Curipaco Huayllani, Renzo Andres Luque Minaya |
+| Sprint 2 – 1 Review Summary        | During Sprint 1 (31 Mar – 24 Apr), the team delivered a fully responsive landing page featuring accessible header and footer navigation, persistent language-switching (i18n) that retains the user’s choice across pages and sessions, clearly structured value-proposition and company-info sections, an interactive FAQ component, team profiles with social links, and a dynamic product carousel. All features passed QA, met acceptance criteria, and earned praise from the Product Owner for their clarity, usability, and compliance with accessibility standards across devices and assistive technologies. |
+| Sprint 2 – 1 Retrospective Summary | In our retrospective, we celebrated strong collaboration—marked by thorough pull-request reviews, effective daily stand-ups, and clear communication—but acknowledged that several stories (notably the sticky header behavior) were under-estimated, and that our end-to-end integration testing was insufficient. We also agreed to enrich our Web Service documentation with error-case examples. To address these learnings in Sprint 2, we will refine story point estimations during planning, introduce baseline E2E tests for key navigation flows, and expand API docs to include comprehensive error responses. |
+| Sprint Goal & User Stories         |                                                              |
+| Sprint n Goal                      | Our focus for Sprint 2 is to expand the core functionalities of the TeeLab web application by implementing the internal navigation structure, developing the initial product design tools, and enabling the management of design blueprints. We believe this will provide users with the foundational interactive experience for creating and managing their personalized designs. This will be confirmed when users can navigate key sections of the logged-in application, utilize basic design tools on a garment canvas, and save/load design blueprints. |
+| Sprint 2 Velocity                  | 113                                                          |
+| Sum of Story Points                | 113                                                          |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+En esta sección se elaborará la **Leadership-and-Collaboration Matrix (LACX)**, un artefacto que permite identificar claramente quién lidera (L) y quién colabora (C) en cada aspecto funcional del Sprint 2. Esta matriz facilita la asignación de responsabilidades, optimiza la comunicación interna y asegura que cada bloque de trabajo cuente con los recursos adecuados para cumplir con los objetivos del sprint.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Navigation** | **Editor** | **Projects** |
+| --------------------------------------- | ------------------- | -------------- | ---------- | ------------ |
+| Jonatan Ariel, Acuña Corahua            | JonatanFD           | C              |            |              |
+| Luque Minaya, Renzo Andres              | renzoluquem         |                | C          | L            |
+| Dante Mateo, Aleman Romano              | Matteo              | L              | C          | C            |
+| Fabrizio Alessandro, Contreras Peralta  | Fabrizio Contreras  | C              |            | C            |
+| Neil Aldrin Wilhelm, Curipaco Huayllani | Neilcuri            |                | L          |              |
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Design Lab** | Auxiliary Pages |
+| --------------------------------------- | ------------------- | -------------- | --------------- |
+| Jonatan Ariel, Acuña Corahua            | JonatanFD           |                |                 |
+| Luque Minaya, Renzo Andres              | renzoluquem         | C              |                 |
+| Dante Mateo, Aleman Romano              | Matteo              |                | L               |
+| Fabrizio Alessandro, Contreras Peralta  | Fabrizio Contreras  | L              | C               |
+| Neil Aldrin Wilhelm, Curipaco Huayllani | Neilcuri            | C              |                 |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+A continuación se presenta el **Sprint Backlog 2**, que agrupa todas las User Stories seleccionadas para este sprint junto con sus tareas descompuestas (Work Items). Cada entrada incluye el identificador de la historia, su título, la tarea asociada con su propia descripción, estimación en horas, responsable asignado y el estado inicial de “To Do”. Este backlog servirá de guía para el seguimiento diario del progreso y la coordinación de esfuerzos durante el Sprint 2.
+
+| User Story ID | User Story Title                                             | Task ID | Task Title                         | Description                                                   | Estimation (Hrs) | Assigned To             | Status |
+|---------------|--------------------------------------------------------------|---------|------------------------------------|---------------------------------------------------------------|------------------|-------------------------|--------|
+| US33          | Responsive and Role-Based Sidebar Component                  | QURI-45 | Implement sidebar component        | Left-aligned responsive sidebar with route-active state       | 8                | Dante Mateo (Matteo)    | To Do  |
+| US34          | Access core platform actions from the top toolbar            | QURI-46 | Add toolbar buttons                | Add Create, Cart, Profile buttons in top toolbar              | 8                | Dante Mateo (Matteo)    | To Do  |
+| US35          | Bind toolbar buttons to key route actions                   | QURI-47 | Bind routerLinks                   | Wire up Create/Cart/Profile buttons to routes                 | 8                | Fabrizio Alessandro     | To Do  |
+| US36          | Visualize dynamic routing in the main body                   | QURI-48 | Embed `<router-outlet>`            | Place `<router-outlet>` in main content container             | 5                | JonatanFD               | To Do  |
+| US37          | Embed router outlet and configure lazy-loaded modules        | QURI-49 | Configure lazy modules             | Set up `loadChildren` for each route                          | 8                | JonatanFD               | To Do  |
+| US38          | Visualize active route visually in navigation                | QURI-50 | Highlight active link              | Apply visual style for active route in navigation              | 5                | Dante Mateo (Matteo)    | To Do  |
+| US39          | Apply route-aware styles for active navigation state         | QURI-51 | Apply `routerLinkActive`           | Use `routerLinkActive` and dynamic classes for styling         | 5                | Dante Mateo (Matteo)    | To Do  |
+| US40          | Collapse the sidebar into a drawer on small screens          | QURI-52 | Implement drawer collapse          | Sidebar becomes `mat-drawer` on mobile breakpoints            | 5                | Dante Mateo (Matteo)    | To Do  |
+| US41          | Toggle sidebar layout based on screen breakpoints            | QURI-53 | Detect breakpoints with CDK        | Switch between sidebar and drawer based on viewport size      | 5                | Dante Mateo (Matteo)    | To Do  |
+| US42          | Visualize a fixed toolbar during vertical scroll             | QURI-54 | Make toolbar sticky                | Toolbar remains fixed at top on vertical scroll               | 5                | Dante Mateo (Matteo)    | To Do  |
+| US43          | Apply sticky positioning and layering to the toolbar         | QURI-55 | Set `position: sticky`             | Apply z-index so toolbar floats above content                 | 5                | Dante Mateo (Matteo)    | To Do  |
+| US44          | Visualize navigation items based on user role                | QURI-56 | Filter nav items by role           | Show only permitted sections per user role                    | 8                | Neil Aldrin (Neilcuri)  | To Do  |
+| US45          | Filter route visibility according to user permissions        | QURI-57 | Implement role-based guards        | Use structural directives and guards to restrict menu items   | 8                | Neil Aldrin (Neilcuri)  | To Do  |
+| US46          | Being redirected to a default route when accessing an undefined one | QURI-58 | Redirect to Home                   | Redirect empty or undefined routes to Home view               | 8                | Neil Aldrin (Neilcuri)  | To Do  |
+| US47          | Configure routing for default and fallback scenarios         | QURI-59 | Add wildcard route                 | Set default `redirectTo: 'home'` and wildcard 404 route       | 8                | Neil Aldrin (Neilcuri)  | To Do  |
+| US48          | Visualize a proper login layout                              | QURI-60 | Design login page layout           | Layout with labeled email/password fields                     | 5                | Dante Mateo (Matteo)    | To Do  |
+| US49          | Implement the login screen structure                        | QURI-61 | Build login component              | Angular Material form ready for authentication                | 3                | Dante Mateo (Matteo)    | To Do  |
+| US50          | Visualize a proper register layout                           | QURI-62 | Design register page layout        | Layout with all required registration fields                  | 3                | Dante Mateo (Matteo)    | To Do  |
+| US51          | Implement the registration screen structure                  | QURI-63 | Build registration form            | Material grid with validation hooks                           | 3                | Dante Mateo (Matteo)    | To Do  |
+| US52          | Add text to the Designed Garment                             | QURI-64 | Add text element                   | Insert selectable text on canvas                              | 5                | Neil Aldrin (Neilcuri)  | To Do  |
+| US53          | Render draggable text on the Garment Canvas                  | QURI-65 | Make text draggable                | Enable drag & resize on text elements                         | 8                | Neil Aldrin (Neilcuri)  | To Do  |
+| US54          | Change the font of a text element                            | QURI-66 | Implement font dropdown            | Apply chosen font from dropdown to text                       | 5                | Neil Aldrin (Neilcuri)  | To Do  |
+| US55          | Apply selected font to text element on canvas                | QURI-67 | Bind font selection                | Live update font on selected text element                     | 5                | Neil Aldrin (Neilcuri)  | To Do  |
+| US56          | Change the color of a text element                           | QURI-68 | Integrate color picker             | Update text fill color in real time                           | 5                | Neil Aldrin (Neilcuri)  | To Do  |
+| US57          | Bind color picker to text element fill style                 | QURI-69 | Connect picker to canvas           | Live-binding color to canvas object                           | 5                | Neil Aldrin (Neilcuri)  | To Do  |
+| US58          | Upload and position an image on the Designed Garment         | QURI-70 | Implement image upload             | Render uploaded image layer on canvas                         | 8                | Neil Aldrin (Neilcuri)  | To Do  |
+| US59          | Render uploaded image as a canvas layer with controls        | QURI-71 | Add image layer controls           | Drag, resize, z-index controls for image                      | 8                | Neil Aldrin (Neilcuri)  | To Do  |
+| US60          | Set the base color of the Designed Garment                   | QURI-72 | Add base color picker              | Change canvas background color                                | 8                | Neil Aldrin (Neilcuri)  | To Do  |
+| US61          | Bind base color selector to the garment background           | QURI-73 | Bind base color selection          | Live update of garment base color                             | 8                | Neil Aldrin (Neilcuri)  | To Do  |
+| US62          | Reorder design layers on the canvas                          | QURI-74 | Implement layer reorder            | Move elements forward/backward in z-index                     | 5                | Neil Aldrin (Neilcuri)  | To Do  |
+| US63          | Implement bring/send layer ordering functions                | QURI-75 | Add bring/send controls            | Functions for highest/lowest z-index                          | 8                | Neil Aldrin (Neilcuri)  | To Do  |
+| US64          | Preview the Designed Garment in full view                    | QURI-76 | Create preview mode                | Show garment full-screen without UI                           | 8                | Neil Aldrin (Neilcuri)  | To Do  |
+| US65          | Enable high-resolution preview mode without UI               | QURI-77 | Hide UI in preview                 | Render high-res preview without tools                         | 3                | Neil Aldrin (Neilcuri)  | To Do  |
+| US66          | Assign a name to the Designed Garment                        | QURI-78 | Add name input                     | Bind garment name to model property                           | 3                | Dante Mateo (Matteo)    | To Do  |
+| US67          | Bind name input field to product model                       | QURI-79 | Two-way bind name                  | Sync input value to `product.name`                            | 3                | Dante Mateo (Matteo)    | To Do  |
+| US68          | Write a description for the Designed Garment                 | QURI-80 | Add description textarea           | Bind to `product.description`                                 | 3                | Dante Mateo (Matteo)    | To Do  |
+| US69          | Bind multiline description field to product metadata         | QURI-81 | Bind multiline input               | Sync multiline input to product metadata                      | 3                | Dante Mateo (Matteo)    | To Do  |
+| US70          | Select the target gender for the Designed Garment            | QURI-82 | Add gender selector                | Dropdown bound to `product.gender`                            | 2                | Dante Mateo (Matteo)    | To Do  |
+| US71          | Bind gender selector to product configuration                | QURI-83 | Two-way bind gender                | Sync selection to `product.gender`                            | 2                | Dante Mateo (Matteo)    | To Do  |
+| US72          | Select available sizes for the Designed Garment              | QURI-84 | Add size multi-select              | Checkbox list bound to `product.sizes[]`                      | 2                | Dante Mateo (Matteo)    | To Do  |
+| US73          | Bind multi-size input to garment size array                  | QURI-85 | Bind size selection                | Sync selected sizes to `product.sizes`                        | 2                | Dante Mateo (Matteo)    | To Do  |
+| US74          | Create a new Design Blueprint                                | QURI-86 | Initiate new blueprint             | Generate blank canvas and new blueprint ID                    | 8                | Fabrizio Alessandro     | To Do  |
+| US75          | Instantiate a blank canvas for new blueprint creation        | QURI-87 | Render blank canvas                | Initialize editor for new blueprint                           | 8                | Fabrizio Alessandro     | To Do  |
+| US76          | Save the current Design Blueprint                            | QURI-88 | Implement save action              | Store canvas state under blueprint ID                         | 8                | Fabrizio Alessandro     | To Do  |
+| US77          | Serialize and persist blueprint canvas state                 | QURI-89 | Serialize canvas state             | Save serialized state to database                             | 8                | Fabrizio Alessandro     | To Do  |
+| US78          | Load a saved Design Blueprint                                | QURI-90 | Implement load action              | Retrieve and load saved blueprint                             | 8                | Fabrizio Alessandro     | To Do  |
+| US79          | Retrieve and hydrate canvas from stored blueprint            | QURI-91 | Hydrate canvas                     | Re-render canvas from stored data                             | 8                | Fabrizio Alessandro     | To Do  |
+| US80          | Delete a Design Blueprint                                    | QURI-92 | Implement delete                   | Remove blueprint record and UI item                           | 5                | Fabrizio Alessandro     | To Do  |
+| US81          | Remove blueprint data and assets from storage                | QURI-93 | Cleanup storage                    | Delete all assets linked to blueprint ID                      | 3                | Fabrizio Alessandro     | To Do  |
+| US82          | Rename a Design Blueprint                                    | QURI-94 | Add rename action                  | Update blueprint title in UI and database                     | 2                | Fabrizio Alessandro     | To Do  |
+| US83          | Update blueprint title in the database and interface         | QURI-95 | Bind rename input                  | Sync new title to database and blueprint list                 | 3                | Fabrizio Alessandro     | To Do  |
+| US84          | Duplicate an existing Design Blueprint                       | QURI-96 | Add duplicate action               | Clone record without modifying original                       | 3                | Fabrizio Alessandro     | To Do  |
+| US85          | Clone blueprint data and assign a new ID                     | QURI-97 | Clone canvas state                 | Generate new ID for cloned blueprint                          | 5                | Fabrizio Alessandro     | To Do  |
+| US86          | Publish a Design Blueprint                                   | QURI-98 | Implement publish                  | Set blueprint visibility to public                            | 5                | Fabrizio Alessandro     | To Do  |
+| US87          | Set blueprint visibility to public and indexable             | QURI-99 | Index blueprint                    | Enable discovery in gallery/search                            | 5                | Fabrizio Alessandro     | To Do  |
+| US88          | Share a Design Blueprint with others                         | QURI-100| Implement share                    | Generate shareable link or embed                              | 5                | Fabrizio Alessandro     | To Do  |
+
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+Durante el Sprint 2 se avanzó en la implementación de la solución a través de múltiples commits en el repositorio principal **quri-open-source/web-app**. A continuación se presenta una tabla detallada con cada cambio significativo, su rama de origen, identificador, mensaje y fecha de commiteo. Estos commits reflejan el progreso en los componentes de edición de imágenes y texto, la configuración inicial del proyecto, los servicios de Design Lab, las pantallas de usuario y la preparación de la primera release.
+
+
+| Repository               | Branch                                    | Commit Id | Commit Message                                  | Commit Message Body                                          | Committed on |
+| ------------------------ | ----------------------------------------- | --------- | ----------------------------------------------- | ------------------------------------------------------------ | ------------ |
+| quri-open-source/web-app | feature/add-image-editor-component        | 4a1f53e   | feat: implement image editor component          | Implement image editor component with upload and preview functionality | 10 May 2025  |
+| quri-open-source/web-app | feature/add-text-editor-component         | f67813f   | feat: add text editor component                 | Add text editor component with customizable text properties and styling | 10 May 2025  |
+| quri-open-source/web-app | feature/add-project-card-component        | f862111   | feat: add Project Card component                | Add Project Card component for displaying project details and preview | 10 May 2025  |
+| quri-open-source/web-app | feature/add-tshirt-color-editor-component | 8afbea0   | feat: add T-Shirt color editor component        | Add T-Shirt color editor component with color selection and style preview | 10 May 2025  |
+| quri-open-source/web-app | feature/add-design-lab-model              | db525a1   | feat: add Canvas entity class                   | Add Canvas entity class for managing canvas data and layers  | 10 May 2025  |
+| quri-open-source/web-app | feature/add-design-lab-services           | fa8ae06   | feat: add ProjectResponse, CanvasResponse…      | Add Analytics service and assembler for handling analytics data | 10 May 2025  |
+| quri-open-source/web-app | feature/add-analytics-component           | 94bb29d   | feat: add Analytics service                     | Add Analytics service and assembler for handling analytics data | 10 May 2025  |
+| quri-open-source/web-app | feature/add-pages-components              | e84052a   | feat: add FavoritesComponent                    | Add FavoritesComponent with HTML, CSS, and TypeScript for managing favorites | 10 May 2025  |
+| quri-open-source/web-app | feature/add-settings-page                 | 57fb9f2   | feat: add SettingsComponent                     | Add SettingsComponent with initial test suite and component structure | 10 May 2025  |
+| quri-open-source/web-app | feature/add-templates-component           | d925067   | feat: create TemplatesComponent                 | Create TemplatesComponent with initial structure and files   | 10 May 2025  |
+| quri-open-source/web-app | feature/add-projects-component            | b9f7303   | feat: implement ProjectsComponent               | Implement ProjectsComponent with initial structure           | 10 May 2025  |
+| quri-open-source/web-app | feature/add-environments                  | d27d872   | feat: add environment configuration file        | Add environment configuration file for API endpoints         | 10 May 2025  |
+| quri-open-source/web-app | feature/add-services                      | 9d47102   | feat: add BaseService class                     | Add BaseService class for API interactions and t-shirt placeholder data | 10 May 2025  |
+| quri-open-source/web-app | feature/feat/add-fake-api                 | ba8d5a3   | feat: add base service to include getURL method | Add fake API integration for development and testing         | 10 May 2025  |
+| quri-open-source/web-app | release/1.0.0                             | d54a45b   | Merge pull request #20                          | Merge release/1.0.0 into develop                             | 10 May 2025  |
+| quri-open-source/web-app | release/1.0.0 → main                      | 5e3e607   | Merge pull request #21                          | Merge hotfix/add-firebase-config into main                   | 10 May 2025  |
+| quri-open-source/web-app | hotfix/add-firebase-config                | 46060ed   | feat: add Firebase config hotfix                | Add Firebase environment configuration and fix authentication initialization | 10 May 2025  |
+
+
+
+
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En el Sprint 2 hemos logrado implementar y visualizar las siguientes funcionalidades clave en la aplicación web de TeeLab:
+
+- **Navegación interna completa** mediante el sidebar responsivo, toolbar fijo y enrutamiento lazy-loaded.
+
+  
+
+- **Editor de diseño** con componentes de texto, color e imagen, soporte drag & drop y z-index.
+
+  
+
+- **Gestión de blueprints**: creación, carga, guardado, serialización y publicación de diseños.
+
+  
+
+A continuación se muestran capturas de pantalla de las vistas más representativas, seguidas de un enlace al video demostrativo de la navegación e interacción:
+
+
+
+Toolbar Fijo y Enrutamiento
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdqfiesTa-ris5oOzGGXvZ690sZzGiy4TXvFofkh_evS_hTR_wxtqFkCvdqu5Yv4zspHFYVQAPj2-fd27SzbjDhkd6QbjS2gOzoRwC4Uhn109fAza9uhombvfCc80eZ-qTuFE1DUw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Editor de Texto
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRLbd0UKqtln36R3DIVOpzD8_gVHWyyfOfbE4X7TpljMaEiTFzDUcWRCqYOGc0z9xvmzye_PWp7J8gOqKn_1U7GtA0Qik9ELywkYAi_CJLTx4JSrS_YCz2oRg0C5AOTCDshQms?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Editor de Imagen	
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5VB29XMdTU7qmsWHujly7rZW8d4tDKyYfk8JyYsocu669gQJfzHEAL6iPOqVnoKzCudBoRYo-Q3Zj_FoUscbp6tKitcYEYrAcG4RQtSe4I-LsMi9WpsPVJlF4aXaLP3CFPuB2XQ?key=wLsuErVgqDz-qczrBI4kMctR)
+Gestión de Blueprints
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0XfKRPf5ezzUBTQ2urN-v7LjS0Zk090Z1x-0gKP8NfwPyMzTMiwR4Pvguptb6Pc9bT3hqjSiQ_y29tp2JYbCKNfaJdvECJxPJ1-W4Z0wNd5K0Zm52VOiZ7OIym-AbJ4eQD5jV?key=wLsuErVgqDz-qczrBI4kMctR)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2 no se trabajó en el desarrollo de Web Services ni en la creación de endpoints funcionales, ya que el enfoque del sprint se limitó exclusivamente al diseño, construcción y publicación de la Landing Page. En consecuencia, no se elaboró documentación técnica de APIs REST ni se empleó OpenAPI.
+
+Estado actual:
+
+No se han implementado controladores (controllers) ni servicios de aplicación (application services).
+
+No se han definido endpoints HTTP ni documentación Swagger u OpenAPI.
+
+No se han activado microservicios ni lógica de negocio en la capa backend.
+
+El proyecto se encuentra en etapa de diseño visual, internacionalización y diseño responsivo.
+
+Justificación:
+
+El enfoque del Sprint 1 responde a las épicas EP04 - Landing page y visibilidad de productos, EP06 - Internacionalización (i18n), EP10 - Responsive UI, y EP07 - Accesibilidad (a11y), las cuales no requieren integración con lógica de negocio. La implementación de servicios comenzará a partir del Sprint 2, con la activación del Create Module y el diseño de los primeros flujos funcionales del dominio (Design, Projects, Orders).
+
+Próximos pasos:
+
+A partir del siguiente Sprint, se documentarán:
+
+Interfaces REST y contratos de servicios (DesignService, TemplateService, etc.).
+
+Especificaciones OpenAPI (Swagger) para endpoints públicos y protegidos.
+
+Diagrama de Componentes (C4 level 3) mostrando la relación entre servicios.
+
+Integración de pruebas Postman o herramientas similares para validación.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 2 pusimos en marcha todo el proceso de **Deployment** para la Landing Page (y sentamos las bases para las Web Applications y futuros Web Services) usando Netlify como proveedor de hosting continuo. Estas actividades incluyeron:
+
+1. **Creación de cuenta y sitio** en Netlify, vinculándolo a nuestro repositorio de GitHub.
+
+   
+
+2. **Configuración del flujo de CI/CD**, seleccionando la rama main para despliegues automáticos en cada merge.
+
+   
+
+3. **Ajustes de build** y dominio, asegurando HTTPS y un dominio propio (quri.netlify.app).
+
+   
+
+4. **Validación en producción**, comprobando que la Landing Page se vea y funcione correctamente en el entorno desplegado.
+
+   
+
+A continuación, el orden recomendado de las capturas para ilustrar estos pasos en el informe:
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1u8_jf4yKmEREeCyzUAUZegvpp5YFWf_bSU2jUYctohuBVZQfdeE0TUgHEc5fuajWBPfqKzd0FluMPEJX__Ms9IGy-cJWH_HEu0Tf8zUD0OAGBzlDFcnj67QmGxaoemcSmDB1uQ?key=wLsuErVgqDz-qczrBI4kMctR)
+Panel principal de Netlify mostrando el sitio quri.netlify.app creado y listo para desplegar.
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLOjsqnmCPdfvo9IcfHJLG9aEuUNMa14GnSNuQ5Dh52yl4-IdBDiCkcdSWbcRO-DlPlVBk05lT3GUqGoEHszSpS5rq_geKMCr3yCMvyhCHZWmjMZa6vZq6Wdk7OLB0TWZzyRbCHg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Selección de GitHub como proveedor de código fuente para conectar nuestro repositorio.
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcEL6uIm-UC6k5eTcbPgmWhT7rCAP3EyDygZREdktBO4j6LNJn7dK_yGq9jYE14DwuoiVj1KOpbcMfws3kM6iUQlJ-RWuGpTDQPhQMKZK1JVKEHlNJ9qzCHeNowZQPX7Ihn0T2lWQ?key=wLsuErVgqDz-qczrBI4kMctR)
+Revisión de la configuración de despliegue: equipo, nombre de sitio (quri), rama main y ajustes de build.
+
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXerAS6HDkt2QaiO8TCqkbL9gsEFbfJQv54Kt79oW3qFT7l4O2CTBVRv6NY2DCTFbtzvahug_kfGT6jayc7Ezqc_ghgtNmpTv41q29kr5sOrxaWJryoxoQKykw3vbpZDJ-nvcOC6_w?key=wLsuErVgqDz-qczrBI4kMctR)
+Captura de la Landing Page en producción, accesible en https://quri.netlify.app.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 2, el equipo mantuvo un nivel de colaboración constante y equilibrado en todas las capas de la solución (Landing Page, Web App y Web Services). A continuación se describen las principales prácticas y métricas de colaboración:
+
+1. Commits distribuidos entre todos los miembros
+
+   
+
+   - Cada desarrollador contribuyó activamente con commits diarios, garantizando que ningún módulo quedara desatendido.
+
+     
+
+   - La media de commits por miembro fue de 15–20 durante el sprint, con picos en las fases de integración de componentes críticos.
+
+     
+
+2. Revisiones de Pull Requests
+
+   
+
+   - Se abrieron un total de 21 Pull Requests, todas ellas revisadas y fusionadas en menos de 12 horas de promedio.
+
+     
+
+   - Se mantuvo un proceso de code review donde al menos dos compañeros aprobaban cada PR, reforzando la calidad y el conocimiento compartido.
+
+     
+
+3. Uso de Issues y Tareas en la herramienta de gestión
+
+   
+
+   - Todas las User Stories desglosadas en Work Items se gestionaron en el tablero con etiquetas de estado claras (To Do / In Progress / Review / Done).
+
+     
+
+   - Se celebraron stand-ups virtuales diarios, manteniendo el tablero sincronizado y resolviendo bloqueos al momento.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcEdvview9pUSAVks-HwK3vH-D4xnuuVFL1ivOPsF-D8VJZJZ-x0BrG_OGFjJThaSk6EAiqe914VNaudB4w_H39zj8C_yd0eryZluKIFvX1h8xA16HYNK71awlcwE5eddG_5qnY?key=wLsuErVgqDz-qczrBI4kMctR)
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdM4HuoTPL7U0QtnbnSrZvDQHNXwcj9nSDSoK-vc3sF5wCYaEe_gJWRG28qaRuLbpoqOj78nvBOorhx1BTOwC1I2f_I1unVWS1LB6eQpZgnWMD9eB0xOv4z8FjFtu65xGDsJi3_uA?key=wLsuErVgqDz-qczrBI4kMctR)
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcA7FnLIGLb9V8Z240D75WfSYnHiU9vQOIm6TKUrAY9-2t45y23gG6_WaWVBHZwVAwAY5_mO9AeucA0rKzKkbyMd2VNHlZAayNyKB6LNbGwrmIi3sJwqGgx5UA7Y4ejPR6QJEjmcg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+
+
+# Conclusiones
+
+El desarrollo del primer entregable del proyecto Quri - TeeLab ha permitido consolidar una base metodológica, técnica y colaborativa fundamental para la evolución del producto, validando hipótesis de diseño y definiendo una visión clara de los objetivos de la plataforma. A través de la implementación estructurada de principios de ingeniería de requisitos, Lean UX y arquitectura orientada a dominios, se logró articular un ecosistema inicial funcional y coherente para la creación, personalización y exploración de camisetas digitales.
+
+En primer lugar, el enfoque Lean UX permitió identificar con precisión los principales desafíos que enfrentan los segmentos clave de usuarios —diseñadores gráficos, clientes individuales y marcas/emprendedores— en relación con la personalización de prendas. Mediante entrevistas, mapeo de empatía, user personas y scenario mapping, se logró capturar un entendimiento profundo de sus motivaciones, frustraciones y expectativas, lo que guio la formulación de una propuesta de valor centrada en la experiencia del usuario.
+
+En segundo lugar, la especificación y análisis de requisitos se llevó a cabo de manera rigurosa, aplicando técnicas modernas como el To-Be Scenario Map, MoSCoW prioritization, impact mapping, backlog grooming y user stories con criterios de aceptación en formato Gherkin. Esta sistematización permitió descomponer la solución en funcionalidades concretas, medibles y verificables, alineadas con las necesidades reales de los usuarios y con los objetivos de negocio de la startup.
+
+Desde la perspectiva del diseño visual y arquitectónico, se implementaron style guidelines, un sistema de información bien etiquetado y una arquitectura C4 sustentada en principios de Domain-Driven Design. La estructura modular basada en bounded contexts como Design Studio, Order Processing, Product Catalog, y User Management permite garantizar escalabilidad, mantenibilidad y separación de responsabilidades, lo que refuerza la calidad técnica y la sostenibilidad del proyecto en fases posteriores.
+
+Durante el Sprint 1, se desarrollaron 22 historias de usuario correspondientes a las épicas de Landing Page, Responsive UI, Internacionalización y Accesibilidad, completándose el backlog planificado con éxito. El equipo demostró una alta capacidad de colaboración, distribución equitativa de responsabilidades y cumplimiento de estándares técnicos mediante el uso de herramientas como Jira, GitHub, Figma, PlantUML y Netlify. La landing page fue desplegada correctamente y validada funcionalmente bajo criterios de usabilidad, accesibilidad WCAG y diseño responsive, cumpliendo con los estándares establecidos para el ciclo inicial de desarrollo.
+
+Cabe destacar que, si bien este sprint se centró en la interfaz gráfica y la experiencia inicial del usuario, sentó las bases para la futura implementación de los servicios backend, APIs RESTful y microservicios modulares que articularán el núcleo transaccional de la plataforma en los siguientes sprints.
+
+# Bibliografía
+Angular CLI. (n.d.). *Angular CLI*. Retrieved from[ https://angular.io/cli](https://angular.io/cli)
+
+Apache Software Foundation. (n.d.). *Apache Maven*. Retrieved from[ https://maven.apache.org/](https://maven.apache.org/)
+
+Google. (n.d.). *Firebase*. Retrieved from[ https://firebase.google.com/](https://firebase.google.com/)
+
+JetBrains. (n.d.). *WebStorm*. Retrieved from[ https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)
+
+Lucid Software Inc. (n.d.). *Lucidchart*. Retrieved from[ https://www.lucidchart.com/](https://www.lucidchart.com/)
+
+OpenJDK. (n.d.). *OpenJDK*. Retrieved from[ https://jdk.java.net/](https://jdk.java.net/)
+
+Postman, Inc. (n.d.). *Postman*. Retrieved from[ https://www.postman.com/](https://www.postman.com/)
+
+Spring. (n.d.). *Spring Boot*. Retrieved from[ https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
+
+Structurizr Ltd. (n.d.). *Structurizr*. Retrieved from[ https://structurizr.com/](https://structurizr.com/)
+
+Supabase. (n.d.). *Supabase*. Retrieved from[ https://supabase.com/](https://supabase.com/)
+
+UXPressia. (n.d.). *UXPressia*. Retrieved from[ https://uxpressia.com/](https://uxpressia.com/)
+
+Adobe. (2022). *The future of creativity: Personalization trends in consumer behavior*. Adobe Creative Insights.
+
+Bahena, M. (2024). *Estrategias de personalización en experiencias digitales*. Editorial UX Latam.
+
+El Comercio. (2022). *Estudio de consumo responsable en Perú 2022*.[ https://elcomercio.pe/](https://elcomercio.pe/)
+
+Fowler, M. (n.d.). *GivenWhenThen*.[ https://martinfowler.com/bliki/GivenWhenThen.html](https://martinfowler.com/bliki/GivenWhenThen.html)
+
+IBM Design. (n.d.). *To-Be Scenario Mapping Toolkit*.[ https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map](https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map)
+
+Mountaingoat Software. (n.d.). *User Stories and Acceptance Criteria*.[ https://www.mountaingoatsoftware.com/](https://www.mountaingoatsoftware.com/)
+
+Shopify. (2023). *Print-on-demand: Market opportunities and business strategies*. Shopify Reports.
+
+Syndicode. (2018). *12 Software Architecture Quality Attributes*.[ https://syndicode.com/2018/05/03/12-software-architecture-quality-attributes/](https://syndicode.com/2018/05/03/12-software-architecture-quality-attributes/)
+
+Twilio. (2023). *Customer Engagement Report 2023*.[ https://www.twilio.com/](https://www.twilio.com/)
+
+UML Diagrams. (n.d.). *Use Case Diagrams Examples*.[ https://www.uml-diagrams.org/use-case-diagrams-examples.html](https://www.uml-diagrams.org/use-case-diagrams-examples.html)
+
+# Anexos
+
+Anexo 1.
+
+Repositorio de la organización: https://github.com/quri-open-source
+
+Figma: https://www.figma.com/design/4jA9mIRWDtvp0XZKwGMG6V/Entrega---quri?node-id=17-51&t=CZKh8lt5YEdp3AkG-1 
+
+"Anexo: Diagrama de Lean UX Canvas" [https://drive.google.com/drive/folders/1ctYIYsZtXYcRKoBjgA4hCUx4Xmwf66EZ?usp=sharing
+](https://drive.google.com/drive/folders/1ctYIYsZtXYcRKoBjgA4hCUx4Xmwf66EZ?usp=sharing)“Anexo: Diagrama User Persona” [https://drive.google.com/drive/folders/1R8iOqc0ieVcnw8Vr9TyI9FlygRtZmc4k?usp=sharing
+](https://drive.google.com/drive/folders/1R8iOqc0ieVcnw8Vr9TyI9FlygRtZmc4k?usp=sharing)“Anexo: Diagrama Journey Mapping” https://drive.google.com/drive/folders/1h3zjZW7i1lTedkyJnTJQeXw4Y27kYPOY?usp=sharing
+
+“Anexo: Diagrama Empathy Mapping”
+
+[https://drive.google.com/drive/folders/1SmotEHZv7R4b4g4NwnTeehjksSv_uQhR?usp=sharing
+](https://drive.google.com/drive/folders/1SmotEHZv7R4b4g4NwnTeehjksSv_uQhR?usp=sharing)“Anexo: Diagrama Scenario Mapping” 
+
+[https://miro.com/welcomeonboard/NERsaUhCbTlubFJPRjdPdE9CdTQ2U0RnbzdkUXJZWjJROEZURWl5ZHorSmxKYkhCZXg4c0tKUlFOVzI3NExhR2lWVllnS1NWbkc5aEtOeWRvVFQxY0pFTzBHZUd4dHBQejdCV2F4MnovT1NEaDhCZUNQdmlrM1phMFN4YnN5VGhBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=144013908358
+](https://miro.com/welcomeonboard/NERsaUhCbTlubFJPRjdPdE9CdTQ2U0RnbzdkUXJZWjJROEZURWl5ZHorSmxKYkhCZXg4c0tKUlFOVzI3NExhR2lWVllnS1NWbkc5aEtOeWRvVFQxY0pFTzBHZUd4dHBQejdCV2F4MnovT1NEaDhCZUNQdmlrM1phMFN4YnN5VGhBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=144013908358)“Anexo: Impact Mapping” https://drive.google.com/drive/folders/1SmotEHZv7R4b4g4NwnTeehjksSv_uQhR?usp=sharing
