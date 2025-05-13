@@ -600,3 +600,169 @@ En este apartado se documenta de manera estructurada cada una de las entrevistas
 
 ### 2.2.4. Needfinding
 Para identificar las necesidades reales de nuestros usuarios, se realizaron entrevistas a tres segmentos clave: diseñadores, usuarios generales y marcas/emprendedores. A través de estas conversaciones, se descubrieron patrones comunes y específicos en cada grupo, como la necesidad de herramientas intuitivas para la personalización de camisetas, la importancia de la calidad del material, la valorización de diseños únicos, y la demanda de una comunicación eficiente entre creadores y compradores. Este proceso de needfinding permitió comprender a fondo los deseos, frustraciones y expectativas de los usuarios, sentando las bases para el diseño de una plataforma que responda verdaderamente a sus necesidades.
+
+### 2.2.5. User Personas
+
+En esta sección se construyeron perfiles representativos denominados “User Personas”, los cuales sintetizan características clave de los usuarios objetivo a partir del análisis cualitativo de entrevistas semiestructuradas. Cada User Persona refleja patrones comunes de comportamiento, motivaciones, frustraciones, objetivos, dispositivos utilizados, y canales de información. Esta herramienta permitió traducir datos individuales en arquetipos comprensibles que orientan el diseño centrado en el usuario, facilitando decisiones estratégicas en cuanto a funcionalidades, experiencia de usuario y comunicación visual. Se desarrollaron dos perfiles principales: uno correspondiente a diseñadores que buscan monetizar y visibilizar su trabajo a través de plataformas digitales, y otro vinculado a consumidores interesados en personalizar camisetas como medio de expresión individual.
+
+- Segmento Objetivo #1: Diseñadores
+
+  ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcT6EEVSociDGlGftQza4N3lJzPMG4l7hYQ982KufuzbhJA9Cv86NTs1RLYTYQn0G6YA7FVu8jlYVTMinVddDjXMbiDwAy8nL0gCGNNnmzxGjxN59nXsV3c9IMA52F-97q2nuK5?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Segmento Objetivo #2: Clientes individuales
+
+  ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0I878hDE140Iza8QpJIxivMPGFf1ENl898R8vq6n3FK0Drmadmyy-YmI4dLnVJlh2IKvZWYk7BuxwH1c22AS41DE2IZ1xdYniUpgq5N2pkjewkUzUec0Zz2V64PiAj1yP7bemFg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+- Segmento Objetivo #3: Marcas o emprendedores
+
+  ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeAPGSt-w8i8Kn9jk6xWvsknFrFwyJS_kozwt6cufOujnkcZlT1YjEMgQB3zcbDI0bFt0GCly-jzXWVjmstiy3LBy-0vOkPve3ResF0Urpl775esPGuOdpk6NDgoxBqBlbSZZLT?key=wLsuErVgqDz-qczrBI4kMctR)
+
+### 2.2.6. User Task Matrix
+
+A continuación se presenta el User Task Matrix, construido a partir de las entrevistas realizadas a los tres segmentos definidos:Diseñadores, Usuarios Generales y Marcas/Emprendedores. 
+
+Este artefacto permite visualizar las tareas clave que realiza cada tipo de usuario, así como evaluar la frecuencia con la que las ejecutan y la importancia que les asignan. 
+
+La información obtenida en este análisis es crucial para priorizar funcionalidades dentro del desarrollo de la solución digital, asegurando que se alinee con las necesidades reales de los usuarios.
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf6X59P55p9RMoVtaHl5Rn7LvM8jvGz6xT3uNSlsyYSYvjBDpZJfZ2us1K4pfKHl9tBLKNqwTnMrHbm93z37euex4k-qwpJcvufyNm6KLiVsS9Ij07LB_8h75zkj0smb3q9F7zJOw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+El análisis del User Task Matrix revela varias tareas que son altamente frecuentes y relevantes para cada segmento:
+
+- **Tareas con mayor frecuencia e importancia en todos los segmentos:**
+  - Para **Diseñadores**: *Subir y mostrar diseños* y *visualizarlos en maquetas realistas* son tareas clave tanto por su frecuencia como por su impacto.
+  - En **Usuarios Generales**: *Personalizar camisetas*, *comprar productos de buena calidad* y *ver el resultado antes de comprar* destacan como tareas prioritarias.
+  - En **Marcas/Emprendedores**: *Gestionar pedidos personalizados*, *comunicarse eficazmente con proveedores* y *realizar pedidos en volumen* son tareas fundamentales.
+- **Diferencias clave entre segmentos:**
+  - Los **Diseñadores** valoran principalmente la capacidad de exhibir su creatividad y gestionar encargos personalizados.
+  - Los **Usuarios Generales** se enfocan en la experiencia de compra personalizada y visual.
+  - Las **Marcas/Emprendedores** se centran en la logística, escalabilidad y comunicación eficiente.
+- **Coincidencias entre segmentos:**
+  - Tanto **Usuarios Generales** como **Diseñadores** valoran la posibilidad de *visualizar maquetas* antes de confirmar pedidos.
+  - Todos los segmentos otorgan alta importancia a la *personalización del producto*, aunque desde distintos enfoques (creación, compra o gestión).
+
+Este análisis permite enfocar el diseño del sistema en torno a las tareas más críticas para cada grupo de usuario, optimizando la priorización del backlog y la planificación funcional del producto.
+
+### 2.2.7. User Journey Mapping
+Con el objetivo de comprender en profundidad las necesidades, comportamientos, emociones y puntos de fricción de nuestros principales segmentos de usuario, se desarrolló un User Journey Mapping utilizando la herramienta especializada UXPressia. Este proceso nos permitió visualizar de manera estructurada y empática el recorrido que cada tipo de usuario realiza desde la identificación de una necesidad hasta la interacción final con el producto o servicio.
+
+La actividad se centró en tres segmentos clave:
+
+1. Elena Soler, diseñadora gráfica joven que busca ingresar al mercado de camisetas personalizadas.
+2. Marta López, compradora frecuente de camisetas con interés en autoexpresarse a través de diseños únicos.
+3. Laura Martínez, profesional del sector textil interesada en nuevas formas de producción y comercialización de prendas personalizadas.
+
+Para cada uno de ellos se diseñó un mapa que incluye:
+
+- Las fases del proceso (desde la exploración hasta la compra o reutilización).
+- Los objetivos del usuario en cada etapa.
+- El detalle de acciones (procesos) y canales utilizados.
+- Las emociones experimentadas, representadas mediante un marco visual basado en la rueda de Plutchik.
+- Los problemas identificados y las oportunidades de mejora a lo largo del recorrido.
+
+Gracias a UXPressia, se logró una representación visual dinámica y clara que facilita la toma de decisiones centradas en el usuario. Este trabajo no solo mejora la comprensión de sus motivaciones y desafíos, sino que también guía el diseño de soluciones más relevantes, empáticas y funcionales para cada perfil identificado.
+
+
+“Anexo: Diagrama Journey Mapping” https://drive.google.com/drive/folders/1h3zjZW7i1lTedkyJnTJQeXw4Y27kYPOY?usp=sharing
+
+Segmento Objetivo #1: Diseñadores Gráficos Independientes
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcAKMZH5t5TmTMkQVqxpimOgGg3R7gafCDyqAOmdBlLJRtmsC2hxPzlK4SGSvQdeoWrSLQZpqiQpu1Hr7uRh47F-xnyey19o4MRnEB5lgXbNVaxO5Qy2R96r7VIUvHtpr_BZa95?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Segmento Objetivo #2: Clientes Individuales Creativos
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd8gnQ78aoUWpwnTIrtIbRa7pxTTxFP1dM2hZyGewLAqMghGNYBTDW2b9IOd7x3Oz0ZyaYVimMipLfcSFhHc8DHpNjduCMCMx4ZAD9KGNlwdZxBgWoKqmF5lMshKjbRaKY0avCx-Q?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Segmento Objetivo #3: Marcas Emergentes y Emprendedores
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXemw2JCXf4dmoR0npHz6c2UVCVwu772mHNCMgyQHHTbU4sm6tifk62n1o1VgveY_3DcDv55ioepRTbrEwFj_z-M9zmW-Od6vKCJjsJNTQw9XAA6QxU3K4MGXHqoC5OlrYIf4Smxlw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+### 2.2.8. Empathy Mapping
+Como parte del proceso de diseño centrado en el usuario, se elaboraron mapas de empatía (Empathy Maps) para los tres segmentos clave identificados: Elena Soler, Marta López y Laura Martínez. Esta técnica, desarrollada inicialmente por Dave Gray, permite representar de forma visual lo que el usuario piensa, siente, dice y hace en relación con el producto o servicio, ayudando a comprender mejor su experiencia emocional y cognitiva.
+
+Objetivo del Empathy Mapping
+
+El propósito del mapa de empatía es profundizar en la perspectiva del usuario más allá de sus acciones observables, explorando sus motivaciones, miedos, frustraciones y deseos no explícitos. Esta herramienta resulta fundamental para detectar oportunidades de mejora desde un enfoque cualitativo, complementando la información obtenida a través de entrevistas, observación y análisis de comportamientos.
+
+Aplicación por segmento
+
+1. Elena Soler (Diseñadora gráfica):
+
+\- Piensa: Quiere monetizar sus diseños sin preocuparse por la producción.
+
+\- Siente: Emoción al crear, pero frustración al enfrentar plataformas técnicas.
+
+\- Dice: “Quiero que mis diseños lleguen a más personas.”
+
+\- Hace: Publica en redes sociales, explora plataformas, ajusta sus diseños.
+
+2. Marta López (Compradora frecuente):
+
+ \- Piensa: Busca camisetas que reflejen su personalidad y estilo.
+
+ \- Siente: Desconfianza sobre la calidad del producto final.
+
+ \- Dice: “Me gustaría algo más único y personalizado.”
+
+ \- Hace: Navega por Instagram y Pinterest, guarda referencias, compra en línea.
+
+3. Laura Martínez (Industria textil):
+
+ \- Piensa: Evalúa cómo adoptar modelos de producción bajo demanda sin perder calidad.
+
+ \- Siente: Presión por adaptarse a la digitalización y a las nuevas demandas del mercado.
+
+ \- Dice: “Necesitamos innovar sin comprometer el estándar textil.”
+
+ \- Hace: Investiga herramientas digitales, asiste a ferias, contacta proveedores tecnológicos.
+
+Los Empathy Mapping revelaron aspectos clave de cada perfil que no serían detectados con métodos tradicionales. Por ejemplo, se identificaron barreras emocionales como el miedo al fracaso en Elena, la decepción previa en Marta, y la resistencia al cambio en Laura. Estos hallazgos sirvieron como base para definir mejoras en el diseño de la experiencia del usuario y personalizar las soluciones de valor.
+
+
+“Anexo: Diagrama Empathy Mapping”
+
+https://drive.google.com/drive/folders/1SmotEHZv7R4b4g4NwnTeehjksSv_uQhR?usp=sharing
+
+Segmento Objetivo #1: Diseñadores Gráficos Independientes
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdexRF7r-0B0oCWTRNO0rl2Oq2uE1Mg7FZ5wKVe3-UIeDVuOjuI4WpwzokTxB0lcIkjXECnSUqJj1d-TlmNYpQRUyxpTY08lHqlY6GxLwo_5UNjGnUnuA7jaAlilBVa4xgzEXkkg?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Segmento Objetivo #2: Clientes Individuales Creativos
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfe_iNMoDGnfl2CbZahtgNvO9JpseR-nMRz9WKZfT1sQECJTlXaqeA6Wq-vcxXG_eob2N__zBG5xKoteUIeX6fyQecUgqAPmbAk4yN2_KoOI7b5AzCBKHzZXU6t8gkVju7z_JYKCw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Segmento Objetivo #3: Marcas Emergentes y Emprendedores
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe29kTnmuln2D4X0tHBEqbr76s9g_JkrT8zOJr7G5d-y3jHbWi95gjcniRC6Fe2pw6LMLS8k-NRMoq_WHeSTXWNMQnJ0gpevJWnoG1U-Wwb6hOTUtpLwL-SUWcFpMQ4tSUXEBakOQ?key=wLsuErVgqDz-qczrBI4kMctR)
+
+### 2.2.9. As-is Scenario Mapping
+El siguiente As-is Scenario Mapping fue desarrollado utilizando la herramienta colaborativa Miro, siguiendo la estructura recomendada por la metodología del curso basada en Design Thinking y Requirements Analysis. El objetivo del mapeo fue representar la experiencia actual del usuario de forma visual, desde el inicio de su interacción con el proceso hasta la entrega del producto, a fin de identificar puntos de fricción, incertidumbre y oportunidades de mejora.
+
+Para construir el mapa, se organizaron los datos recolectados mediante entrevistas y observaciones en cinco dimensiones clave:
+
+\- Phases (fases del proceso)
+
+\- Doing (acciones del usuario)
+
+\- Thinking (pensamientos durante cada fase)
+
+\- Saying (frases expresadas o posibles en contexto)
+
+\- Feeling (emociones asociadas)
+
+Cada celda fue codificada por colores para representar el nivel de satisfacción o claridad del usuario en esa etapa, Este mapeo permite visualizar de forma clara el estado actual de la experiencia del usuario y sirve como base para definir mejoras en el flujo, funcionalidades a priorizar y futuros escenarios (*To-be Scenarios*).
+
+“Anexo: Diagrama Scenario Mapping” 
+
+https://miro.com/welcomeonboard/NERsaUhCbTlubFJPRjdPdE9CdTQ2U0RnbzdkUXJZWjJROEZURWl5ZHorSmxKYkhCZXg4c0tKUlFOVzI3NExhR2lWVllnS1NWbkc5aEtOeWRvVFQxY0pFTzBHZUd4dHBQejdCV2F4MnovT1NEaDhCZUNQdmlrM1phMFN4YnN5VGhBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=144013908358
+
+Segmento Objetivo #1: Diseñadores Gráficos Independientes
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeFkTd6phz4rRxso0-CJdgnyVhAEBz0f-8JYf3p6fjtw4tBECVSDw1ynqp89RFqxEqToKaObNMvRsZQv10J1AFZiEJqP9aJEFwoMvTUtwRd8NixBmICq2o_bCKPJZ0rM4-QPshBOw?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Segmento Objetivo #2: Clientes Individuales Creativos
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXedFrA5bV1Y_S1gSKdn04azyCP4KudBDfRtKfgCa1UeJWzP4hn9yOyjOs_CEMOL09Q7EfzNtoODp3MKlG-ft_JIEg-SEcNUbkJxmAPGOW92qRDN2euP9VaSnJu1M43CmXKaFHqO3A?key=wLsuErVgqDz-qczrBI4kMctR)
+
+Segmento Objetivo #3: Marcas Emergentes y Emprendedores
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcGgC1b3pcZU6XaZfEwggSYqZXAOEmtcWoOQSDrbJuKO0Lsz9Gu3jfUFU5RLD41IeFA51vX1O1Rpg-t1zgk-kaaHlSkOKYptgn3XYn_R8mAkqoCXu_knj00NrRQJG528HrnIHj7IA?key=wLsuErVgqDz-qczrBI4kMctR)
