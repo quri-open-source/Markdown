@@ -485,3 +485,115 @@ A partir del análisis competitivo realizado en el Landscape anterior, se propon
 | Custom Ink<br /><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXexaFxIkBhUFFdinYggb8SGraFsrNEKEc93U25EhNkz0cOZHJOhBpswoxsOJLtZjkiayAffDfTOIhtZg9G_y9PtehEGs8CJU4mpWktLglkblBiacDJro3i5bAn0G0D8ZCQOCKAD?key=wLsuErVgqDz-qczrBI4kMctR" alt="img" style="zoom:25%;" /> | Considera que nuestro startup debe de aprovechar la insatisfacción que tienen las personas que desean comprar ropa para ellos mismos. Brindar accesibilidad en la compra de prendas individuales para nuestro público casual con un precio accesible. |
 | Spreadshirt <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdBOfyfEe0obAEAu0XpI4fiyR8vj3h4HX2G0De3Y5fdzlj6dqCsmSbcXkecrKPzGstsu1ehAh0ZTAPBjZhEKEZFS6zegzyNebV0hq_XLHAKOjkEgWrY9YNDB1dAYpWrKfGitTb3Kg?key=wLsuErVgqDz-qczrBI4kMctR" alt="img" style="zoom:15%;" /> | Una desventaja notoria en Spreadshirt es la imposibilidad de uso de imágenes propias sin ser un diseñador en la app o usar de manera libre imágenes de la web. Consideramos implementar el uso libre de imágenes, bajo ciertas normas en la distribución comercial bajo los reglamentos de copyright. Además, de restar los porcentajes en términos justos por comisión en venta a los artistas o diseñadores. |
 | Rafasshop<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXepnYecX_8Sddf74MZQt-KVEKLktUQ5l2HDqKITzNTe8LQwGoxG159ElHU_YNq_FHFiLA0Z-lvaVzS7QnjbjE1kr9Q3ZoGko2GfrLPrPj1QR_6PvC4qzpilCyFJJ14RlWyER_pXCw?key=wLsuErVgqDz-qczrBI4kMctR" alt="img" style="zoom:25%;" /> | Según nuestro equipo hemos decidido brindar una visibilidad a nuestro startup con nuestras estrategias de marketing. También, proporcionarles las herramientas necesarias para la creación de diseños en el público casual y brindar funciones avanzadas para diseñadores y artistas. |
+
+## 2.2. Entrevistas
+
+Con el objetivo de obtener información detallada acerca de las necesidades, expectativas y frustraciones de los usuarios, se realizaron entrevistas estructuradas dirigidas a los segmentos previamente definidos: diseñadores gráficos, clientes individuales y marcas o emprendedores.
+
+El diseño de las entrevistas se elaboró considerando formularios específicos para cada segmento, formulando preguntas abiertas que permitieran al entrevistado expresar libremente sus experiencias, preferencias y expectativas. Entre los aspectos abordados se incluyen datos demográficos básicos, plataformas de uso frecuente, interés en la personalización de productos, percepción de calidad, procesos de compra y gestión de pedidos.
+
+Cada entrevista fue registrada en video y complementada con un resumen descriptivo, siguiendo las buenas prácticas de obtención de requisitos. Posteriormente, los resultados se analizaron de forma cualitativa y cuantitativa, consolidando patrones de comportamiento que sirvieron como base para la construcción de artefactos como User Personas, Empathy Maps y User Task Matrices.
+
+La metodología aplicada garantizó la recolección de información rica en contexto, necesaria para una correcta definición de requisitos y el diseño de una plataforma que responda de manera efectiva a las necesidades reales de los usuarios.
+
+### 2.2.1. Diseño de Entrevistas
+
+En esta sección vamos a identificar la información que necesitamos obtener desde los segmentos objetivos previamente trazados. Para la información básica del entrevistado se usará un formulario básico a través del siguiente enlace:
+https://docs.google.com/forms/d/e/1FAIpQLSeN95VQkNjjTguK6R0V3ZLIerQQuHjVMv-o2MGmCpnhD_XX2w/viewform?usp=sharing 
+
+### 2.2.2. Registro de entrevistas
+
+1. Formulario para Diseñadores
+
+   **Preguntas objetivas:**
+
+   - ¿Qué plataformas utilizas actualmente para vender o mostrar tus diseños?
+   - ¿Te interesaría comercializar tus diseños en productos físicos como camisetas y recibir comisiones por las ventas?
+   - ¿Qué funcionalidades considerarías esenciales en una plataforma para vender tus diseños en camisetas?
+   - ¿Cómo te gustaría que se promovieran tus diseños dentro de la plataforma?
+   - ¿Aceptarías encargos personalizados de diseño de camisetas?
+
+   **Preguntas subjetivas:**
+
+   - ¿Qué marcas de camisetas prefieres o consideras de mejor calidad?
+   - ¿Qué dispositivos utilizas como herramienta principal para diseñar?
+   - ¿Qué programas de edición gráfica usas regularmente?
+   - ¿Qué canales de información sigues para mantenerte actualizado sobre tendencias de moda o novedades en diseño gráfico?
+
+2. Formulario para Empresas
+
+   **Preguntas objetivas:**
+
+   - ¿Qué tipo de clientes suelen solicitar producción de camisetas personalizadas?
+   - ¿Cuáles son los principales desafíos que enfrentas en la producción y distribución de camisetas personalizadas?
+   - ¿Trabajas con diseñadores externos o prefieres utilizar diseños propios o prediseñados?
+   - ¿Cómo gestionas actualmente los pedidos personalizados?
+
+   **Preguntas subjetivas:**
+
+   - ¿Qué dispositivos tecnológicos utilizas frecuentemente en tus procesos de trabajo?
+   - ¿Qué canales de información consultas para conocer tendencias de moda o innovaciones en camisetas?
+   - ¿Qué herramientas o programas de edición usas en los procesos de diseño o preimpresión?
+
+3. Formulario para Usuario General
+
+   **Preguntas objetivas:**
+
+   - ¿Has comprado anteriormente camisetas con diseños personalizados?
+   - ¿Prefieres adquirir camisetas con diseños ya hechos o te gustaría crear tu propio diseño?
+   - ¿Te gustaría contar con una opción de personalización que te permita modificar colores, textos o agregar elementos gráficos?
+   - ¿Qué aspectos valoras más al comprar una camiseta? (calidad del material, precio, originalidad del diseño, otros)
+   - ¿Cuánto estarías dispuesto a pagar por una camiseta personalizada con un diseño único?
+   - ¿Qué nivel de importancia le das a la rapidez en la entrega del producto?
+
+   **Preguntas subjetivas:**
+
+   - ¿Qué dispositivos tecnológicos utilizas habitualmente?
+   - ¿Qué redes sociales usas con mayor frecuencia?
+   - ¿Qué fuentes o canales consultas para informarte sobre tendencias de moda o novedades relacionadas con ropa personalizada?
+
+### 2.2.3. Análisis de entrevistas
+
+En este apartado se documenta de manera estructurada cada una de las entrevistas realizadas a los diferentes segmentos objetivo. Para cada entrevista, se incluye información relevante como el perfil del entrevistado, el registro de sus respuestas, observaciones contextuales, y un resumen de los principales hallazgos obtenidos.
+ Esta sistematización permite asegurar la trazabilidad de los datos recolectados, facilitando su posterior análisis y su utilización en la construcción de artefactos de usuario, tales como User Personas, Empathy Maps y User Task Matrices.
+
+| **Segmento objetivo #1: Diseñadores:**                       |                                       |
+| ------------------------------------------------------------ | ------------------------------------- |
+| **Entrevista 1:** Grecia Curipaco Huayllani                  |                                       |
+| **Sexo:** Femenino                                           | **Edad:** 24 años                     |
+| **Instante en el que inicia:** 0 minutos y 5 segundos        | **Duración:** 4 minutos y 15 segundos |
+| <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdT2_rtrgBUMwMbaQMc7IUDTmB2IrtCOvambQ6USSbrttY1nKr2yS4qZEsy9Tfb7VzU-PdO0OoyuZdF_BHSxAftb0RGnnXGVal3viCc5XmHBrUuKgZ8G-QgR6EOetAgyn2RUsc1?key=wLsuErVgqDz-qczrBI4kMctR" alt="img" style="zoom: 50%;" /> |                                       |
+| Resumen:<br/>Grecia Curipaco Huayllani, es diseñadora. Aunque actualmente no vende sus diseños, los publica en Behance e Instagram. Está interesada en poder vender sus diseños en camisetas y cree que es vital tener un sistema interactivo y fácil de usar donde los usuarios no solo puedan ver, sino también editar los diseños. Además, aprecia que estos diseños se muestren en maquetas para que los compradores tengan una idea clara de lo que recibirán. Está dispuesta a aceptar pedidos de diseños personalizados porque valora trabajos inusuales y únicos.<br/>En cuanto a sus preferencias, menciona que las marcas de camisetas que más le agradan son Gildan y Fruit of the Loom por su calidad y comodidad. Para diseñar, utiliza principalmente una laptop con pantalla gráfica, lo cual le facilita el proceso creativo. Sus programas de edición favoritos son Adobe Illustrator y Photoshop, herramientas que considera esenciales para el nivel de detalle que requiere en sus trabajos. Finalmente, señala que se mantiene informada sobre tendencias de moda y novedades principalmente a través de redes sociales como Instagram y Pinterest, además de seguir sitios especializados en diseño y moda como Vogue y Behance.<br/>Datos adicionales:<br/>Marcas de camisetas preferidas: Gildan y Fruit of the Loom.<br/>Dispositivos usados para diseñar: Laptop con pantalla gráfica.<br/>Programas de edición utilizados: Adobe Illustrator y Photoshop.<br/>Canales de información sobre tendencias: Instagram, Pinterest, Vogue y Behance.<br/>Motivations:<br/> Vender sus diseños en productos físicos (como camisetas), mostrar sus diseños en maquetas realistas, tener una plataforma fácil de usar y recibir pedidos personalizados.<br/>Frustrations:<br/> No tener una plataforma interactiva y accesible donde sus diseños sean mostrados de manera atractiva; limitaciones actuales de exposición en redes.<br/>Browsers:<br/> Behance, Instagram.<br/>Devices:<br/> Laptop con pantalla gráfica. |                                       |
+| **Entrevista 2:** Angela Galdez                              |                                       |
+| **Sexo:** Femenino                                           | **Edad:** 23 años                     |
+| **Instante en el que inicia:** 4 minutos y 19 segundos       | **Duración:** 4 minutos y 12 segundos |
+| <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc8cjg-QhmrfZC7nT2l7VKrrmdYguVvgfiZFXBAQEIlzTuoil2NoicCVTgcKrtc01sV2ZEMHFUpop_6ujV-YrqaxZxxfGF6NVVGC3T1mbUM9OMKkV5KzZPJ-jg6xrQryBXOuqLoZA?key=wLsuErVgqDz-qczrBI4kMctR" alt="img" style="zoom:33%;" /> |                                       |
+| Resumen:<br/>Ángela Galdez ahora vende y publica sus diseños en Instagram y Facebook, y en otras plataformas ve una oportunidad para llegar a más personas. Su interés se centra en que esta nueva plataforma permite la comunicación directa con los clientes para llegar a acuerdos personalizados, así como el hecho de poder mostrar con detalle las camisetas y permitir la compra directa. También muestra interés para poder recibir calificaciones y comentarios sobre sus diseños. Para ella es fundamental que sus creaciones sean ilustradas con fotos y videos, además de que estarían dispuestos a recibir pedidos personales de camisetas.<br/>En cuanto a sus preferencias, menciona que las marcas de camisetas que más le agradan son Gildan y Fruit of the Loom por su calidad y comodidad. Para diseñar, utiliza principalmente una laptop con pantalla gráfica, lo cual le facilita el proceso creativo. Sus programas de edición favoritos son Adobe Illustrator y Procreate, herramientas que considera esenciales para plasmar su estilo de ilustración. Finalmente, señala que se mantiene informada sobre tendencias de moda y novedades principalmente a través de Instagram, Pinterest y páginas especializadas como Dribbble.<br/><br/>Datos adicionales:<br/>Marcas de camisetas preferidas: Gildan y Fruit of the Loom.<br/>Dispositivos usados para diseñar: Laptop y tablet gráfica.<br/>Programas de edición utilizados: Adobe Illustrator y Procreate.<br/>Canales de información sobre tendencias: Instagram, Pinterest y páginas de diseño como Dribbble.<br/><br/>Motivations:<br/> Llegar a más público, facilitar la comunicación directa con clientes, recibir calificaciones/comentarios y mostrar sus camisetas con fotos y videos detallados.<br/>Frustrations:<br/> Falta de plataformas que permitan acuerdos personalizados y exposición visual completa de los productos.<br/>Browsers:<br/> Instagram, Facebook, Behance, Vogue, Pinterest.<br/>Devices:<br/> Laptop con pantalla gráfica. |                                       |
+
+| **Segmento objetivo #2: Usuario general:**                   |                                       |
+| ------------------------------------------------------------ | ------------------------------------- |
+| **Entrevista 1:** Orianka Buitrón                            |                                       |
+| **Sexo:** Femenino                                           | **Edad:** 18 años                     |
+| **Instante en el que inicia:** 8 minutos y 31 segundos       | **Duración:** 3 minutos y 10 segundos |
+| <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf1PdGaxMILg3yA_8F7bXxBEedCaLc8YU3PzETmTpZVeDMKIc7Zq5O4s6vthKsSlLvpSr6D42CGI2bUDGwjyjqj70sY9ju0ZdrBfoA2LbJo4JAa6rQW301QrSYb70jNiyXD5EweNw?key=wLsuErVgqDz-qczrBI4kMctR" alt="img" style="zoom:33%;" /> |                                       |
+| Resumen: <br/>Orianka Buitrón, dijo que había comprado camisetas con diseños ya elaborados pero algunas veces no eran de su agrado. Por ello, quiere poder crear su propio diseño y usar una herramienta que pueda editar. Considera que la calidad de los materiales y el diseño son aspectos clave que influyen directamente en el precio. Aunque no le incomoda un leve retraso en la entrega, valora mucho la rapidez del servicio.<br/>En cuanto a sus preferencias, menciona que suele usar un smartphone para la mayoría de sus compras y actividades. En cuanto a las redes sociales, utiliza principalmente Instagram y Facebook. Se mantiene informada sobre las tendencias de moda y novedades sobre camisetas a través de Instagram, Pinterest y otros sitios especializados en moda.<br/>Datos adicionales:<br/>Marcas de camisetas preferidas: Prefiere calidad sobre marcas específicas.<br/>Dispositivos usados para diseñar o comprar: Smartphone.<br/>Programas de edición utilizados: No especificó programas, pero busca herramientas interactivas para crear diseños personalizados.<br/>Canales de información sobre tendencias: Instagram, Pinterest y sitios especializados en moda.<br/><br/>Motivations:<br/> Crear y personalizar su propio diseño para camisetas, tener control sobre el diseño final, calidad del material.<br/>Frustrations:<br/> Comprar camisetas con diseños que no reflejan su gusto; limitaciones de personalización.<br/>Browsers:<br/> Instagram, Pinterest, TikTok.<br/>Devices:<br/> Smartphone. |                                       |
+| **Entrevista 2:** Daniela Gómez                              |                                       |
+| **Sexo:** Femenino                                           | **Edad:** 18 años                     |
+| **Instante en el que inicia:** 11 minutos y 31 segundos      | **Duración:** 3 minutos y 51 segundos |
+| <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRdnES1HqQV7MP3ofomdsCxpkROwWBhVSlVKZAqmF8j0tKES2PALv-Vqi7qxYRNXDpkUrawsFWAOuQUHj43nBBwosZnpSE6sutan-6N7RWOupcd1q3OZp_azS_OtkmdrQGBF_B?key=wLsuErVgqDz-qczrBI4kMctR" alt="img" style="zoom:25%;" /> |                                       |
+| Resumen:<br/>Daniela Gómez, manifestó haber adquirido camisetas con diseños en ocasiones especiales como conciertos y ferias. Le gustaría poder diseñar y reflejar mejor su estilo y cree que es genial  estar en la posibilidad de editar los diseños. Hizo énfasis en la calidad del material, ya que en el pasado ha tenido malas experiencias con telas de baja calidad, por lo que pagaría entre 50 y 80 soles por una camiseta que posea una excelente durabilidad y apariencia. Aunque considera importante la rapidez en la entrega, no le incomoda un pequeño retraso.<br/>En cuanto a sus preferencias personales, Daniela suele utilizar una laptop para navegar y realizar compras. Entre sus redes sociales favoritas se encuentran Instagram y TikTok, que también usa como fuentes de inspiración. Para mantenerse al tanto de las tendencias de moda y novedades en camisetas, recurre principalmente a Instagram, Pinterest y ocasionalmente a revistas de moda digitales como Vogue y Elle.<br/><br/>Datos adicionales:<br/>Marcas de camisetas preferidas: No especifica, pero prioriza la calidad del material.<br/>Dispositivos usados para diseñar o comprar: Laptop.<br/>Programas de edición utilizados: No mencionó programas específicos, pero se mostró interesada en herramientas de edición dentro de la plataforma.<br/>Canales de información sobre tendencias: Instagram, Pinterest, Vogue, Elle.<br/>Motivations:<br/> Reflejar su estilo personal en el diseño, asegurar calidad en el material, tener camisetas duraderas.<br/>Frustrations:<br/> Malas experiencias pasadas con telas de baja calidad; poca flexibilidad en la edición de diseños.<br/>Browsers:<br/> Instagram, Pinterest, páginas de moda como Vogue.<br/>Devices:<br/> Smartphone. |                                       |
+
+| **Segmento objetivo #3: Marcas o emprendedores:**            |                                       |
+| ------------------------------------------------------------ | ------------------------------------- |
+| **Entrevista 1:** Giuliana Nisbeth                           |                                       |
+| **Sexo:** Femenino                                           | **Edad:** 28 años                     |
+| **Instante en el que inicia:** 15 minutos y 40 segundos      | **Duración:** 3 minutos y 21 segundos |
+| <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfKPIGEErArevHiJgs_f_A22KuQNK3N03_2YzGwz7iuXe53RB_IcpQ2oR86AVBaOSammYfUjEB4cBzo1vRsbnbYi4e7Ri5rtbd4EHSB17yiC7RysHxD__EKkXGdObcpyFRqFfkTTg?key=wLsuErVgqDz-qczrBI4kMctR" alt="img" style="zoom: 33%;" /> |                                       |
+| Resumen:<br/>Giuliana Nisbeth, señala que cualquier persona puede encargar camisetas personalizadas, ya sean para eventos como campeonatos o instituciones. La mayor parte de los encargos se basa en diseños ya existentes o fotos que se encuentran en Internet.  Aunque aceptan tanto diseños externos como propios preestablecidos, se complican cuando los clientes realizan cambios a los últimos detalles sobre el diseño o la cantidad, lo que retrasa los plazos de entrega. Los pedidos actualmente se hacen mayormente por medio de Instagram o WhatsApp.<br/>Respecto a sus herramientas y hábitos de trabajo, Giuliana suele utilizar una laptop para gestionar pedidos y diseñar. Para mantenerse actualizada sobre tendencias de moda y novedades en camisetas, consulta principalmente Instagram, páginas especializadas en moda y plataformas de diseño como Behance. Utiliza Adobe Illustrator y Photoshop como programas de edición, ya que le permiten manejar con precisión los detalles que sus clientes solicitan.<br/><br/>Tipo de clientes: Personas naturales, instituciones educativas, empresas deportivas (campeonatos y eventos especiales).<br/>Principales desafíos: Cambios de último momento en el diseño o la cantidad, afectando los tiempos de entrega.<br/>Dispositivos usados: Laptop.<br/>Programas de edición utilizados: Adobe Illustrator y Photoshop.<br/>Canales de información sobre tendencias: Instagram, Behance, páginas especializadas en moda.<br/><br/>Motivations:<br/> Cumplir pedidos personalizados de clientes variados (eventos, instituciones) de forma eficiente; aceptar tanto diseños propios como externos.<br/>Frustrations:<br/> Cambios de último momento en diseños o cantidades por parte de los clientes, lo que causa retrasos.<br/>Browsers:<br/> Instagram, WhatsApp, Facebook.<br/>Devices:<br/> Smartphone y computadora de escritorio. |                                       |
+| **Entrevista 2:** Lenny Torres                               |                                       |
+| **Sexo:** Masculino                                          | **Edad:** 20 años                     |
+| **Instante en el que inicia:** 18 minutos y 19 minutos       | **Duración:** 3 minutos y 25 segundos |
+| <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf5yTg3jWyNlvVbRc2bhj7siw32FvlzQBF5QDHdo7ujgpFAGrAP_cYMIPZUvKuIiCP3JiWDDcLBz-GKGp1NnIPKJ4dseBM8VvF3grnCpeJikfu4KpGpdTx7Qdk0ykhzfdmwgPCY?key=wLsuErVgqDz-qczrBI4kMctR" alt="img" style="zoom:33%;" /> |                                       |
+| Resumen:<br/>Lenny Torres, afirma que sus clientes principales incluyen tanto instituciones deportivas privadas como públicas, así como varios otros tipos de clubes. Señala la necesidad de satisfacer una gran demanda de camisetas en un corto período de tiempo como el desafío más importante. Su servicio ofrece diseños personalizados, así como la opción de utilizar diseños proporcionados por los clientes, y actualmente gestionan los pedidos a través de procesos predefinidos.<br/>Respecto a sus herramientas de trabajo, Lenny utiliza una computadora de escritorio para coordinar la gestión de pedidos y preparar los diseños. Para estar actualizado en cuanto a tendencias de moda y novedades sobre camisetas, recurre principalmente a Instagram, YouTube y sitios especializados en moda deportiva. Para el diseño y edición de los artes finales, emplea CorelDRAW y Adobe Illustrator, programas que considera eficientes para el flujo de trabajo rápido que su producción requiere.<br/><br/>Datos adicionales:<br/>Tipo de clientes: Instituciones deportivas públicas y privadas, clubes.<br/>Principales desafíos: Atender pedidos grandes en plazos cortos.<br/>Dispositivos usados: Computadora de escritorio.<br/>Programas de edición utilizados: CorelDRAW y Adobe Illustrator.<br/>Canales de información sobre tendencias: Instagram, YouTube, páginas especializadas en moda deportiva.<br/>Motivations:<br/> Atender grandes volúmenes de pedidos en tiempos cortos, ofrecer flexibilidad entre diseños personalizados y predefinidos.<br/>Frustrations:<br/> Presión de tiempos de entrega por alta demanda, complejidad en la producción masiva.<br/>Browsers:<br/> Instagram, YouTube, sitios de moda deportiva.<br/>Devices:<br/>Computadora de escritorio. |                                       |
+
+### 
